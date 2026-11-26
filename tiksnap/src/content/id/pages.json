@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "como-usar",
+    "title": "Cara Mengunduh TikTok Tanpa Watermark",
+    "description": "Panduan langkah demi langkah mengunduh video TikTok tanpa watermark kualitas asli.",
+    "h1": "Cara Mengunduh TikTok Tanpa Watermark",
+    "intro": "Tiga langkah. Kurang dari 10 detik.",
+    "steps": [
+      { "title": "Salin tautan", "text": "Di aplikasi TikTok, tekan Bagikan dan Salin tautan. Tautan pendek vm.tiktok.com dan vt.tiktok.com juga bekerja." },
+      { "title": "Tempel dan cari", "text": "Tempel tautan di atas dan tekan Cari. Kami temukan file asli yang TikTok sajikan publik." },
+      { "title": "Unduh", "text": "Unduh file dalam kualitas aslinya, langsung dari server TikTok ke perangkat Anda." }
+    ]
+  },
+  {
+    "slug": "preguntas-frecuentes",
+    "title": "Pertanyaan Sering",
+    "description": "Jawaban tentang mengunduh TikTok tanpa watermark: kualitas, privasi, batas dan legalitas.",
+    "h1": "Pertanyaan Sering",
+    "intro": "Semua yang perlu Anda ketahui.",
+    "faqs": [
+      { "q": "Apakah legal mengunduh video TikTok dengan TiktoMate?", "a": "Mengunduh konten publik untuk penggunaan pribadi umumnya boleh, tapi konten tetap karya kreator. Beri kredit kreator dan minta izin untuk penggunaan komersial." },
+      { "q": "Apakah saya perlu buat akun atau instal apa pun?", "a": "Tidak. Semua bekerja di browser Anda di desktop, iPhone dan Android. Tidak perlu aplikasi atau ekstensi." },
+      { "q": "Apakah Anda menyimpan video saya di server Anda?", "a": "Tidak. Kami tidak menyimpan apa pun — tidak video, tidak riwayat, tidak pencarian. File langsung dari TikTok ke perangkat Anda." },
+      { "q": "Video diunduh kualitas apa?", "a": "Kualitas persis yang kreator unggah, tanpa rekompresi. Jika diterbitkan 1080p, Anda dapat 1080p." },
+      { "q": "Apakah TiktoMate bekerja di AS dan negara lain?", "a": "Ya. TiktoMate bekerja di AS, UK, Kanada, Australia dan di mana pun TikTok menyajikan konten, tanpa pemblokiran geo." },
+      { "q": "Apa yang dilakukan jika unduhan tidak dimulai?", "a": "Muat ulang halaman dan coba lagi. Pastikan tautan publik dan video masih tersedia di TikTok." },
+      { "q": "Mengapa video terkadang hanya tersedia dengan watermark?", "a": "Beberapa konten hanya disajikan TikTok dengan lapisan watermark. Kami tidak pernah memalsukan salinan bersih yang tidak ada." },
+      { "q": "Apakah bekerja dengan video privat atau akun privat?", "a": "Tidak. Kami hanya akses apa yang TikTok sajikan publik tanpa login. Konten privat dihormati." }
+    ]
+  },
+  {
+    "slug": "acerca-de",
+    "title": "Tentang Kami",
+    "description": "Pelajari tentang TiktoMate, downloader TikTok gratis dan pribadi.",
+    "h1": "Tentang TiktoMate",
+    "intro": "Kami membuat menyimpan konten TikTok publik menjadi simpel, gratis dan pribadi.",
+    "body": "TiktoMate adalah alat independen yang membantu Anda menyimpan video, foto dan audio TikTok publik dalam kualitas asli. Kami tidak menyimpan apa pun dan tidak memerlukan akun. Tujuan kami adalah downloader cepat, jujur yang menghormati kreator dan privasi Anda."
+  },
+  {
+    "slug": "contacto",
+    "title": "Hubungi Kami",
+    "description": "Hubungi tim TiktoMate untuk dukungan atau pertanyaan.",
+    "h1": "Hubungi Kami",
+    "intro": "Punya pertanyaan atau masukan? Hubungi kami.",
+    "body": "Email kami di alamat di bawah. Kami baca setiap pesan dan berusaha balas dalam beberapa hari kerja."
+  },
+  {
+    "slug": "terminos",
+    "title": "Syarat Layanan",
+    "description": "Syarat layanan untuk menggunakan TiktoMate.",
+    "h1": "Syarat Layanan",
+    "intro": "Dengan menggunakan TiktoMate Anda setuju dengan syarat ini.",
+    "body": "TiktoMate hanya memproses konten yang tersedia publik dan tidak menghosting atau menyimpan media. Anda bertanggung jawab mematuhi hukum hak cipta yang berlaku dan syarat TikTok. Anda tidak boleh menggunakan layanan untuk tujuan ilegal. Layanan disediakan apa adanya tanpa jaminan."
+  },
+  {
+    "slug": "privacidad",
+    "title": "Kebijakan Privasi",
+    "description": "Bagaimana TiktoMate menangani privasi Anda.",
+    "h1": "Kebijakan Privasi",
+    "intro": "Kami tidak menyimpan apa pun yang Anda unduh.",
+    "body": "Kami tidak menyimpan video, riwayat pencarian atau data pribadi. Log teknis dasar mungkin diproses untuk mencegah penyalahgunaan dan menjaga keandalan layanan. Kami tidak menjual data. Layanan pihak ketiga yang dipakai mengambil metadata publik diatur oleh kebijakan mereka sendiri."
+  },
+  {
+    "slug": "dmca",
+    "title": "DMCA",
+    "description": "Kebijakan DMCA dan hak cipta untuk TiktoMate.",
+    "h1": "DMCA",
+    "intro": "Kami menghormati hak kekayaan intelektual.",
+    "body": "TiktoMate tidak menghosting konten. Jika Anda percaya karya berhak cipta Anda dilanggar, hubungi kami dengan detail dan kami akan merespons dengan tepat. Pelanggar berulang diblokir dari layanan."
+  },
+  {
+    "slug": "politica-de-cookies",
+    "title": "Kebijakan Cookie",
+    "description": "Bagaimana TiktoMate menggunakan cookie.",
+    "h1": "Kebijakan Cookie",
+    "intro": "Kami hanya menggunakan cookie esensial.",
+    "body": "Kami menggunakan cookie/penyimpanan teknis esensial minimal untuk menjaga layanan bekerja dan mencegah penyalahgunaan. Kami tidak menggunakan cookie iklan. Anda bisa mengontrol cookie di pengaturan browser."
+  }
+]

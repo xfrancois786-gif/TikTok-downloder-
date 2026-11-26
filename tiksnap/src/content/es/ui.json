@@ -1,0 +1,74 @@
+{
+  "nav": { "home": "Inicio", "tools": "Herramientas", "blog": "Blog", "faq": "Preguntas", "about": "Acerca de", "contacto": "Contacto", "howto": "Cómo descargar" },
+  "common": {
+    "download": "Descargar", "search": "Buscar", "loading": "Buscando…", "paste": "Pegar", "clear": "Borrar",
+    "getStarted": "Empezar", "readMore": "Leer más", "backHome": "Volver al inicio", "notFound": "Página no encontrada",
+    "changeLanguage": "Cambiar idioma", "otherTools": "Más herramientas de TiktoMate",
+    "otherToolsLead": "Todo lo que puedes guardar de TikTok, cada formato con su propia herramienta.",
+    "quickLinks": "Enlaces rápidos", "legal": "Legal", "tools": "Herramientas", "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con", "independent": "es un servicio independiente y no está afiliado, patrocinado ni asociado con TikTok o ByteDance Ltd.",
+    "safePrivate": "Seguro y privado", "noReg": "Sin registro", "freeForever": "Descarga rápido. Gratis para siempre."
+  },
+  "hero": {
+    "title": "Descargador de TikTok — Descarga vídeos sin marca de agua · Gratis",
+    "subtitle": "Pega el enlace y descarga en 3 segundos. Vídeo en la calidad original del creador, sin marca de agua y sin recomprimir — un guardador de TikTok online gratis, sin registro y sin app.",
+    "placeholder": "Pega un enlace de TikTok", "invalid": "Esto no parece un enlace de TikTok.", "hd": "Descargar en HD"
+  },
+  "features": [
+    { "title": "Sin marca de agua", "text": "La versión original del creador, la misma que reproduce TikTok en la app." },
+    { "title": "Descargas HD", "text": "Se descarga tal cual se publicó, sin recomprimir." },
+    { "title": "Audio MP3", "text": "Extrae el audio original" },
+    { "title": "Rápido y fácil", "text": "Pega, busca y descarga" },
+    { "title": "100% gratis", "text": "Sin registro ni suscripciones." },
+    { "title": "Privacidad primero", "text": "No guardamos nada que descargues." }
+  ],
+  "steps": {
+    "title": "Descarga un vídeo de TikTok sin marca de agua en 3 pasos",
+    "lead": "Tres pasos. Te llevará menos de 10 segundos.",
+    "items": [
+      { "title": "Copia el enlace", "text": "En la app de TikTok, toca Compartir → Copiar enlace. Los enlaces cortos de vm.tiktok.com y vt.tiktok.com también funcionan." },
+      { "title": "Pega y busca", "text": "Pega el enlace arriba y pulsa Buscar. TiktoMate localiza el archivo original que TikTok sirve públicamente." },
+      { "title": "Descarga", "text": "Descarga el archivo en su calidad original, directo de los servidores de TikTok a tu dispositivo." }
+    ]
+  },
+  "responsible": {
+    "title": "Uso responsable del contenido descargado",
+    "text": "TiktoMate facilita descargar contenido público de TikTok. Los usuarios son responsables de cumplir las leyes de derechos de autor y los términos de servicio de TikTok. Recomendamos uso personal, dar crédito al creador o pedir permiso para uso comercial. No promovemos la infracción de derechos de autor."
+  },
+  "why": {
+    "title": "Descargador de TikTok sin marca de agua: ¿por qué elegir TiktoMate?",
+    "lead": "TiktoMate es un guardador de TikTok gratis y rápido que no almacena nada de lo que descargas.",
+    "items": [
+      { "title": "Sin marca de agua", "text": "Obtienes la versión original del creador, no la copia con el logo del botón guardar." },
+      { "title": "Calidad HD", "text": "El archivo se descarga tal cual se publicó, sin recomprimir." },
+      { "title": "Gratis, sin registro", "text": "Sin cuentas ni suscripciones. Solo una protección antiabuso que el uso normal no nota." },
+      { "title": "Funciona en todo", "text": "iPhone, Android, Windows, Mac, Linux. Cualquier navegador moderno." },
+      { "title": "Privacidad primero", "text": "No guardamos nada. Sin vídeos, historial ni búsquedas." },
+      { "title": "Vídeo a texto", "text": "Pega el enlace y lee lo que se dice, desde los subtítulos automáticos de TikTok." }
+    ]
+  },
+  "guide": {
+    "title": "Guía para descargar vídeos de TikTok sin marca de agua",
+    "lead": "Todo lo que necesitas saber. Sin rodeos.",
+    "sections": [
+      { "h": "¿Por qué guardar vídeos de TikTok?", "p": "El caso más común son los propios creadores: quieren una copia de sus vídeos en calidad original para reutilizarlos sin el logo de otra plataforma, o como respaldo. TikTok no ofrece una forma cómoda de exportar tu contenido limpio; un descargador sí." },
+      { "h": "Descarga sin marca de agua", "p": "Cuando usas el botón Guardar vídeo de la app, TikTok genera una copia con el logo y el @usuario incrustados. Pero la versión que se reproduce en la app no lleva esa capa. TiktoMate localiza ese archivo original y te lo entrega tal cual: sin recodificar ni añadir nada." },
+      { "h": "Funciona en todos los países", "p": "TiktoMate funciona en cualquier país donde TikTok sirva el contenido, en tu móvil o en tu ordenador. No aplicamos bloqueos geográficos. La única excepción: si el creador restringió su vídeo a ciertos países, esa restricción se mantiene." },
+      { "h": "¿Cómo funciona TiktoMate por dentro?", "p": "Cuando pegas un enlace, TiktoMate consulta la publicación como lo haría tu navegador y lee los datos que TikTok expone públicamente. Entre ellos está la dirección del archivo de vídeo original, el mismo que la app transmite." },
+      { "h": "¿Qué calidad obtienes?", "p": "La que subió el creador, ni más ni menos. TikTok almacena MP4 con códec H.264, normalmente 1080×1920. Si se grabó en 720p, no existe copia en 1080p en ningún servidor." },
+      { "h": "Qué NO puede hacer TiktoMate", "p": "Vídeos privados o eliminados: no. Solo accedemos a lo que TikTok sirve públicamente sin iniciar sesión, y no guardamos copias. Tampoco saltamos restricciones de edad o región." },
+      { "h": "Úsalo con responsabilidad", "p": "El contenido sigue siendo obra de su creador. Si lo compartes, da crédito. Para uso comercial, pide permiso primero. Para uso personal o educativo, descarga tranquilo." }
+    ]
+  },
+  "faqSection": {
+    "title": "Preguntas frecuentes sobre descargar TikTok sin marca de agua",
+    "lead": "Respuestas sobre calidad, privacidad, límites y uso legal"
+  },
+  "cta": {
+    "title": "¿Listo para descargar?",
+    "text": "Empieza a descargar tus vídeos de TikTok favoritos sin marca de agua en su calidad original. Sin registro ni instalación."
+  },
+  "footer": {
+    "tagline": "La forma más rápida y segura de descargar vídeos, fotos e historias de TikTok sin marca de agua. 100% gratis, sin registro."
+  }
+}

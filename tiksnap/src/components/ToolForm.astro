@@ -1,0 +1,75 @@
+---
+/** Interactive download form. Calls /api/extract (API-only backend). */
+import { getUi } from '../lib/content';
+interface Props { locale: string }
+const { locale } = Astro.props;
+const ui = getUi(locale);
+---
+
+<div class="dl-form" id="dl">
+  <form class="dl-row" id="dl-form">
+    <input
+      class="dl-input"
+      id="dl-input"
+      type="text"
+      inputmode="url"
+      autocomplete="off"
+      placeholder={ui.hero.placeholder}
+      aria-label="TikTok URL"
+    />
+    <button class="dl-btn" id="dl-btn" type="submit">{ui.hero.hd}</button>
+  </form>
+  <div class="dl-msg" id="dl-msg" role="status" aria-live="polite"></div>
+  <div id="dl-result"></div>
+</div>
+
+<script>
+  const form = document.getElementById('dl-form') as HTMLFormElement;
+  const input = document.getElementById('dl-input') as HTMLInputElement;
+  const btn = document.getElementById('dl-btn') as HTMLButtonElement;
+  const msg = document.getElementById('dl-msg') as HTMLElement;
+  const result = document.getElementById('dl-result') as HTMLElement;
+
+  function setMsg(text: string, isError = false) {
+    msg.textContent = text;
+    msg.className = 'dl-msg' + (isError ? ' error' : '');
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const url = input.value.trim();
+    result.innerHTML = '';
+    if (!/tiktok\.com/i.test(url)) {
+      setMsg('This doesn’t look like a TikTok link.', true);
+      return;
+    }
+    btn.disabled = true;
+    setMsg('Searching…');
+    try {
+      const res = await fetch('/api/extract', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url }),
+      });
+      const json = await res.json();
+      if (!res.ok || !json.ok || !json.video) {
+        setMsg(json.error || 'Could not read this video.', true);
+        return;
+      }
+      setMsg('');
+      const v = json.video;
+      result.innerHTML = `
+        <div class="dl-result">
+          <video src="${v.url}" poster="${v.cover || ''}" controls playsinline></video>
+          <div class="dl-actions">
+            <a class="dl-btn" href="${v.url}" download="tiktok_${v.id}.mp4">Download</a>
+            ${v.music ? `<a class="dl-btn" style="background:var(--card);border:1px solid var(--border)" href="${v.music}" download="tiktok_${v.id}.mp3">MP3</a>` : ''}
+          </div>
+        </div>`;
+    } catch {
+      setMsg('Network error. Please try again.', true);
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script>

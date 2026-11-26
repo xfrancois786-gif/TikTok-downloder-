@@ -1,0 +1,43 @@
+---
+import { LOCALES, DEFAULT_LOCALE, absoluteUrl } from '../lib/i18n';
+import { SITE } from '../data/site';
+
+interface Props {
+  title: string;
+  description: string;
+  route: string;
+  locale: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+}
+
+const { title, description, route, locale, jsonLd } = Astro.props;
+const current = LOCALES.find((l) => l.code === locale) ?? LOCALES[0];
+const canonical = absoluteUrl(SITE.url, current, route);
+const hreflangs = LOCALES.map((l) => ({ code: l.code, url: absoluteUrl(SITE.url, l, route) }));
+const xDefault = absoluteUrl(SITE.url, LOCALES.find((l) => l.code === DEFAULT_LOCALE)!, route);
+const ld = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const fullTitle = title.includes(SITE.name) ? title : `${title} — ${SITE.name}`;
+---
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+
+{hreflangs.map((h) => <link rel="alternate" hreflang={h.code} href={h.url} />)}
+<link rel="alternate" hreflang="x-default" href={xDefault} />
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:site_name" content={SITE.name} />
+<meta property="og:locale" content={current.code} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+
+{ld.length > 0 && (
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(ld.length === 1 ? ld[0] : ld)}></script>
+)}

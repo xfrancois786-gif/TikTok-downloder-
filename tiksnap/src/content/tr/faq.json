@@ -1,0 +1,53 @@
+{
+  "title": "Sıkça Sorulan Sorular",
+  "description": "TiktoMate hakkında bilmeniz gereken her şey: nasıl çalıştığı, neyin yasal olduğu, gizliliğinizi nasıl koruduğumuz ve bir şeyler ters gittiğinde ne yapacağınız.",
+  "h1": "Sıkça Sorulan Sorular",
+  "intro": "TiktoMate hakkında bilmeniz gereken her şey: nasıl çalıştığı, neyin yasal olduğu, gizliliğinizi nasıl koruduğumuz ve bir şeyler ters gittiğinde ne yapacağınız.",
+  "categories": [
+    {
+      "name": "Genel",
+      "blurb": "Temeller: TiktoMate nedir, ne kadara mal olur ve hangi cihazlarda kullanabilirsiniz.",
+      "faqs": [
+        { "q": "TiktoMate nedir ve ne işe yarar?", "a": "TiktoMate, filigransız ve orijinal kalitede genel TikTok videolarını, fotoğraflarını ve seslerini kaydeden ücretsiz bir web aracıdır. Bir bağlantıyı yapıştırır ve yaratıcının yüklediği temiz dosyayı indirirsiniz — hesap yok, uygulama yok." },
+        { "q": "TiktoMate gerçekten ücretsiz mi?", "a": "Evet. Tüm özellikler ücretsizdir; premium katman, abonelik ve indirmeler arasında yapay bekleme yoktur. Normal kullanımda fark edilmeyen arka planda otomatik bir kötüye kullanım koruması çalışır." },
+        { "q": "Günlük indirme sınırı var mı?", "a": "Normal kullanım için sabit bir günlük kota yoktur. Hizmeti güvenilir tutmak için yalnızca otomatik bir kötüye kullanım koruması uygularız; günlük indirme hiçbir zaman etkilenmez." },
+        { "q": "Hesap oluşturmam veya giriş yapmam gerekir mi?", "a": "Hayır. Hesap yok, kayıt yok, giriş yok. Bir bağlantıyı yapıştırır ve indirirsiniz, başka bir şey yok." },
+        { "q": "Her cihaz ve işletim sisteminde çalışır mı?", "a": "Evet. TiktoMate iPhone, iPad, Android, Windows, Mac, Linux ve Chromebook'ta herhangi bir modern tarayıcıda çalışır — kurulacak hiçbir şey yok." },
+        { "q": "TiktoMate'te neden reklam var?", "a": "Reklamlar (varsa) hizmetin ücretsiz kalabilmesi için maliyetini karşılar. Asla sizinle indirmeniz arasına girmezler ve açılır pencere veya sahte indirme düğmeleri yoktur." }
+      ]
+    },
+    {
+      "name": "Yasallık ve telif hakkı",
+      "blurb": "İndirdiğiniz içerikle neler yapıp yapamayacağınız ve yaratıcılara nasıl saygı gösterdiğimiz.",
+      "faqs": [
+        { "q": "TikTok videolarını indirmek yasal mı?", "a": "Kişisel, çevrimdışı kullanım için genel içeriği kaydetmek birçok yerde büyük ölçüde kabul görür, ancak video yaratıcının eseri olmaya devam eder. Ticari yeniden kullanım yaratıcının iznini gerektirir ve telif hakkı yasalarına ve TikTok'un koşullarına uymalıdır." },
+        { "q": "Başkalarının videolarını kendi hesaplarımda yeniden yayınlayabilir miyim?", "a": "Yalnızca yaratıcının izniyle ve kredi vererek. Başkasının içeriğini izinsiz kendinizinmiş gibi yeniden yayınlamak telif hakkını ve TikTok'un kurallarını ihlal edebilir." },
+        { "q": "Ben bir yaratıcıyım ve biri videomu indirdi. Ne yapabilirim?", "a": "İçeriğiniz izinsiz yeniden kullanılıyorsa, göründüğü platformla iletişime geçin ve telif hakkı/DMCA talebi gönderin. TiktoMate yalnızca genel içerikle çalışır ve kopya tutmaz, bu yüzden başkalarının cihazlarındaki dosyaları kaldıramayız." },
+        { "q": "TiktoMate TikTok veya ByteDance ile bağlantılı mı?", "a": "Hayır. TiktoMate bağımsız bir hizmettir ve TikTok veya ByteDance Ltd. ile bağlantılı, sponsorlu veya ilişkili değildir." },
+        { "q": "Özel hesaplardan video indirebilir miyim?", "a": "Hayır. Yalnızca TikTok'un giriş yapmadan genel olarak sunduğu içeriğe erişiriz. Özel veya kısıtlı içerik saygıyla karşılanır ve indirilemez." }
+      ]
+    },
+    {
+      "name": "Gizlilik ve güvenlik",
+      "blurb": "Hangi verilere dokunduğumuz, dokunmadıklarımız ve TiktoMate'ı neden gönül rahatlığıyla kullanabileceğiniz.",
+      "faqs": [
+        { "q": "TiktoMate videolarımı veya yapıştırdığım bağlantıları saklıyor mu?", "a": "Hayır. Video, geçmiş veya arama saklamayız. Dosya, arada hiçbir şey tutulmadan doğrudan TikTok'un sunucularından cihazınıza gider." },
+        { "q": "Cihazıma bir şey kurmam gerekir mi?", "a": "Hayır. TiktoMate tamamen web tabanlıdır — uygulama, uzantı veya kurulacak yazılım yok." },
+        { "q": "TiktoMate kullanmak güvenli mi?", "a": "Evet. Sahte indirme düğmeleri, kötü amaçlı yazılım ve kayıt yok. Yalnızca istediğiniz medya dosyasını indirirsiniz." },
+        { "q": "TiktoMate hangi çerezleri kullanır?", "a": "Yalnızca hizmetin çalışmasını sağlamak ve kötüye kullanımı önlemek için temel teknik depolama. Reklam veya takip çerezleri kullanmıyoruz." },
+        { "q": "Kullanıcılardan kişisel veri topluyor musunuz?", "a": "Kişisel veri toplamıyor veya satmıyoruz. Kötüye kullanımı önlemek ve hizmeti güvenilir tutmak için temel teknik günlükler işlenebilir." }
+      ]
+    },
+    {
+      "name": "Yaygın sorunlar",
+      "blurb": "Bir şeyler beklendiği gibi gitmezse, çözüm büyük ihtimalle tam burada.",
+      "faqs": [
+        { "q": "Yapıştırdığım bağlantı çalışmıyor. Ne yapmalıyım?", "a": "Uygulamadaki Paylaş → Bağlantıyı kopyala seçeneğinden kopyalayın. Uzun tiktok.com bağlantıları ve kısa vm.tiktok.com / vt.tiktok.com bağlantıları çalışır; başka yerde kısaltılmış veya profil/hashtaglere işaret eden bağlantılar çalışmaz. URL belirli bir gönderiye işaret etmelidir." },
+        { "q": "İndirilen videoda logo veya işaret var. Neden?", "a": "Bazı gönderiler TikTok tarafından yalnızca filigran katmanıyla sunulur. Gerçekte var olan en temiz sürümü sunarız ve TikTok'un sağlamadığı filigransız bir kopyayı asla sahtelemeyiz." },
+        { "q": "iPhone'da video indirmek yerine tarayıcıda açılıyor", "a": "Safari kullanın — iOS'ta indirmeleri işleyen tarayıcı odur. Sekme açılırsa paylaş simgesine dokunun ve Videoyu Kaydet'i seçin veya videoya uzun basın ve İndir'i seçin. Dosyaların nereye gittiğini görmek için Ayarlar → Safari → İndirilenler'i kontrol edin." },
+        { "q": "Video mevcut değil veya kaldırılmış diyor", "a": "Video muhtemelen silindi, özel yapıldı veya kısıtlandı. Giriş yapmadan TikTok'ta açılmıyorsa, indirilebilecek genel bir şey yoktur — TiktoMate kopya tutmaz." },
+        { "q": "Hata nasıl bildirilir veya iyileştirme önerilir?", "a": "İletişim sayfasından başarısız olan bağlantı ve kısa bir açıklama ile bize ulaşın. Her mesajı okur ve hizmeti geliştirmek için kullanırız." }
+      ]
+    }
+  ]
+}

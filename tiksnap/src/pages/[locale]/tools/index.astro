@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getUi, getTools } from '../../../lib/content';
+import { TOOLS } from '../../../data/tools';
+import { localizedPath, localeParams, DEFAULT_LOCALE, localeFor } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  return localeParams().map((p) => ({ params: p }));
+}
+
+const locale = Astro.params.locale ?? DEFAULT_LOCALE;
+const route = '/tools';
+const ui = getUi(locale);
+const toolCopy = getTools(locale);
+const current = localeFor(locale)!;
+const title = 'TikTok Downloader Tools — Free, No Watermark';
+const description = 'All TiktoMate tools: download TikTok videos, photos, audio, stories, carousels and more — free, no watermark.';
+
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: TOOLS.map((t, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: toolCopy[t.slug]?.h1 ?? t.h1,
+    url: localizedPath(current, `/tools/${t.slug}`),
+  })),
+};
+---
+
+<BaseLayout locale={locale} route={route} title={title} description={description} jsonLd={[itemListLd]}>
+  <div class="crumbs"><a href={localizedPath(current, '/')}>{ui.nav.home}</a> / {ui.nav.tools}</div>
+  <section class="section" style="margin-top:0">
+    <h1 style="font-size:clamp(26px,4vw,38px);margin:0 0 8px">TikTok Downloader Tools</h1>
+    <p class="lead">Every format, one free downloader. No watermark, no signup.</p>
+    <div class="grid tool-grid">
+      {TOOLS.map((t) => (
+        <a class="card tool-card" href={localizedPath(current, `/tools/${t.slug}`)}>
+          <h3>{toolCopy[t.slug]?.h1 ?? t.h1}</h3>
+          <p>{toolCopy[t.slug]?.intro ?? ''}</p>
+          <span class="go">Open →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

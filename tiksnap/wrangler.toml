@@ -1,0 +1,12 @@
+name = "tikto-mate"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "./dist"
+
+# API-only backend. The Worker proxies /api/extract to your download API so no
+# media bytes ever transit Cloudflare (bandwidth stays ~0). Set the secret:
+#   wrangler secret put DOWNLOAD_API_URL
+#   wrangler secret put DOWNLOAD_API_KEY
+[vars]
+# Public site origin (used for canonical/sitemap absolute URLs)
+SITE_URL = "https://example.com"

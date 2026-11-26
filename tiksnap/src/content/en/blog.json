@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "como-guardar-tiktok-sin-marca-de-agua",
+    "title": "How to Save TikTok Without Watermark (2026 Guide)",
+    "description": "A complete guide to saving TikTok videos without the watermark in original quality on any device.",
+    "date": "2026-11-01",
+    "author": "TiktoMate",
+    "intro": "Saving a clean copy of a TikTok is easier than most people think — here's exactly how it works and what to expect.",
+    "sections": [
+      { "h": "Why the in-app save has a watermark", "p": "When you use TikTok's own Save button, the app generates a copy with the logo and @username baked in. The version that plays inside the app — the one the creator uploaded — has no such layer." },
+      { "h": "How a downloader gets the clean file", "p": "A downloader reads the public metadata TikTok exposes for playback, finds the original file URL, and lets your browser fetch it directly. No re-encoding, no quality loss." },
+      { "h": "Step by step", "p": "Copy the video link, paste it into the downloader, press search, and download. The file arrives in the exact quality the creator published." }
+    ]
+  },
+  {
+    "slug": "tiktok-hd-original-quality",
+    "title": "TikTok HD: Getting Original Quality Downloads",
+    "description": "Understand TikTok resolution, HD vs HDR, and how to download the true original quality.",
+    "date": "2026-11-03",
+    "author": "TiktoMate",
+    "intro": "Quality claims are everywhere. Here's the honest truth about what resolution you can actually get.",
+    "sections": [
+      { "h": "What quality exists", "p": "TikTok stores MP4 with H.264, usually 1080x1920 for recent mobile uploads. If the creator uploaded in 720p, no 1080p copy exists anywhere." },
+      { "h": "No magic upscaling", "p": "No downloader can improve on the original. Anyone promising to 'enhance' resolution is rescaling, which only inflates file size and blurs the image." },
+      { "h": "Getting the best file", "p": "A good downloader picks the best available version of the original file and delivers it without intermediate processing." }
+    ]
+  },
+  {
+    "slug": "descargar-audio-mp3-tiktok",
+    "title": "How to Download TikTok Audio as MP3",
+    "description": "Extract the original sound from any TikTok and save it as a standalone MP3.",
+    "date": "2026-11-05",
+    "author": "TiktoMate",
+    "intro": "Want just the sound? Here's how to pull the original audio from a TikTok.",
+    "sections": [
+      { "h": "Finding the original sound", "p": "Every TikTok references its soundtrack. A downloader can resolve that to the audio track the app plays." },
+      { "h": "Saving as MP3", "p": "Once resolved, the audio can be saved as an MP3 you can reuse, archiving it for personal or educational use." },
+      { "h": "Respect the creator", "p": "The sound is still the creator's work. Give credit and get permission for commercial reuse." }
+    ]
+  },
+  {
+    "slug": "tiktok-photo-carousel-download",
+    "title": "Downloading TikTok Photo Carousels",
+    "description": "Save every image in a TikTok photo carousel in full resolution.",
+    "date": "2026-11-07",
+    "author": "TiktoMate",
+    "intro": "Photo posts are everywhere on TikTok. Here's how to save all the slides.",
+    "sections": [
+      { "h": "What a carousel is", "p": "A carousel is a TikTok post made of multiple images the creator uploaded, often at full camera resolution." },
+      { "h": "Downloading each slide", "p": "A downloader lists every image in the post so you can save them individually at original quality." },
+      { "h": "Use responsibly", "p": "These images belong to the creator. Personal archiving is fine; commercial use needs permission." }
+    ]
+  },
+  {
+    "slug": "tiktok-on-iphone-android-pc",
+    "title": "Download TikTok on iPhone, Android and PC",
+    "description": "How to save TikTok videos without watermark on every device and browser.",
+    "date": "2026-11-09",
+    "author": "TiktoMate",
+    "intro": "No matter your device, the process is the same — no app required.",
+    "sections": [
+      { "h": "iPhone (Safari)", "p": "Copy the link in the TikTok app, open the downloader in Safari, paste and download. The file saves to Files or Downloads." },
+      { "h": "Android (Chrome)", "p": "Same flow in Chrome. The video lands in your Downloads folder, ready to share or edit." },
+      { "h": "Desktop (any OS)", "p": "Paste the link into any modern browser on Windows, Mac or Linux. Nothing to install." }
+    ]
+  },
+  {
+    "slug": "is-downloading-tiktok-legal",
+    "title": "Is Downloading TikTok Videos Legal?",
+    "description": "A plain-language look at copyright, personal use and creator rights when downloading TikTok.",
+    "date": "2026-11-11",
+    "author": "TiktoMate",
+    "intro": "The short answer: it depends on what you do with the file. Here's the nuance.",
+    "sections": [
+      { "h": "Personal use", "p": "Saving public content for personal, offline viewing is broadly accepted in many places, but the work still belongs to the creator." },
+      { "h": "Giving credit", "p": "If you repost, credit the creator with their @ handle. It's a simple gesture that respects their work." },
+      { "h": "Commercial use", "p": "For ads, brand accounts or monetized content, ask permission first. Most creators respond to a direct message." }
+    ]
+  }
+]

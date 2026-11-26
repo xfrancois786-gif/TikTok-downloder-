@@ -1,0 +1,94 @@
+{
+  "como-usar": {
+    "title": "iPhone, Android ve PC'de TikTok Videolarını Filigransız İndirme",
+    "description": "Herhangi bir cihazda filigransız TikTok videolarını indirmek için adım adım rehber; iPhone, Android ve bilgisayar için özel talimatlar: dosyaların nereye gittiği, hangi izinlerin isteneceği ve en yaygın sorunların nasıl çözüleceği.",
+    "h1": "iPhone, Android ve PC'de TikTok Videolarını Filigransız İndirme",
+    "intro": "Herhangi bir cihazda filigransız TikTok videolarını indirmek için adım adım rehber; iPhone, Android ve bilgisayar için özel talimatlar: dosyaların nereye gittiği, hangi izinlerin isteneceği ve en yaygın sorunların nasıl çözüleceği.",
+    "stats": [
+      { "value": "30 sn", "label": "Ortalama süre" },
+      { "value": "100%", "label": "Güvenli ve gizli" },
+      { "value": "HD", "label": "Maksimum kalite" }
+    ],
+    "stepsTitle": "Her Cihazdan 4 Adımda İndirin",
+    "stepsLead": "Aynı yöntem PC, Mac, Android, iPhone ve tabletlerde çalışır.",
+    "steps": [
+      { "title": "TikTok'u açın", "text": "Kaydetmek istediğiniz videoyu, karuseli veya hikâyeyi uygulamada veya tiktok.com'da bulun" },
+      { "title": "Bağlantıyı kopyalayın", "text": "'Paylaş' → 'Bağlantıyı kopyala'ya dokunun. Uygulamanın kısa bağlantıları da çalışır" },
+      { "title": "TiktoMate'e yapıştırın", "text": "URL'yi yukarıya yapıştırın ve gönderiyi analiz etmek için 'Ara'ya basın" },
+      { "title": "İndirin", "text": "HD Video, MP3 veya görselleri seçin. Dosya doğrudan cihazınıza gider" }
+    ],
+    "devicesTitle": "Cihaza Göre Detaylı Rehber",
+    "devicesLead": "Her platform için özel talimatlar. Kendinizininkini seçin ve adımları izleyin.",
+    "devices": [
+      {
+        "name": "PC'de (Windows, Mac, Linux)",
+        "steps": [
+          "Tarayıcınızda (Chrome, Firefox, Edge veya Safari) tiktok.com'u açın ve videoyu bulun. Telefonunuzda fark ettiyseniz, bağlantıyı WhatsApp veya Telegram üzerinden kendinize gönderin ve bilgisayarda açın.",
+          "URL'yi adres çubuğundan doğrudan kopyalayın veya videonun kendi 'Paylaş' → 'Bağlantıyı kopyala' düğmesini kullanın.",
+          "TiktoMate'e gidin, bağlantıyı Ctrl+V (Mac'te Cmd+V) ile yapıştırın ve 'Ara'ya basın.",
+          "HD Video veya MP3 Ses'i seçin. Dosya .mp4 veya .mp3 uzantısıyla İndirilenler klasörünüze iner ve oradan doğrudan düzenleyicinize (CapCut, Premiere, DaVinci) veya istediğiniz herhangi bir klasöre sürükleyebilirsiniz.",
+          "Video indirmek yerine yeni bir tarayıcı sekmesinde açılırsa, resme sağ tıklayın ve istediğiniz yere kaydetmek için 'Videoyu farklı kaydet...' seçeneğini seçin."
+        ],
+        "tip": "Tarayıcının indirme paneli (Windows ve Linux'ta Ctrl+J) az önce kaydettiğiniz dosyayı klasörüne kısayoluyla gösterir; bulamazsanız işinize yarar."
+      },
+      {
+        "name": "Android'de",
+        "steps": [
+          "TikTok'u açın, videoyu bulun ve 'Paylaş' → 'Bağlantıyı kopyala'ya dokunun.",
+          "Chrome'u (veya usual tarayıcınızı) açın, TiktoMate'e gidin ve yapıştırmak için arama alanına uzun basın.",
+          "'Ara'ya dokunun ve formatınızı seçin. İlk kez tarayıcı dosya indirme veya depolama erişimi izni isteyebilir: kabul edin — yalnızca bir kez sorar.",
+          "Dosya dahili depolamanızın 'İndirilenler' klasörüne iner. MP4 videolar sistem indekslediği anda, genellikle saniyeler içinde Galeri uygulamanızda veya Google Fotoğraflar'da görünür.",
+          "Galeride göremiyorsanız, telefonunuzun 'Dosyalar' uygulamasını açın, 'İndirilenler'e gidin ve oradan açın; isterseniz düzenli tutmak için 'Filmler' veya 'DCIM' gibi başka bir klasöre de taşıyabilirsiniz."
+        ],
+        "tip": "Arka arkaya birkaç dosya indirdiniz — örneğin bir karuselin fotoğraflarını? Chrome'da üç nokta → 'İndirilenler'e dokunarak tarayıcıdan çıkmadan hepsini görün."
+      },
+      {
+        "name": "iPhone veya iPad'de",
+        "steps": [
+          "TikTok'u açın, videoyu bulun ve 'Paylaş' → 'Bağlantıyı kopyala'ya dokunun.",
+          "Safari'yi açın. iOS'ta dosya indirmelerini işleyen tarayıcı Safari'dir; diğer tarayıcılar kaydetme seçeneği sunmayabilir.",
+          "TiktoMate'e gidin, arama alanına uzun basın, 'Yapıştır'a dokunun ve ardından 'Ara'ya basın.",
+          "'İndir'e dokunun. Safari onay ister ve kabul ettiğinizde adres çubuğunun yanında ilerlemeyi gösteren bir indirme oku belirir.",
+          "Dosya Dosyalar uygulamasına, ayarlarınıza bağlı olarak 'iPhone'da' veya iCloud Drive altında 'İndirilenler' klasörüne kaydedilir.",
+          "Galeriye taşımak için: Dosyalar'ı açın, videoya uzun basın, 'Paylaş'ı seçin ve 'Videoyu Kaydet'i seçin. iOS ilk kez Fotoğraflara erişim izni ister; sonrasında video kamera rulonuzda diğerleri gibi görünür."
+        ],
+        "tip": "Ayarlar → Safari → İndirilenler yolunda iCloud Drive yerine 'iPhone'da' seçebilirsiniz, böylece indirmeler iCloud depolama alanınızı tüketmez."
+      }
+    ],
+    "featuresTitle": "TiktoMate'in Özellikleri ve Avantajları",
+    "features": [
+      { "title": "Kayıt Yok, Yapay Kotalar Yok", "text": "Premium hesaplar ve bir indirme ile sonraki arasında yapay bekleme olmadan videolarınızı indirin. Yalnızca normal kullanımda hiçbir zaman tetiklenmeyen otomatik bir kötüye kullanım koruması vardır." },
+      { "title": "Orijinal HD Kalite", "text": "Uygulamada TikTok'un oynattığı aynı dosyayı, yeniden sıkıştırma olmadan alırsınız. Yaratıcı 1080p yayınladıysa, 1080p indirirsiniz; daha düşük yüklediyse, var olan gerçek kalite odur." },
+      { "title": "MP3 Ses Çıkarma", "text": "Herhangi bir videonun ses parçasını MP3 olarak alın: müzik, ses efektleri, sesler veya podcast klipleri. Kurulacak dönüştürücü yok, geçilecek üçüncü taraf program yok." },
+      { "title": "Fotoğraflar ve Karuseller", "text": "Slaytlar yüksek çözünürlüklü JPG olarak tek tek indirilir, ses ayrıca MP3 olarak mevcuttur. (Hareketli slaytlar) Canlı Fotoğraflar da algılanır ve MP4'lerini kaydedebilirsiniz." }
+    ],
+    "formatsTitle": "Hangi Formatları İndirebilirsiniz",
+    "formats": [
+      { "title": "HD'de MP4 Video", "text": "H.264 codec'li tek bir MP4 dosyasında görüntü ve ses içeren tam video — TikTok'un kullandığı ve her cihazın, düzenleyicinin ve platformun dönüştürme olmadan tanıdığı standart. Uygulamanın kaydet düğmesinin oluşturduğu logo damgalı kopya değil, yaratıcının orijinal sürümü olduğu için filigransız veya @kullanıcı adı olmadan indirilir. Yayınlanan içeriğe bağlı olarak 1080p'ye kadar. CapCut veya Premiere'de düzenleme, arşivleme veya yazarın izni ve kredisiyle Reels ve Shorts'a yeniden yayınlama için harika." },
+      { "title": "MP3 Ses", "text": "Ses parçası çıkarılıp MP3 olarak sunulan yalnızca videonun sesi — her telefonun, bilgisayarın veya araba teybinin çaldığı format. Viral şarkılar, ses efektleri, podcast klipleri veya sesler için mükemmel. İki şeye dikkat: sesi o belirli videoda duyduğunuz tam haliyle alırsınız, yaratıcının eklediği sesler veya mikslerle birlikte; ve son kalite orijinal parçaya bağlıdır, çünkü çıkarma olmayanı oluşturamaz." },
+      { "title": "Karusellerden JPG Görseller", "text": "Bir slayt veya karusel bağlantısını yapıştırdığınızda, TiktoMate her görseli algılar ve yüksek çözünürlüklü JPG olarak tek tek indirmenize izin verir. Karusel bir MP4 değildir: TikTok onu ayrı görseller artı bir ses parçası olarak yayınlar, bu yüzden sesi de tek başına MP3 olarak alabilirsiniz. Ve ilk slayt hareketliyse, Canlı Fotoğraftır: hem hareketsiz fotoğrafı hem de animasyonlu kısa MP4 videosunu kaydedebilirsiniz." }
+    ],
+    "resolutionTitle": "Çözünürlüğü Ne Belirler?",
+    "resolution": "Yaratıcının yüklediği — başka hiçbir şey. TikTok videoyu orijinal gönderinin çözünürlüğünde (dikey çekilmişse yakın tarihli bir telefonda 1080×1920) tutar ve TiktoMate mevcut en iyi sürümünü bulur. Video 720p çekildiyse, üçüncü taraf bir uygulamadan gönderildiyse veya TikTok tarafından yeniden sıkıştırıldıysa, hiçbir sunucuda 1080p kopya yoktur ve hiçbir dürüst indirici bir tane üretemez: yükseltme yalnızca dosya boyutunu şişirir ve görüntüyü bulanıklaştırır.",
+    "troubleTitle": "Yaygın Sorunların Çözümleri",
+    "troubleshooting": [
+      { "q": "İndirme başlamıyor", "a": "Önce şunu kontrol edin: video genel mi ve bağlantı bir profile değil, belirli bir gönderiye mi işaret ediyor. iPhone'da Safari kullanın — iOS'ta indirmeleri işleyen tarayıcı odur. 'İndir'e dokunduğunuzda hiçbir şey olmuyorsa, tarayıcınız muhtemelen indirmeyi engellemiştir: adres çubuğunun yanındaki bildirimi arayın ve izin verin. Son çare olarak bağlantıyı TikTok'un Paylaş düğmesinden tekrar kopyalayın ve süreci baştan yapın." },
+      { "q": "Video bulanık veya düşük kaliteli görünüyor", "a": "TiktoMate o video için TikTok'un sunduğu en yüksek kaliteyi, yeniden sıkıştırmadan indirir. Orijinal düşük çözünürlükte yüklendiyse, hiçbir sunucuda daha iyi bir kopya yoktur ve hiçbir araç bir tane icat edemez. Videoyu uygulamanın içinde nasıl göründüğünü kontrol edin: orada da keskin değilse, dosyanın gerçek kalitesi odur." },
+      { "q": "TikTok bağlantısı tanınmıyor", "a": "Bağlantıyı Paylaş düğmesinin 'Bağlantıyı kopyala' seçeneğinden kopyalayın. Uzun bağlantılar (https://www.tiktok.com/@kullanıcıadı/video/...) çalışır, mobil uygulamanın ürettiği kısa olanlar (vm.tiktok.com ve vt.tiktok.com) da. Çalışmayanlar: başka hizmetler üzerinden (bit.ly gibi) yeniden kısaltılmış bağlantılar veya profil/hashtag bağlantıları — URL belirli bir gönderiye işaret etmelidir." },
+      { "q": "Kısa vm.tiktok.com veya vt.tiktok.com bağlantısı hata veriyor", "a": "Bu kısa bağlantılar mobil uygulama tarafından paylaşırken üretilir ve TiktoMate bunları otomatik olarak kabul edip çözümler. Belirli bir bağlantı başarısız olursa, genellikle eksik kopyalandığı veya TikTok'un yönlendirmesinin süresi dolduğu içindir. Hızlı çözüm: bağlantıyı tarayıcınızda açarak videoya ulaşın, adres çubuğundan uzun URL'yi kopyalayın ve onu TiktoMate'e yapıştırın." },
+      { "q": "MP4 bekliyordum ama dağınık fotoğraflar aldım", "a": "O zaman gönderi bir video değil, karuseldir. TikTok slaytları ayrı JPG görseller ve ses parçası olarak yayınlar ve biz de öyle sunarız: her fotoğraf tek tek ve isterseniz ses MP3 olarak. Başarısız bir indirme değil; içeriğin gerçekten var olduğu formattır." },
+      { "q": "İndirme yarıda kesiliyor", "a": "Dengesiz bir bağlantıda tarayıcı aktarımı kesebilir ve oynatılmayan eksik bir dosya bırakabilir. O dosyayı silin, bağlantınızı kontrol edin (veya mobil veriden WiFi'ye geçin) ve tekrar indirin. Bilgisayarda birçok tarayıcı, baştan başlamak yerine indirme panelinden kesintiye uğramış bir indirmeyi sürdürmenize izin verir." },
+      { "q": "Video özeldi veya artık mevcut değil", "a": "Yaratıcı videoyu sildiyse, özel yaptıysa veya kimlerin görebileceğini kısıtladıysa, TikTok dosyayı sunmayı durdurur ve indirilecek bir şey kalmaz: TiktoMate yalnızca genel içeriğe erişir ve tasarım gereği kopya tutmaz. Kontrol basittir: bağlantı giriş yapmadan TikTok'ta videoyu açmıyorsa, hiçbir meşru araç indiremez." },
+      { "q": "Tarayıcı otomatik indirmeyi engelliyor", "a": "Bazı tarayıcılar, özellikle arka arkaya birkaç dosya kaydettiğinizde — karusellerde tipik — bir web sitesi indirme başlattığında onay ister. Adres çubuğunun yanındaki bildirimi arayın ve 'İzin ver'i seçin. iPhone'daki Safari'de 'İndir' düğmeli onay iletişim kutusu sistemin normal davranışdır, bir hata değildir." }
+    ],
+    "faqTitle": "Nasıl İndirilir Hakkında Sıkça Sorulan Sorular",
+    "faqLead": "",
+    "faqs": [
+      { "q": "TikTok videolarını telefonuma indirebilir miyim?", "a": "Evet, TiktoMate tarayıcıdan doğrudan her telefonda çalışır, kurulacak hiçbir şey yok. Android'de dosyalar İndirilenler klasörüne gider ve videolar sistem indekslediği anda galerinizde görünür. iPhone'da Safari kullanın: dosyalar Dosyalar uygulamasına kaydedilir ve oradan 'Paylaş' → 'Videoyu Kaydet' ile Fotoğraflara taşıyabilirsiniz." },
+      { "q": "Bir uygulama kurmam gerekir mi?", "a": "Hayır. TiktoMate %100 web tabanlı bir araçtır: Chrome, Safari, Firefox veya Edge gibi modern bir tarayıcı yeterli. Kayıt yok, kurulum yok, uzantı yok — tam olarak bu yüzden telefonda, tablette veya bilgisayarda aynı şekilde çalışır." },
+      { "q": "İndirme ne kadar sürer?", "a": "Bağlantınıza ve videonun uzunluğuna bağlıdır. Bağlantıyı analiz etmek pratikte anında gerçekleşir ve indirme TikTok'un sunucularından doğrudan cihazınıza gider, ara adım veya kuyruk yoktur — bu yüzden genellikle dakikalar değil saniyelerden bahsediyoruz. Yavaş bir bağlantıda uzun bir video, diğer her indirme gibi daha uzun sürer." },
+      { "q": "İndirilen dosya nereye kaydedilir?", "a": "PC ve Mac'te tarayıcının İndirilenler klasörüne (tarayıcı ayarlarından değiştirebilirsiniz). Android'de dahili depolamanın 'İndirilenler' klasörüne, Dosyalar uygulamasından ve galerinizden görülebilir. iPhone'da Dosyalar uygulamasında, Safari ayarlarınıza bağlı olarak 'iPhone'da' veya iCloud Drive altındaki 'İndirilenler' klasörüne." },
+      { "q": "iPhone'da video neden doğrudan Fotoğraflar'da görünmüyor?", "a": "Çünkü iOS Safari indirmelerini dosya olarak ele alır: güvenlik gereği bir web sayfası doğrudan galerinize yazamaz. Video Dosyalar uygulamasında durur ve Fotoğraflara taşımak iki dokunuş alır: dosyaya uzun basın, 'Paylaş'ı seçin ve ardından 'Videoyu Kaydet'i seçin. İlk kez iOS Fotoğraflara erişim izni ister; sonrasında süreç anında gerçekleşir." }
+    ]
+  }
+}

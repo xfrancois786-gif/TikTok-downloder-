@@ -1,0 +1,53 @@
+{
+  "title": "Pertanyaan Sering",
+  "description": "Semua yang perlu Anda ketahui tentang TiktoMate: cara kerjanya, apa yang legal, bagaimana kami melindungi privasi Anda dan apa yang dilakukan saat ada yang salah.",
+  "h1": "Pertanyaan Sering",
+  "intro": "Semua yang perlu Anda ketahui tentang TiktoMate: cara kerjanya, apa yang legal, bagaimana kami melindungi privasi Anda dan apa yang dilakukan saat ada yang salah.",
+  "categories": [
+    {
+      "name": "Umum",
+      "blurb": "Dasar-dasar: apa itu TiktoMate, berapa biayanya dan perangkat apa yang bisa menggunakannya.",
+      "faqs": [
+        { "q": "Apa itu TiktoMate dan untuk apa?", "a": "TiktoMate adalah alat web gratis yang menyimpan video, foto dan audio TikTok publik dalam kualitas asli, tanpa watermark. Anda tempel tautan dan unduh file bersih yang kreator unggah — tanpa akun, tanpa aplikasi." },
+        { "q": "Apakah TiktoMate benar-benar gratis?", "a": "Ya. Setiap fitur gratis tanpa tingkatan premium, tanpa langganan dan tanpa jeda buatan antar unduhan. Pemeriksaan anti-penyalahgunaan otomatis berjalan di latar belakang yang penggunaan normal tidak pernah perhatikan." },
+        { "q": "Apakah ada batas unduh harian?", "a": "Tidak ada kuota harian tetap untuk penggunaan normal. Kami hanya menerapkan perlindungan anti-penyalahgunaan otomatis agar layanan andal; unduh sehari-hari tidak pernah terpengaruh." },
+        { "q": "Apakah saya perlu buat akun atau login?", "a": "Tidak. Tidak ada akun, tanpa daftar dan tanpa login. Anda tempel tautan dan unduh, tidak lebih." },
+        { "q": "Apakah bekerja di setiap perangkat dan sistem operasi?", "a": "Ya. TiktoMate bekerja di browser modern manapun di iPhone, iPad, Android, Windows, Mac, Linux dan Chromebook — tidak perlu instal." },
+        { "q": "Mengapa ada iklan di TiktoMate?", "a": "Iklan (jika ada) menutupi biaya menjalankan layanan supaya tetap gratis. Iklan tidak pernah berada di antara Anda dan unduhan Anda, dan tidak ada pop-up atau tombol unduh palsu." }
+      ]
+    },
+    {
+      "name": "Legalitas dan hak cipta",
+      "blurb": "Apa yang bisa dan tidak bisa Anda lakukan dengan konten yang diunduh, dan bagaimana kami menghormati kreator.",
+      "faqs": [
+        { "q": "Apakah legal mengunduh video TikTok?", "a": "Menyimpan konten publik untuk penggunaan pribadi offline banyak diterima di berbagai tempat, tapi video tetap karya kreator. Menggunakannya komersial butuh izin kreator dan harus menghormati hukum hak cipta dan syarat TikTok." },
+        { "q": "Bisakah saya repost video orang lain ke akun saya?", "a": "Hanya dengan izin kreator, dan dengan kredit. Repost konten orang lain sebagai milik sendiri tanpa persetujuan bisa melanggar hak cipta dan aturan TikTok." },
+        { "q": "Saya kreator dan seseorang mengunduh video saya. Apa yang bisa saya lakukan?", "a": "Jika konten Anda digunakan ulang tanpa izin, hubungi platform tempat muncul dan ajukan permintaan hak cipta/DMCA. TiktoMate hanya menangani konten publik dan tidak menyimpan salinan, jadi kami tidak bisa hapus file dari perangkat orang lain." },
+        { "q": "Apakah TiktoMate berafiliasi dengan TikTok atau ByteDance?", "a": "Tidak. TiktoMate layanan independen dan tidak berafiliasi, disponsori, atau terkait dengan TikTok atau ByteDance Ltd." },
+        { "q": "Bisakah saya unduh video dari akun privat?", "a": "Tidak. Kami hanya mengakses apa yang TikTok sajikan publik tanpa login. Konten privat atau dibatasi dihormati dan tidak bisa diunduh." }
+      ]
+    },
+    {
+      "name": "Privasi dan keamanan",
+      "blurb": "Data apa yang kami sentuh, apa yang tidak, dan mengapa Anda bisa gunakan TiktoMate dengan tenang.",
+      "faqs": [
+        { "q": "Apakah TiktoMate menyimpan video atau tautan yang saya tempel?", "a": "Tidak. Kami tidak menyimpan video, tidak riwayat dan tidak pencarian. File langsung dari server TikTok ke perangkat Anda tanpa disimpan di antaranya." },
+        { "q": "Apakah saya perlu instal apa pun di perangkat saya?", "a": "Tidak. TiktoMate sepenuhnya berbasis web — tanpa aplikasi, tanpa ekstensi dan tanpa software untuk instal." },
+        { "q": "Apakah TiktoMate aman digunakan?", "a": "Ya. Tidak ada tombol unduh palsu, tidak malware dan tidak daftar. Anda hanya mengunduh file media yang Anda minta." },
+        { "q": "Cookie apa yang TiktoMate gunakan?", "a": "Hanya penyimpanan teknis esensial untuk menjaga layanan bekerja dan mencegah penyalahgunaan. Kami tidak menggunakan cookie iklan atau pelacakan." },
+        { "q": "Apakah Anda mengumpulkan data pribadi pengguna?", "a": "Kami tidak mengumpulkan atau menjual data pribadi. Log teknis dasar mungkin diproses untuk mencegah penyalahgunaan dan menjaga keandalan layanan." }
+      ]
+    },
+    {
+      "name": "Masalah umum",
+      "blurb": "Jika sesuatu tidak berjalan seperti diharapkan, perbaikannya paling ada di sini.",
+      "faqs": [
+        { "q": "Tautan yang saya tempel tidak bekerja. Apa yang harus saya lakukan?", "a": "Salin dari Bagikan → Salin tautan di aplikasi. Tautan tiktok.com panjang dan vm.tiktok.com / vt.tiktok.com pendek bekerja; tautan pendek ulang di tempat lain atau menunjuk ke profil/hashtag tidak. URL harus menunjuk ke postingan spesifik." },
+        { "q": "Video yang diunduh punya logo atau tanda. Kenapa?", "a": "Beberapa postingan hanya disajikan TikTok dengan lapisan watermark. Kami mengirim versi bersih yang benar-benar ada dan tidak pernah memalsukan salinan tanpa logo yang TikTok tidak sediakan." },
+        { "q": "Di iPhone video buka di browser bukan unduh", "a": "Gunakan Safari — di iOS itu browser yang menangani unduhan. Jika tab terbuka sebagai gantinya, tekan ikon bagikan dan pilih Simpan Video, atau tekan lama video dan pilih Unduh. Cek Pengaturan → Safari → Unduh untuk lokasi file." },
+        { "q": "Bilang video tidak ada atau dihapus", "a": "Video kemungkinan dihapus, dijadikan privat atau dibatasi. Kalau tidak buka di TikTok tanpa login, tidak ada yang publik untuk diunduh — TiktoMate tidak simpan salinan." },
+        { "q": "Bagaimana saya melaporkan bug atau mengusulkan perbaikan?", "a": "Hubungi lewat halaman Kontak dengan tautan yang gagal dan deskripsi singkat. Kami baca setiap pesan dan gunakan untuk memperbaiki layanan." }
+      ]
+    }
+  ]
+}

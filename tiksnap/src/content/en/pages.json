@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "como-usar",
+    "title": "How to Download TikTok Without Watermark",
+    "description": "Step-by-step guide to download TikTok videos without watermark in original quality.",
+    "h1": "How to Download TikTok Without Watermark",
+    "intro": "Three steps. It takes less than 10 seconds.",
+    "steps": [
+      { "title": "Copy the link", "text": "In the TikTok app, tap Share and Copy link. Short vm.tiktok.com and vt.tiktok.com links work too." },
+      { "title": "Paste and search", "text": "Paste the link above and press Search. We locate the original file TikTok serves publicly." },
+      { "title": "Download", "text": "Download the file in its original quality, straight from TikTok's servers to your device." }
+    ]
+  },
+  {
+    "slug": "preguntas-frecuentes",
+    "title": "Frequently Asked Questions",
+    "description": "Answers about downloading TikTok without watermark: quality, privacy, limits and legality.",
+    "h1": "Frequently Asked Questions",
+    "intro": "Everything you need to know.",
+    "faqs": [
+      { "q": "Is it legal to download TikTok videos with TiktoMate?", "a": "Downloading public content for personal use is generally acceptable, but the content remains the creator's work. Credit the creator and get permission for commercial use." },
+      { "q": "Do I need to create an account or install anything?", "a": "No. Everything works in your browser on desktop, iPhone and Android. No app or extension required." },
+      { "q": "Do you store my videos on your servers?", "a": "No. We store nothing — no videos, no history, no searches. Files go straight from TikTok to your device." },
+      { "q": "What quality are the videos downloaded in?", "a": "The exact quality the creator uploaded, without recompression. If it was published in 1080p, you get 1080p." },
+      { "q": "Does TiktoMate work in the US and other countries?", "a": "Yes. TiktoMate works in the US, UK, Canada, Australia and anywhere TikTok serves content, with no geo-blocks." },
+      { "q": "What do I do if the download doesn't start?", "a": "Refresh the page and try again. Make sure the link is public and the video is still available on TikTok." },
+      { "q": "Why is a video sometimes only available with a watermark?", "a": "Some content is only served by TikTok with the watermark layer. We never fake a clean copy that doesn't exist." },
+      { "q": "Does it work with private videos or private accounts?", "a": "No. We only access what TikTok serves publicly without login. Private content is respected." }
+    ]
+  },
+  {
+    "slug": "acerca-de",
+    "title": "About Us",
+    "description": "Learn about TiktoMate, a free and private TikTok downloader.",
+    "h1": "About TiktoMate",
+    "intro": "We make saving public TikTok content simple, free and private.",
+    "body": "TiktoMate is an independent tool that helps you save public TikTok videos, photos and audio in original quality. We don't store anything and we don't require an account. Our goal is a fast, honest downloader that respects creators and your privacy."
+  },
+  {
+    "slug": "contacto",
+    "title": "Contact Us",
+    "description": "Get in touch with the TiktoMate team for support or questions.",
+    "h1": "Contact Us",
+    "intro": "Have a question or feedback? Reach out.",
+    "body": "Email us at the address below. We read every message and aim to reply within a couple of business days."
+  },
+  {
+    "slug": "terminos",
+    "title": "Terms of Service",
+    "description": "Terms of service for using TiktoMate.",
+    "h1": "Terms of Service",
+    "intro": "By using TiktoMate you agree to these terms.",
+    "body": "TiktoMate processes only publicly available content and does not host or store media. You are responsible for complying with applicable copyright law and TikTok's terms. You may not use the service for unlawful purposes. The service is provided as-is without warranty."
+  },
+  {
+    "slug": "privacidad",
+    "title": "Privacy Policy",
+    "description": "How TiktoMate handles your privacy.",
+    "h1": "Privacy Policy",
+    "intro": "We store nothing you download.",
+    "body": "We do not store videos, search history or personal data. Basic technical logs may be processed to prevent abuse and keep the service reliable. We do not sell data. Third-party services used to fetch public metadata are governed by their own policies."
+  },
+  {
+    "slug": "dmca",
+    "title": "DMCA",
+    "description": "DMCA and copyright policy for TiktoMate.",
+    "h1": "DMCA",
+    "intro": "We respect intellectual property rights.",
+    "body": "TiktoMate does not host content. If you believe your copyrighted work is being infringed, contact us with the details and we will respond appropriately. Repeat infringers are barred from the service."
+  },
+  {
+    "slug": "politica-de-cookies",
+    "title": "Cookie Policy",
+    "description": "How TiktoMate uses cookies.",
+    "h1": "Cookie Policy",
+    "intro": "We use only essential cookies.",
+    "body": "We use minimal essential cookies/technical storage to keep the service working and prevent abuse. We do not use advertising cookies. You can control cookies in your browser settings."
+  }
+]

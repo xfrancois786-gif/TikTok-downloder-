@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getUi, getBlog } from '../../../lib/content';
+import { localizedPath, localeParams, DEFAULT_LOCALE, localeFor } from '../../../lib/i18n';
+
+export function getStaticPaths() {
+  return localeParams().map((p) => ({ params: p }));
+}
+
+const locale = Astro.params.locale ?? DEFAULT_LOCALE;
+const route = '/blog';
+const ui = getUi(locale);
+const posts = getBlog(locale);
+const current = localeFor(locale)!;
+const title = 'Blog — TikTok Download Guides & Tips';
+const description = 'Guides and tips for downloading TikTok videos, photos and audio in original quality without watermark.';
+
+const blogLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: title,
+  blogPost: posts.map((p) => ({
+    '@type': 'BlogPosting',
+    headline: p.title,
+    datePublished: p.date,
+    author: { '@type': 'Person', name: p.author },
+  })),
+};
+---
+
+<BaseLayout locale={locale} route={route} title={title} description={description} jsonLd={[blogLd]}>
+  <div class="crumbs"><a href={localizedPath(current, '/')}>{ui.nav.home}</a> / {ui.nav.blog}</div>
+  <section class="section" style="margin-top:0">
+    <h1 style="font-size:clamp(26px,4vw,38px);margin:0 0 24px">{ui.nav.blog}</h1>
+    <div class="grid post-list">
+      {posts.map((p) => (
+        <a class="card post-card" href={localizedPath(current, `/blog/${p.slug}`)}>
+          <span class="date">{p.date}</span>
+          <h3 style="margin-top:6px">{p.title}</h3>
+          <p>{p.description}</p>
+          <span class="go">{ui.common.readMore} →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,53 @@
+{
+  "title": "Perguntas Frequentes",
+  "description": "Tudo que você precisa saber sobre o TiktoMate: como funciona, o que é legal, como protegemos sua privacidade e o que fazer quando algo dá errado.",
+  "h1": "Perguntas Frequentes",
+  "intro": "Tudo que você precisa saber sobre o TiktoMate: como funciona, o que é legal, como protegemos sua privacidade e o que fazer quando algo dá errado.",
+  "categories": [
+    {
+      "name": "Geral",
+      "blurb": "O básico: o que é o TiktoMate, quanto custa e em quais dispositivos você pode usar.",
+      "faqs": [
+        { "q": "O que é o TiktoMate e para que serve?", "a": "O TiktoMate é uma ferramenta web grátis que salva vídeos, fotos e áudios públicos do TikTok em qualidade original, sem a marca d'água. Você cola o link e baixa o arquivo limpo que o criador enviou — sem conta, sem app." },
+        { "q": "O TiktoMate é realmente grátis?", "a": "Sim. Todo recurso é grátis sem plano premium, sem assinatura e sem esperas artificiais entre downloads. Uma verificação anti-abuso automática roda em segundo plano que uso normal nunca nota." },
+        { "q": "Tem limite diário de downloads?", "a": "Não há quota fixa diária para uso normal. Só aplicamos uma proteção anti-abuso automática pra manter o serviço confiável; downloads do dia a dia nunca são afetados." },
+        { "q": "Preciso criar conta ou fazer login?", "a": "Não. Não tem contas, sem cadastro e sem login. Você cola o link e baixa, nada mais." },
+        { "q": "Funciona em todo dispositivo e sistema operacional?", "a": "Sim. O TiktoMate roda em qualquer navegador moderno no iPhone, iPad, Android, Windows, Mac, Linux e Chromebook — nada pra instalar." },
+        { "q": "Por que tem anúncios no TiktoMate?", "a": "Anúncios (quando existem) cobrem o custo de manter o serviço pra ele ficar grátis. Eles nunca ficam entre você e seu download, e não tem pop-ups nem botões de download falsos." }
+      ]
+    },
+    {
+      "name": "Legalidade e direitos autorais",
+      "blurb": "O que você pode e não pode fazer com o conteúdo que baixa, e como respeitamos os criadores.",
+      "faqs": [
+        { "q": "É legal baixar vídeos do TikTok?", "a": "Salvar conteúdo público para uso pessoal offline é amplamente aceito em muitos lugares, mas o vídeo continua sendo obra do criador. Reutilizar comercialmente exige permissão do criador e deve respeitar a lei de direitos autorais e os termos do TikTok." },
+        { "q": "Posso repostar vídeos de outros nas minhas contas?", "a": "Só com permissão do criador, e com crédito. Repostar conteúdo alheio como seu sem consentimento pode violar direitos autorais e as regras do TikTok." },
+        { "q": "Sou criador e alguém baixou meu vídeo. O que faço?", "a": "Se seu conteúdo está sendo reutilizado sem permissão, contate a plataforma onde aparece e abra uma solicitação de copyright/DMCA. O TiktoMate só lida com conteúdo público e não guarda cópias, então não podemos remover arquivos de dispositivos alheios." },
+        { "q": "O TiktoMate é afiliado ao TikTok ou ByteDance?", "a": "Não. O TiktoMate é um serviço independente e não é afiliado, patrocinado ou associado ao TikTok ou ByteDance Ltd." },
+        { "q": "Posso baixar vídeos de contas privadas?", "a": "Não. Só acessamos o que o TikTok serve publicamente sem login. Conteúdo privado ou restrito é respeitado e não pode ser baixado." }
+      ]
+    },
+    {
+      "name": "Privacidade e segurança",
+      "blurb": "Quais dados tocamos, quais não, e por que você pode usar o TiktoMate com tranquilidade.",
+      "faqs": [
+        { "q": "O TiktoMate guarda meus vídeos ou os links que colo?", "a": "Não. Não guardamos vídeos, nem histórico, nem buscas. O arquivo vai direto dos servidores do TikTok pro seu dispositivo sem nada ficar no meio." },
+        { "q": "Preciso instalar algo no meu dispositivo?", "a": "Não. O TiktoMate é totalmente web — sem app, sem extensão e sem software pra instalar." },
+        { "q": "O TiktoMate é seguro de usar?", "a": "Sim. Não tem botões de download falsos, nem malware, nem cadastro. Você só baixa o arquivo de mídia que pediu." },
+        { "q": "Quais cookies o TiktoMate usa?", "a": "Só armazenamento técnico essencial pra manter o serviço funcionando e prevenir abuso. Não usamos cookies de publicidade ou rastreamento." },
+        { "q": "Vocês coletam dados pessoais dos usuários?", "a": "Não coletamos nem vendemos dados pessoais. Logs técnicos básicos podem ser processados pra prevenir abuso e manter o serviço confiável." }
+      ]
+    },
+    {
+      "name": "Problemas comuns",
+      "blurb": "Se algo não saiu como esperado, a solução provavelmente tá aqui.",
+      "faqs": [
+        { "q": "O link que colei não funciona. O que faço?", "a": "Copie de Compartilhar → Copiar link no app. Links longos do tiktok.com e curtos vm.tiktok.com / vt.tiktok.com funcionam; links re-encurtados em outro lugar ou apontando para perfis/hashtags não. A URL deve apontar para um post específico." },
+        { "q": "O vídeo baixado tem logo ou marca. Por quê?", "a": "Alguns posts só são servidos pelo TikTok com a camada de marca d'água. Entregamos a versão mais limpa que de fato existe e nunca fingimos uma cópia sem logo que o TikTok não fornece." },
+        { "q": "No iPhone o vídeo abre no navegador em vez de baixar", "a": "Use o Safari — no iOS é ele que gerencia downloads. Se uma aba abre em vez disso, toque no ícone de compartilhar e escolha Salvar Vídeo, ou segure o vídeo e escolha Baixar. Confira Ajustes → Safari → Downloads pra ver onde os arquivos caem." },
+        { "q": "Diz que o vídeo não existe ou foi removido", "a": "O vídeo provavelmente foi apagado, tornado privado ou restrito. Se não abre no TikTok sem logar, não tem nada público pra baixar — o TiktoMate não guarda cópias." },
+        { "q": "Como reporto um bug ou sugiro melhoria?", "a": "Fale com a gente pela página de Contato com o link que falhou e uma descrição curta. Leio toda mensagem e uso pra melhorar o serviço." }
+      ]
+    }
+  ]
+}

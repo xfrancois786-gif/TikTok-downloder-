@@ -1,0 +1,53 @@
+{
+  "title": "Preguntas frecuentes",
+  "description": "Todo lo que necesitas saber sobre TiktoMate: cómo funciona, qué es legal, cómo protegemos tu privacidad y qué hacer cuando algo falla.",
+  "h1": "Preguntas frecuentes",
+  "intro": "Todo lo que necesitas saber sobre TiktoMate: cómo funciona, qué es legal, cómo protegemos tu privacidad y qué hacer cuando algo falla.",
+  "categories": [
+    {
+      "name": "General",
+      "blurb": "Lo básico: qué es TiktoMate, qué cuesta y en qué dispositivos puedes usarlo.",
+      "faqs": [
+        { "q": "¿Qué es TiktoMate y para qué sirve?", "a": "TiktoMate es una herramienta web gratuita que guarda vídeos, fotos y audio públicos de TikTok con calidad original, sin marca de agua. Pegas un enlace y descargas el archivo limpio que subió el creador: sin cuenta, sin app." },
+        { "q": "¿TiktoMate es realmente gratis?", "a": "Sí. Todas las funciones son gratuitas, sin plan premium, sin suscripciones ni esperas artificiales entre descargas. En segundo plano se ejecuta una protección automática antipabusos que el uso normal no nota." },
+        { "q": "¿Hay un límite diario de descargas?", "a": "No hay cuota diaria fija para el uso normal. Solo aplicamos una protección automática antipabusos para mantener el servicio estable; las descargas cotidianas nunca se ven afectadas." },
+        { "q": "¿Necesito crear una cuenta o iniciar sesión?", "a": "No. No hay cuentas, registro ni inicio de sesión. Pegas un enlace y descargas, nada más." },
+        { "q": "¿Funciona en todos los dispositivos y sistemas operativos?", "a": "Sí. TiktoMate funciona en cualquier navegador moderno en iPhone, iPad, Android, Windows, Mac, Linux y Chromebook: nada que instalar." },
+        { "q": "¿Por qué hay anuncios en TiktoMate?", "a": "Los anuncios (cuando existen) cubren el coste de mantener el servicio gratuito. Nunca se interponen entre tú y tu descarga, y no hay pop-ups ni botones falsos de descarga." }
+      ]
+    },
+    {
+      "name": "Legalidad y copyright",
+      "blurb": "Qué puedes y no puedes hacer con el contenido que descargas y cómo respetamos a los creadores.",
+      "faqs": [
+        { "q": "¿Es legal descargar vídeos de TikTok?", "a": "Guardar contenido público para uso personal sin conexión está ampliamente aceptado en muchos lugares, pero el vídeo sigue siendo obra del creador. Reutilizarlo comercialmente requiere su permiso y debe respetar la ley de copyright y los términos de TikTok." },
+        { "q": "¿Puedo republicar vídeos de otras personas en mis cuentas?", "a": "Solo con permiso del creador y con crédito. Republicar contenido ajeno como propio sin consentimiento puede infringir el copyright y las normas de TikTok." },
+        { "q": "Soy creador y alguien descargó mi vídeo. ¿Qué puedo hacer?", "a": "Si tu contenido se reutiliza sin permiso, contacta con la plataforma donde aparece y presenta una solicitud de copyright/DMCA. TiktoMate solo gestiona contenido público y no guarda copias, por lo que no podemos eliminar archivos de los dispositivos de otros." },
+        { "q": "¿TiktoMate está afiliado a TikTok o ByteDance?", "a": "No. TiktoMate es un servicio independiente y no está afiliado, patrocinado ni asociado con TikTok ni con ByteDance Ltd." },
+        { "q": "¿Puedo descargar vídeos de cuentas privadas?", "a": "No. Solo accedemos a lo que TikTok sirve públicamente sin iniciar sesión. El contenido privado o restringido se respeta y no se puede descargar." }
+      ]
+    },
+    {
+      "name": "Privacidad y seguridad",
+      "blurb": "Qué datos tocamos, cuáles no y por qué puedes usar TiktoMate con tranquilidad.",
+      "faqs": [
+        { "q": "¿TiktoMate guarda mis vídeos o los enlaces que pego?", "a": "No. No guardamos vídeos, historial ni búsquedas. El archivo va directamente de los servidores de TikTok a tu dispositivo sin nada en medio." },
+        { "q": "¿Necesito instalar algo en mi dispositivo?", "a": "No. TiktoMate es completamente web: sin app, sin extensión ni software que instalar." },
+        { "q": "¿Es seguro usar TiktoMate?", "a": "Sí. No hay botones falsos de descarga, ni malware ni registro. Solo descargas el archivo multimedia que solicitaste." },
+        { "q": "¿Qué cookies usa TiktoMate?", "a": "Solo almacenamiento técnico esencial para que el servicio funcione y prevenir el abuso. No usamos cookies publicitarias ni de seguimiento." },
+        { "q": "¿Recopiláis datos personales de los usuarios?", "a": "No recopilamos ni vendemos datos personales. Pueden procesarse registros técnicos básicos para prevenir abusos y mantener el servicio estable." }
+      ]
+    },
+    {
+      "name": "Problemas comunes",
+      "blurb": "Si algo no sale como esperabas, la solución probablemente está aquí.",
+      "faqs": [
+        { "q": "El enlace que pego no funciona. ¿Qué hago?", "a": "Cópialo desde Compartir → Copiar enlace en la app. Funcionan los enlaces largos de tiktok.com y los cortos vm.tiktok.com / vt.tiktok.com; no los reacortados por otros servicios ni los que apuntan a perfiles/hashtags. La URL debe apuntar a una publicación concreta." },
+        { "q": "El vídeo descargado tiene logo o marca. ¿Por qué?", "a": "Algunas publicaciones TikTok solo las sirve con la capa de marca de agua. Entregamos la versión más limpia que realmente existe y nunca fingimos una copia sin logo que TikTok no proporciona." },
+        { "q": "En iPhone el vídeo se abre en el navegador en vez de descargarse", "a": "Usa Safari: en iOS es el navegador que gestiona las descargas. Si se abre una pestaña, pulsa el icono de compartir y elige Guardar vídeo, o mantén pulsado el vídeo y elige Descargar. Revisa Ajustes → Safari → Descargas para ver dónde se guardan." },
+        { "q": "Dice que el vídeo no existe o fue eliminado", "a": "El vídeo probablemente fue eliminado, puesto en privado o restringido. Si no se abre en TikTok sin iniciar sesión, no hay nada público que descargar: TiktoMate no guarda copias." },
+        { "q": "¿Cómo reporto un error o sugiero una mejora?", "a": "Contáctanos a través de la página de Contacto con el enlace que falló y una breve descripción. Leemos todos los mensajes y los usamos para mejorar el servicio." }
+      ]
+    }
+  ]
+}

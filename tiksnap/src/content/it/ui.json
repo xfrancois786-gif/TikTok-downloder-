@@ -1,0 +1,74 @@
+{
+  "nav": { "home": "Home", "tools": "Strumenti", "blog": "Blog", "faq": "FAQ", "about": "Chi siamo", "contacto": "Contatto", "howto": "Come scaricare" },
+  "common": {
+    "download": "Scarica", "search": "Cerca", "loading": "Ricerca…", "paste": "Incolla", "clear": "Cancella",
+    "getStarted": "Inizia", "readMore": "Leggi di più", "backHome": "Torna alla home", "notFound": "Pagina non trovata",
+    "changeLanguage": "Cambia lingua", "otherTools": "Altri strumenti TiktoMate",
+    "otherToolsLead": "Tutto ciò che puoi salvare da TikTok, ogni formato con il suo strumento.",
+    "quickLinks": "Link rapidi", "legal": "Legale", "tools": "Strumenti", "rights": "Tutti i diritti riservati.",
+    "madeWith": "Fatto con", "independent": "è un servizio indipendente e non è affiliato, sponsorizzato o associato a TikTok o ByteDance Ltd.",
+    "safePrivate": "Sicuro e privato", "noReg": "Nessuna registrazione", "freeForever": "Scarica veloce. Gratis per sempre."
+  },
+  "hero": {
+    "title": "Downloader TikTok — Scarica senza watermark · Gratis",
+    "subtitle": "Incolla il link e scarica in 3 secondi. Video nella qualità originale del creatore, senza watermark e senza ricompressione — un salvatore TikTok online gratis, senza registrazione e senza app.",
+    "placeholder": "Incolla un link TikTok", "invalid": "Questo non sembra un link TikTok.", "hd": "Scarica in HD"
+  },
+  "features": [
+    { "title": "Nessun watermark", "text": "La versione originale del creatore, quella che TikTok riproduce nell'app." },
+    { "title": "Download HD", "text": "Scaricato come pubblicato, senza ricompressione." },
+    { "title": "Audio MP3", "text": "Estrae l'audio originale" },
+    { "title": "Veloce e facile", "text": "Incolla, cerca e scarica" },
+    { "title": "100% gratis", "text": "Nessuna registrazione o abbonamento." },
+    { "title": "Privacy prima", "text": "Non memorizziamo nulla di ciò che scarichi." }
+  ],
+  "steps": {
+    "title": "Scarica un video TikTok senza watermark in 3 passaggi",
+    "lead": "Tre passaggi. Ci vogliono meno di 10 secondi.",
+    "items": [
+      { "title": "Copia il link", "text": "Nell'app TikTok tocca Condividi → Copia link. Anche i link brevi vm.tiktok.com e vt.tiktok.com funzionano." },
+      { "title": "Incolla e cerca", "text": "Incolla il link sopra e premi Cerca. TiktoMate individua il file originale che TikTok serve pubblicamente." },
+      { "title": "Scarica", "text": "Scarica il file nella sua qualità originale, direttamente dai server TikTok al tuo dispositivo." }
+    ]
+  },
+  "responsible": {
+    "title": "Uso responsabile dei contenuti scaricati",
+    "text": "TiktoMate facilita lo scaricamento di contenuti pubblici di TikTok. Gli utenti sono responsabili del rispetto del copyright e dei termini di servizio di TikTok. Consigliamo uso personale, credito al creatore o permesso per uso commerciale. Non promuoviamo la violazione del copyright."
+  },
+  "why": {
+    "title": "Downloader TikTok senza watermark: perché scegliere TiktoMate?",
+    "lead": "TiktoMate è un salvatore TikTok veloce e gratis che non memorizza nulla di ciò che scarichi.",
+    "items": [
+      { "title": "Nessun watermark", "text": "Ottieni la versione originale del creatore, non la copia con il logo del pulsante salva." },
+      { "title": "Qualità HD", "text": "Il file viene scaricato come pubblicato, senza ricompressione." },
+      { "title": "Gratis, senza registrazione", "text": "Nessun account o abbonamento. Solo una protezione anti-abuso che l'uso normale non nota." },
+      { "title": "Funziona ovunque", "text": "iPhone, Android, Windows, Mac, Linux. Qualsiasi browser moderno." },
+      { "title": "Privacy prima", "text": "Non memorizziamo nulla. Nessun video, cronologia o ricerca." },
+      { "title": "Video in testo", "text": "Incolla il link e leggi ciò che viene detto, dai sottotitoli automatici di TikTok." }
+    ]
+  },
+  "guide": {
+    "title": "Guida per scaricare video TikTok senza watermark",
+    "lead": "Tutto quello che devi sapere. Senza fronzoli.",
+    "sections": [
+      { "h": "Perché salvare video TikTok?", "p": "Il caso più comune sono i creatori stessi: vogliono una copia dei loro video in qualità originale per ripostarli senza il logo di un'altra piattaforma, o come backup. TikTok non offre un modo comodo per esportare i propri contenuti puliti; un downloader sì." },
+      { "h": "Scarica senza watermark", "p": "Usando il pulsante Salva video dell'app, TikTok genera una copia con logo e @nome impressi. Ma la versione riprodotta nell'app non ha quello strato. TiktoMate individua quel file originale e lo consegna così com'è: senza ricodifica." },
+      { "h": "Funziona in tutti i paesi", "p": "TiktoMate funziona in ogni paese in cui TikTok serve contenuti, su telefono o computer. Nessun blocco geografico. Eccezione: se il creatore ha limitato il video a certi paesi, tale restrizione rimane." },
+      { "h": "Come funziona TiktoMate internamente?", "p": "Quando incolli un link, TiktoMate consulta il post come farebbe il tuo browser e legge i dati che TikTok espone pubblicamente. Tra questi l'indirizzo del file video originale." },
+      { "h": "Che qualità ottieni?", "p": "Quella che il creatore ha caricato, niente di più. TikTok memorizza MP4 con codec H.264, di solito 1080×1920. Se girato in 720p, non esiste copia 1080p su alcun server." },
+      { "h": "Cosa TiktoMate NON può fare", "p": "Video privati o eliminati: no. Accediamo solo a ciò che TikTok serve pubblicamente senza login e non conserviamo copie. Non aggiriamo nemmeno restrizioni di età o regione." },
+      { "h": "Usalo responsabilmente", "p": "Il contenuto resta opera del creatore. Se lo condividi, dai credito. Per uso commerciale, chiedi prima il permesso. Per uso personale o didattico, scarica tranquillo." }
+    ]
+  },
+  "faqSection": {
+    "title": "Domande frequenti sullo scaricare TikTok senza watermark",
+    "lead": "Risposte su qualità, privacy, limiti e uso legale"
+  },
+  "cta": {
+    "title": "Pronto a scaricare?",
+    "text": "Inizia a scaricare i tuoi video TikTok preferiti senza watermark in qualità originale. Nessuna registrazione o installazione."
+  },
+  "footer": {
+    "tagline": "Il modo più veloce e sicuro per scaricare video, foto e storie TikTok senza watermark. 100% gratis, senza registrazione."
+  }
+}

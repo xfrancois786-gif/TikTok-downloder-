@@ -1,0 +1,94 @@
+{
+  "como-usar": {
+    "title": "So laden Sie TikTok-Videos ohne Wasserzeichen herunter — iPhone, Android & PC",
+    "description": "Schritt-für-Schritt-Anleitung zum Herunterladen von TikTok-Videos ohne Wasserzeichen auf jedem Gerät, mit spezifischen Anweisungen für iPhone, Android und Computer: wo jede Datei landet, welche Berechtigungen angefordert werden und wie Sie die häufigsten Probleme beheben.",
+    "h1": "So laden Sie TikTok-Videos ohne Wasserzeichen herunter — iPhone, Android & PC",
+    "intro": "Schritt-für-Schritt-Anleitung zum Herunterladen von TikTok-Videos ohne Wasserzeichen auf jedem Gerät, mit spezifischen Anweisungen für iPhone, Android und Computer: wo jede Datei landet, welche Berechtigungen angefordert werden und wie Sie die häufigsten Probleme beheben.",
+    "stats": [
+      { "value": "30 sec", "label": "Durchschnittliche Zeit" },
+      { "value": "100%", "label": "Sicher und privat" },
+      { "value": "HD", "label": "Maximale Qualität" }
+    ],
+    "stepsTitle": "In 4 Schritten herunterladen — von jedem Gerät aus",
+    "stepsLead": "Die gleiche Methode funktioniert auf PC, Mac, Android, iPhone und Tablets.",
+    "steps": [
+      { "title": "TikTok öffnen", "text": "Finden Sie das Video, Karussell oder die Story, die Sie speichern möchten, in der App oder auf tiktok.com" },
+      { "title": "Link kopieren", "text": "Tippen Sie auf 'Teilen' → 'Link kopieren'. Auch die kurzen Links der App funktionieren" },
+      { "title": "In TiktoMate einfügen", "text": "Fügen Sie die URL oben ein und drücken Sie 'Suchen', um den Beitrag zu analysieren" },
+      { "title": "Herunterladen", "text": "Wählen Sie HD-Video, MP3 oder Bilder. Die Datei geht direkt auf Ihr Gerät" }
+    ],
+    "devicesTitle": "Detaillierte Anleitung nach Gerät",
+    "devicesLead": "Spezifische Anweisungen für jede Plattform. Wählen Sie Ihre aus und befolgen Sie die Schritte.",
+    "devices": [
+      {
+        "name": "Am PC (Windows, Mac, Linux)",
+        "steps": [
+          "Öffnen Sie tiktok.com in Ihrem Browser (Chrome, Firefox, Edge oder Safari) und suchen Sie das Video. Wenn Sie es auf Ihrem Telefon entdeckt haben, schicken Sie sich den Link selbst per WhatsApp oder Telegram und öffnen Sie ihn am Computer.",
+          "Kopieren Sie die URL direkt aus der Adressleiste, oder verwenden Sie die eigene 'Teilen' → 'Link kopieren'-Schaltfläche des Videos.",
+          "Gehen Sie zu TiktoMate, fügen Sie den Link mit Strg+V (Cmd+V auf dem Mac) ein und drücken Sie 'Suchen'.",
+          "Wählen Sie HD-Video oder MP3-Audio. Die Datei landet in Ihrem Download-Ordner mit der Endung .mp4 oder .mp3, und von dort können Sie sie direkt in Ihren Editor (CapCut, Premiere, DaVinci) oder jeden anderen Ordner ziehen.",
+          "Wenn das Video sich in einem neuen Browser-Tab öffnet, anstatt heruntergeladen zu werden, klicken Sie mit der rechten Maustaste auf das Bild und wählen Sie 'Video speichern unter...', um es irgendwo zu speichern."
+        ],
+        "tip": "Das Download-Panel des Browsers (Strg+J unter Windows und Linux) zeigt die gerade gespeicherte Datei mit einer Verknüpfung zu ihrem Ordner an, falls Sie sie nicht finden."
+      },
+      {
+        "name": "Auf Android",
+        "steps": [
+          "Öffnen Sie TikTok, suchen Sie das Video und tippen Sie auf 'Teilen' → 'Link kopieren'.",
+          "Öffnen Sie Chrome (oder Ihren üblichen Browser), gehen Sie zu TiktoMate und halten Sie das Suchfeld gedrückt, um 'Einfügen' zu wählen.",
+          "Tippen Sie auf 'Suchen' und wählen Sie Ihr Format. Beim ersten Mal kann der Browser um Erlaubnis bitten, Dateien herunterzuladen oder auf den Speicher zuzugreifen: akzeptieren Sie es — er fragt nur einmal.",
+          "Die Datei landet im Ordner 'Downloads' Ihres internen Speichers. MP4-Videos erscheinen in Ihrer Galerie-App oder Google Photos, sobald das System sie indexiert hat, gewöhnlich innerhalb von Sekunden.",
+          "Wenn Sie es nicht in der Galerie sehen, öffnen Sie die 'Dateien'-App Ihres Telefons, gehen Sie zu 'Downloads' und öffnen Sie es von dort; Sie können es auch in einen anderen Ordner wie 'Videos' oder 'DCIM' verschieben, falls Sie es ordentlich halten möchten."
+        ],
+        "tip": "Mehrere Dateien hintereinander heruntergeladen — sagen wir, die Fotos eines Karussells? In Chrome tippen Sie auf die drei Punkte → 'Downloads', um sie alle zu sehen, ohne den Browser zu verlassen."
+      },
+      {
+        "name": "Auf iPhone oder iPad",
+        "steps": [
+          "Öffnen Sie TikTok, suchen Sie das Video und tippen Sie auf 'Teilen' → 'Link kopieren'.",
+          "Öffnen Sie Safari. Auf iOS ist Safari der Browser, der Dateidownloads verarbeitet; andere Browser bieten möglicherweise nicht die Option zum Speichern.",
+          "Gehen Sie zu TiktoMate, halten Sie das Suchfeld gedrückt, tippen Sie auf 'Einfügen' und dann auf 'Suchen'.",
+          "Tippen Sie auf 'Herunterladen'. Safari wird Sie zur Bestätigung auffordern, und sobald Sie akzeptieren, erscheint ein Download-Pfeil neben der Adressleiste, der den Fortschritt anzeigt.",
+          "Die Datei wird in der App 'Dateien' gespeichert, unter 'Auf meinem iPhone' oder iCloud Drive (je nach Ihren Einstellungen), im Ordner 'Downloads'.",
+          "Um es in Ihre Galerie zu verschieben: öffnen Sie Dateien, halten Sie das Video gedrückt, tippen Sie auf 'Teilen' und wählen Sie 'Video speichern'. iOS wird Sie beim ersten Mal um Erlaubnis bitten, auf Fotos zuzugreifen; danach erscheint das Video in Ihrem Kameraroll wie jedes andere."
+        ],
+        "tip": "In Einstellungen → Safari → Downloads können Sie 'Auf meinem iPhone' anstelle von iCloud Drive wählen, sodass Downloads Ihren iCloud-Speicher nicht belasten."
+      }
+    ],
+    "featuresTitle": "Funktionen und Vorteile von TiktoMate",
+    "features": [
+      { "title": "Keine Anmeldung, keine künstlichen Quoten", "text": "Laden Sie Ihre Videos ohne Premium-Konten und ohne künstliche Wartezeiten zwischen einem Download und dem nächsten herunter. Das Einzige, was besteht, ist ein automatischer Anti-Missbrauch-Schutz, den normale Nutzung nie auslöst." },
+      { "title": "Originale HD-Qualität", "text": "Sie erhalten dieselbe Datei, die TikTok in der App abspielt, ohne Neukomprimierung. Wenn der Ersteller in 1080p veröffentlicht hat, laden Sie 1080p herunter; wenn er niedriger hochgeladen hat, ist das die echte Qualität, die existiert." },
+      { "title": "MP3-Audio extrahieren", "text": "Ziehen Sie die Tonspur aus jedem Video als MP3 heraus: Musik, Soundeffekte, Stimmen oder Podcast-Ausschnitte. Keine Konverter zu installieren, keine Drittanbieter-Programme, die Sie durchlaufen müssen." },
+      { "title": "Fotos und Karussells", "text": "Slider laden Foto für Foto als hochauflösende JPGs herunter, während das Audio separat als MP3 verfügbar ist. Live-Fotos (Folien mit Bewegung) werden ebenfalls erkannt, und Sie können ihr MP4 speichern." }
+    ],
+    "formatsTitle": "Welche Formate Sie herunterladen können",
+    "formats": [
+      { "title": "MP4-Video in HD", "text": "Das vollständige Video mit Bild und Ton in einer einzigen MP4-Datei mit dem H.264-Codec — dem Standard, den TikTok verwendet und den jedes Gerät, jeder Editor und jede Plattform ohne Umwandlung erkennt. Es wird ohne Wasserzeichen oder @Nutzername heruntergeladen, weil es die Originalversion des Erstellers ist, nicht die logostempelnde Kopie, die die Speicherschaltfläche der App erzeugt. Bis zu 1080p, je nachdem, was veröffentlicht wurde. Ideal zum Bearbeiten in CapCut oder Premiere, zum Archivieren oder zum Reposten auf Reels und Shorts mit Erlaubnis und Nennung des Urhebers." },
+      { "title": "MP3-Audio", "text": "Nur die Tonspur des Videos, extrahiert und als MP3 geliefert — das Format, das jedes Telefon, jeder Computer und jedes Autoradio abspielt. Perfekt für virale Songs, Soundeffekte, Podcast-Ausschnitte oder Stimmen. Zwei Dinge sollten Sie beachten: Sie erhalten den Ton genau so, wie er in diesem spezifischen Video klingt, mit allen Stimmen oder Mixen, die der Ersteller hinzugefügt hat, und die Endqualität hängt vom Original-Track ab, weil Extraktion nicht verbessern kann, was nicht vorhanden ist." },
+      { "title": "JPG-Bilder von Karussells", "text": "Wenn Sie den Link eines Sliders oder Karussells einfügen, erkennt TiktoMate jedes Bild und lässt Sie sie einzeln als hochauflösende JPGs herunterladen. Ein Karussell ist kein MP4: TikTok veröffentlicht es als separate Bilder plus eine Tonspur, sodass Sie auch den Ton separat als MP3 herunterladen können. Und wenn die erste Folie Bewegung hat, ist es ein Live-Foto: Sie können sowohl das Standbild als auch sein kurzes MP4-Video mit der Animation speichern." }
+    ],
+    "resolutionTitle": "Was bestimmt die Auflösung?",
+    "resolution": "Was der Ersteller hochgeladen hat — sonst nichts. TikTok behält das Video in der Auflösung des ursprünglichen Beitrags (1080×1920, wenn es vertikal mit einem aktuellen Telefon gefilmt wurde), und TiktoMate findet die beste Version dieser Datei, die existiert. Wenn das Video in 720p aufgenommen, von einer Drittanbieter-App gepostet oder von TikTok neu komprimiert wurde, gibt es keine 1080p-Kopie auf irgendeinem Server, und kein ehrlicher Downloader kann eine herstellen: Hochskalierung bläht nur die Dateigröße auf und verwischt das Bild.",
+    "troubleTitle": "Lösungen für häufige Probleme",
+    "troubleshooting": [
+      { "q": "Der Download startet nicht", "a": "Zuerst prüfen Sie, ob das Video öffentlich ist und der Link auf einen bestimmten Beitrag verweist, nicht auf ein Profil. Auf dem iPhone verwenden Sie Safari — es ist der Browser, der Downloads unter iOS verarbeitet. Wenn nichts passiert, wenn Sie auf 'Herunterladen' tippen, hat Ihr Browser den Download wahrscheinlich blockiert: suchen Sie nach dem Hinweis neben der Adressleiste und erlauben Sie ihn. Als letzter Versuch kopieren Sie den Link erneut über die Teilen-Schaltfläche von TikTok und durchlaufen den Vorgang noch einmal." },
+      { "q": "Das Video wirkt verschwommen oder von niedriger Qualität", "a": "TiktoMate lädt die höchste Qualität herunter, die TikTok für dieses Video anbietet, ohne es neu zu komprimieren. Wenn das Original in niedriger Auflösung hochgeladen wurde, existiert keine bessere Kopie auf irgendeinem Server und kein Tool kann eine erfinden. Prüfen Sie, wie das Video in der App selbst aussieht: Wenn es dort auch nicht scharf ist, ist das die tatsächliche Qualität der Datei." },
+      { "q": "Der TikTok-Link wird nicht erkannt", "a": "Kopieren Sie den Link über die Option 'Link kopieren' der Teilen-Schaltfläche. Lange Links (https://www.tiktok.com/@username/video/...) funktionieren, und auch die kurzen, die die mobile App generiert (vm.tiktok.com und vt.tiktok.com). Was nicht funktioniert: Links, die über andere Dienste (wie bit.ly) erneut gekürzt wurden, oder Links zu Profilen oder Hashtags — die URL muss auf einen bestimmten Beitrag verweisen." },
+      { "q": "Der kurze vm.tiktok.com- oder vt.tiktok.com-Link gibt einen Fehler", "a": "Diese kurzen Links werden von der mobilen App generiert, wenn Sie teilen, und TiktoMate akzeptiert und löst sie automatisch auf. Wenn ein bestimmter Link fehlschlägt, liegt es normalerweise daran, dass er unvollständig kopiert wurde oder die Weiterleitung von TikTok abgelaufen ist. Die schnelle Lösung: Öffnen Sie den Link in Ihrem Browser, um das Video zu erreichen, kopieren Sie die lange URL aus der Adressleiste und fügen Sie diese in TiktoMate ein." },
+      { "q": "Ich erwartete ein MP4, aber habe einzelne Fotos erhalten", "a": "Dann ist der Beitrag ein Karussell, kein Video. TikTok veröffentlicht Slider als separate JPG-Bilder mit der Tonspur auf sich, und so liefern wir sie auch: jedes Foto einzeln und den Sound als MP3, falls Sie es möchten. Es ist kein fehlgeschlagener Download; es ist das tatsächliche Format, in dem der Inhalt existiert." },
+      { "q": "Der Download bricht ab", "a": "Bei einer instabilen Verbindung kann der Browser die Übertragung unterbrechen und eine unvollständige Datei hinterlassen, die nicht abgespielt werden kann. Löschen Sie diese Datei, prüfen Sie Ihre Verbindung (oder wechseln Sie von mobilen Daten zu WLAN) und laden Sie erneut herunter. Auf einem Computer erlauben viele Browser, einen unterbrochenen Download über ihr Download-Panel fortzusetzen, anstatt von vorne zu beginnen." },
+      { "q": "Das Video war privat oder existiert nicht mehr", "a": "Wenn der Ersteller das Video gelöscht, privat gemacht oder den Zugriff eingeschränkt hat, stellt TikTok die Datei nicht mehr bereit, und es gibt nichts mehr zum Herunterladen: TiktoMate greift nur auf öffentliche Inhalte zu und behält aus Designgründen keine Kopien. Die Prüfung ist einfach: Wenn der Link das Video auf TikTok nicht ohne Anmeldung öffnet, kann kein legitimes Tool es herunterladen." },
+      { "q": "Der Browser blockiert den automatischen Download", "a": "Einige Browser bitten um Bestätigung, wenn eine Website einen Download startet, insbesondere wenn Sie mehrere Dateien hintereinander speichern — typisch bei Karussells. Suchen Sie nach dem Hinweis neben der Adressleiste und wählen Sie 'Erlauben'. In Safari auf dem iPhone ist der Bestätigungsdialog mit der Schaltfläche 'Herunterladen' das normale Systemverhalten, kein Fehler." }
+    ],
+    "faqTitle": "Häufig gestellte Fragen zum Herunterladen",
+    "faqLead": "",
+    "faqs": [
+      { "q": "Kann ich TikTok-Videos auf meinem Telefon herunterladen?", "a": "Ja, TiktoMate funktioniert auf jedem Telefon direkt im Browser, nichts zu installieren. Auf Android landen die Dateien im Download-Ordner und Videos erscheinen in Ihrer Galerie, sobald das System sie indexiert hat. Auf dem iPhone verwenden Sie Safari: Die Dateien werden in der App Dateien gespeichert, und von dort können Sie sie mit 'Teilen' → 'Video speichern' in Fotos verschieben." },
+      { "q": "Muss ich eine App installieren?", "a": "Nein. TiktoMate ist ein vollständig webbasiertes Tool: Alles, was Sie brauchen, ist ein moderner Browser wie Chrome, Safari, Firefox oder Edge. Keine Anmeldung, keine Installation, keine Erweiterungen — weshalb es genau gleich auf einem Telefon, Tablet oder Computer funktioniert." },
+      { "q": "Wie lange dauert der Download?", "a": "Es hängt von Ihrer Verbindung und der Länge des Videos ab. Die Analyse des Links erfolgt praktisch sofort, und der Download geht direkt von TikToks Servern auf Ihr Gerät, ohne Zwischenschritte oder Warteschlangen — normalerweise reden wir also von Sekunden, nicht Minuten. Ein langes Video bei langsamer Verbindung dauert natürlich länger, wie jeder andere Download auch." },
+      { "q": "Wo wird die heruntergeladene Datei gespeichert?", "a": "Auf PC und Mac im Download-Ordner des Browsers (Sie können dies in dessen Einstellungen ändern). Auf Android im Ordner 'Downloads' des internen Speichers, sichtbar aus der App Dateien und aus Ihrer Galerie. Auf dem iPhone in der App Dateien, im Ordner 'Downloads' unter 'Auf meinem iPhone' oder iCloud Drive, je nachdem, wie Sie Safari eingerichtet haben." },
+      { "q": "Warum erscheint das Video nicht direkt in Fotos auf dem iPhone?", "a": "Weil iOS Safari-Downloads als Dateien, nicht als Fotos behandelt: Aus Sicherheitsgründen kann eine Webseite nicht direkt in Ihre Galerie schreiben. Das Video liegt in der App Dateien, und das Verschieben in Fotos dauert zwei Tipps: Halten Sie die Datei gedrückt, wählen Sie 'Teilen' und dann 'Video speichern'. Beim ersten Mal wird iOS um Erlaubnis bitten, auf Fotos zuzugreifen; danach ist der Vorgang sofort." }
+    ]
+  }
+}
