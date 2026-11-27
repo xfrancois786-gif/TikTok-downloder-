@@ -1,0 +1,8 @@
+name = "tiktmeta"
+compatibility_date = "2026-01-01"
+
+# Static site: the built frontend/ is served as static assets.
+# The downloader calls the API Worker (tiktmeta-api) directly over CORS.
+[assets]
+directory = "../frontend"
+not_found_handling = "404-page"

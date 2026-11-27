@@ -163,6 +163,7 @@ function shell({ title, description, locale, route, jsonLd, body, script = true 
     ${body}
   </main>
   ${footer(locale)}
+  <script>window.TIKTMETA_API="https://tiktmeta-api.xfrancois786.workers.dev";</script>
   <script src="/assets/js/main.js" defer></script>
   ${script ? '<script src="/assets/js/downloader.js" defer></script>' : ''}
 </body>
