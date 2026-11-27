@@ -56,6 +56,11 @@ a{color:#ff5c7a;text-decoration:none}a:hover{text-decoration:underline}
 .compat-item{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
 .compat-item strong{display:block;font-size:15px}
 .compat-item span{color:var(--muted);font-size:13px}
+.dl-preview{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin:8px 0;max-width:420px}
+.dl-preview img{width:96px;height:128px;object-fit:cover;border-radius:8px;background:#0002;flex:none}
+.dl-meta{min-width:0}
+.dl-meta strong{display:block;font-size:14px;line-height:1.3;word-break:break-word}
+.dl-meta small{display:block;color:var(--muted);font-size:12px;margin-top:6px}
 @media(max-width:820px){.feature-strip{grid-template-columns:1fr 1fr}.compat-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.feature-strip,.compat-grid{grid-template-columns:1fr}}
 .cta{text-align:center}
@@ -133,7 +138,7 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
   var form=document.getElementById('dl');if(!form)return;
   var input=document.getElementById('url');
   var result=document.getElementById('result');
-  var API=(window.TIKTMETA_API||'')+'/api/download-video';
+  var API=(window.TIKTMETA_API||'')+'/api/post-detail';
   var TIKTOK=/(https?:\\/\\/(?:vm|vt|www|m)?\\.?tiktok\\.com\\/[^\\s]+|https?:\\/\\/[^\\s]*tiktok\\.com\\/[^\\s]+)/i;
   function findUrl(text){ if(!text)return null; var m=String(text).match(TIKTOK); return m?m[0]:null; }
   function isTikTok(u){ try{var h=new URL(u).hostname;return /(^|\\.)tiktok\\.com$/i.test(h);}catch(e){return false;} }
@@ -151,18 +156,31 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
     var a=document.createElement('a'); a.href=obj; a.download=name; document.body.appendChild(a); a.click();
     setTimeout(function(){ URL.revokeObjectURL(obj); a.remove(); },1500);
   }
-  function download(url,label,btn){
-    var name=fileName(url,label);
+  // Try each candidate URL in order; blob-download the first that passes CORS.
+  function download(cands,label,btn){
+    var list=cands.filter(Boolean); if(!list.length){return;}
     var old=btn.textContent; btn.disabled=true; btn.textContent='Downloading...';
-    fetch(url,{mode:'cors'}).then(function(r){ if(!r.ok)throw new Error('HTTP '+r.status); return r.blob(); })
-      .then(function(blob){ saveBlob(blob,name); btn.textContent='Downloaded'; setTimeout(function(){ btn.textContent=old; btn.disabled=false; },1600); })
-      .catch(function(){ btn.textContent=old; btn.disabled=false; window.open(url,'_blank','noopener'); });
+    function attempt(i){
+      if(i>=list.length){ btn.textContent=old; btn.disabled=false; window.open(list[0],'_blank','noopener'); return; }
+      fetch(list[i],{mode:'cors'}).then(function(r){ if(!r.ok)throw new Error('HTTP '+r.status); return r.blob(); })
+        .then(function(blob){ saveBlob(blob,fileName(list[i],label)); btn.textContent='Downloaded'; setTimeout(function(){ btn.textContent=old; btn.disabled=false; },1600); })
+        .catch(function(){ attempt(i+1); });
+    }
+    attempt(0);
   }
   function render(d){
     if(d&&d.ok===false){ show('<p>'+esc(d.error||'Could not fetch this link.')+'</p>'); return; }
-    var links=(d.links||[]).map(function(l,i){return '<button type="button" class="dl-btn" style="margin:4px" data-i="'+i+'">'+esc(l.label||'Download')+'</button>';}).join('');
-    show(links||'<p>No download links returned. Try another public TikTok link.</p>');
-    if(result){ result.querySelectorAll('button.dl-btn').forEach(function(b){ b.addEventListener('click',function(){ var l=d.links[+b.getAttribute('data-i')]; download(l.url,l.label,b); }); }); }
+    var cover=d.cover||d.origin_cover||''; var title=d.title||''; var author=(d.author&&d.author.unique_id)||'';
+    var preview='';
+    if(cover){ preview='<div class="dl-preview"><img src="'+esc(cover)+'" alt="'+esc(title||'preview')+'" loading="lazy">'+(title?'<div class="dl-meta"><strong>'+esc(title)+'</strong>'+(author?'<small>@'+esc(author)+'</small>':'')+'</div>':'')+'</div>'; }
+    var model=[
+      {label:'Download HD (no watermark)',cands:[d.hdplay,d.play]},
+      {label:'Download (no watermark)',cands:[d.play]}
+    ];
+    if(d.music) model.push({label:'Download MP3',cands:[d.music]});
+    var btns=model.map(function(b,i){return '<button type="button" class="dl-btn" style="margin:4px" data-i="'+i+'">'+esc(b.label)+'</button>';}).join('');
+    show((preview+btns)||'<p>No download links returned. Try another public TikTok link.</p>');
+    if(result){ result.querySelectorAll('button.dl-btn').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; download(m.cands,m.label,b); }); }); }
   }
   function analyze(){
     var url=(input.value||'').trim(); if(!url){return;}
