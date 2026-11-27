@@ -82,6 +82,8 @@ a{color:#ff5c7a;text-decoration:none}a:hover{text-decoration:underline}
 .dl-bar{position:absolute;left:0;bottom:0;height:3px;width:100%;background:transparent}
 .dl-opt.is-loading .dl-bar{background:var(--line)}
 .dl-fill{display:block;height:100%;width:0;background:var(--brand);transition:width .15s}
+.dl-avatar-lg{width:64px;height:64px;border-radius:50%}
+.dl-cap-lg{font-size:14px;line-height:1.4;margin:10px 0;max-height:180px;overflow:auto}
 @media(max-width:820px){.feature-strip{grid-template-columns:1fr 1fr}.compat-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.feature-strip,.compat-grid{grid-template-columns:1fr}}
 .cta{text-align:center}
@@ -212,46 +214,86 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
   }
   function fmtCount(n){ n=Number(n)||0; if(n>=1000000)return (n/1000000).toFixed(1).replace(/\.0$/,'')+'M'; if(n>=1000)return (n/1000).toFixed(1).replace(/\.0$/,'')+'K'; return String(n); }
   function fmtSize(b){ b=Number(b)||0; if(b>=1048576)return (b/1048576).toFixed(1)+' MB'; if(b>=1024)return Math.round(b/1024)+' KB'; return b+' B'; }
-  function render(d){
+  function optBtn(b,i){ return '<button type="button" class="dl-opt" data-i="'+i+'"><span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">'+esc(b.label)+(b.note?'<small>\\u00b7 '+esc(b.note)+'</small>':'')+'</span><span class="dl-bar"><span class="dl-fill"></span></span></button>'; }
+  function wireOpts(model){
+    if(result){ result.querySelectorAll('button.dl-opt').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; if(m.copy){ copyText(m.copy,b); return; } download(m.cands,m.label,b); }); }); result.querySelectorAll('img').forEach(function(im){ im.addEventListener('error',function(){ im.style.visibility='hidden'; }); }); }
+  }
+  function copyText(t,btn){ var old=btn.innerHTML; function done(){ btn.innerHTML='<span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">Copied</span>'; setTimeout(function(){ btn.innerHTML=old; },1500); } if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(t).then(done,done); } else { var ta=document.createElement('textarea'); ta.value=t; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy');}catch(e){} ta.remove(); done(); } }
+  function authorBlock(d){ var author=(d.author&&d.author.unique_id)||''; var nick=(d.author&&d.author.nickname)||author; var avatar=(d.author&&d.author.avatar)||''; if(!(nick||avatar))return ''; return '<div class="dl-author">'+(avatar?'<img class="dl-avatar" src="'+esc(avatar)+'" alt="" referrerpolicy="no-referrer">':'')+'<span><strong>'+esc(nick||author)+'</strong>'+(author?'<small>@'+esc(author)+'</small>':'')+'</span></div>'; }
+  function render(d,kind){
+    kind=kind||'video';
     if(d&&d.ok===false){ show('<p>'+esc(d.error||'Could not fetch this link.')+'</p>'); return; }
+    var card='<div class="dl-card"><div class="dl-head">Result ready</div>';
+    var model=[];
+
+    if(kind==='user'){
+      var u=d.user||{}; var st=d.stats||{}; var nick=u.nickname||''; var uid=u.uniqueId||''; var av=u.avatarMedium||u.avatarThumb||'';
+      card+='<div class="dl-top">';
+      if(av)card+='<img class="dl-cover dl-avatar-lg" src="'+esc(av)+'" alt="" referrerpolicy="no-referrer">';
+      card+='<div class="dl-info"><div class="dl-author"><span><strong>'+esc(nick||uid)+'</strong>'+(uid?'<small>@'+esc(uid)+'</small>':'')+'</span></div>';
+      var sc=[]; if(st.followerCount!=null)sc.push(fmtCount(st.followerCount)+' followers'); if(st.followingCount!=null)sc.push(fmtCount(st.followingCount)+' following'); if(st.videoCount!=null)sc.push(fmtCount(st.videoCount)+' videos'); if(st.heartCount!=null)sc.push(fmtCount(st.heartCount)+' likes');
+      if(sc.length)card+='<div class="dl-stats">'+esc(sc.join(' \\u00b7 '))+'</div>';
+      card+='</div></div>';
+      if(uid){ card+='<div class="dl-opts"><a class="dl-opt" href="https://www.tiktok.com/@'+encodeURIComponent(uid)+'" target="_blank" rel="noopener"><span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">Open profile<small>\\u00b7 @'+esc(uid)+'</small></span></a></div>'; }
+      card+='</div>'; show(card); wireOpts(model); return;
+    }
+
+    if(kind==='caption'){
+      var t=d.title||''; card+='<div class="dl-info">';
+      card+=authorBlock(d);
+      if(t){ card+='<p class="dl-cap dl-cap-lg">'+esc(t)+'</p>'; model.push({label:'Copy caption',copy:t}); model.push({label:'Download .txt',cands:[],txt:t}); }
+      else { card+='<p class="dl-cap">No caption text for this post.</p>'; }
+      card+='</div>';
+      if(model.length){ card+='<div class="dl-opts">'+model.map(function(b,i){ if(b.txt){ return '<button type="button" class="dl-opt" data-i="'+i+'"><span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">'+esc(b.label)+'</span></button>'; } return optBtn(b,i); }).join('')+'</div>'; }
+      card+='</div>'; show(card);
+      if(result){ result.querySelectorAll('button.dl-opt').forEach(function(b){ var i=+b.getAttribute('data-i'); b.addEventListener('click',function(){ var m=model[i]; if(m.copy){copyText(m.copy,b);return;} if(m.txt){ saveBlob(new Blob([m.txt],{type:'text/plain'}),'tiktmeta-caption-'+Date.now()+'.txt'); var old=b.innerHTML; b.innerHTML='<span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">Downloaded</span>'; setTimeout(function(){b.innerHTML=old;},1500); } }); }); }
+      return;
+    }
+
     var cover=d.cover||d.origin_cover||d.ai_dynamic_cover||'';
-    var title=d.title||''; var author=(d.author&&d.author.unique_id)||'';
-    var nick=(d.author&&d.author.nickname)||author; var avatar=(d.author&&d.author.avatar)||'';
-    var stats='';
-    var parts=[];
+    var title=d.title||'';
+    var stats=''; var parts=[];
     if(d.play_count!=null)parts.push(fmtCount(d.play_count)+' views');
     if(d.digg_count!=null)parts.push(fmtCount(d.digg_count)+' likes');
     if(d.comment_count!=null)parts.push(fmtCount(d.comment_count)+' comments');
     if(parts.length)stats='<div class="dl-stats">'+esc(parts.join(' \\u00b7 '))+'</div>';
-    var card='<div class="dl-card">';
-    card+='<div class="dl-head">Result ready</div>';
     card+='<div class="dl-top">';
     if(cover)card+='<img class="dl-cover" src="'+esc(cover)+'" alt="'+esc(title||'cover')+'" loading="lazy" referrerpolicy="no-referrer">';
     card+='<div class="dl-info">';
-    if(nick||avatar){ card+='<div class="dl-author">'+(avatar?'<img class="dl-avatar" src="'+esc(avatar)+'" alt="" referrerpolicy="no-referrer">':'')+'<span><strong>'+esc(nick||author)+'</strong>'+(author?'<small>@'+esc(author)+'</small>':'')+'</span></div>'; }
+    card+=authorBlock(d);
     if(title)card+='<p class="dl-cap">'+esc(title)+'</p>';
-    card+=stats;
-    card+='</div></div>';
-    var model=[
-      {label:'Standard quality',note:d.size?fmtSize(d.size):'',cands:[d.play]},
-      {label:'HD \\u00b7 Original quality',note:d.hd_size?fmtSize(d.hd_size):'',cands:[d.hdplay,d.play]},
-      d.music?{label:'MP3 audio',note:'',cands:[d.music]}:null
-    ].filter(Boolean);
-    card+='<div class="dl-opts">'+model.map(function(b,i){return '<button type="button" class="dl-opt" data-i="'+i+'"><span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">'+esc(b.label)+(b.note?'<small>\\u00b7 '+esc(b.note)+'</small>':'')+'</span><span class="dl-bar"><span class="dl-fill"></span></span></button>';}).join('')+'</div>';
+    card+=stats+'</div></div>';
+
+    if(kind==='audio'){
+      if(d.music)model.push({label:'MP3 audio',note:'Original sound',cands:[d.music]});
+    } else if(kind==='photo'){
+      var imgs=(d.images&&d.images.length)?d.images:[cover].filter(Boolean);
+      imgs.forEach(function(u,i){ model.push({label:'Photo '+(i+1),note:'Original',cands:[u]}); });
+    } else if(kind==='cover'){
+      if(cover)model.push({label:'Cover image',note:'Original',cands:[cover]});
+    } else {
+      model.push({label:'Standard quality',note:d.size?fmtSize(d.size):'',cands:[d.play]});
+      model.push({label:'HD \\u00b7 Original quality',note:d.hd_size?fmtSize(d.hd_size):'',cands:[d.hdplay,d.play]});
+      if(d.music)model.push({label:'MP3 audio',note:'',cands:[d.music]});
+    }
+    card+='<div class="dl-opts">'+model.map(optBtn).join('')+'</div>';
     card+='</div>';
     show(card);
-    if(result){
-      result.querySelectorAll('button.dl-opt').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; download(m.cands,m.label,b); }); });
-      result.querySelectorAll('img').forEach(function(im){ im.addEventListener('error',function(){ im.style.visibility='hidden'; }); });
-    }
+    if(result){ result.querySelectorAll('button.dl-opt').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; download(m.cands,m.label,b); }); }); result.querySelectorAll('img').forEach(function(im){ im.addEventListener('error',function(){ im.style.visibility='hidden'; }); }); }
+  }
+  function apiFor(kind){
+    if(kind==='user')return '/api/user-info';
+    if(kind==='photo')return '/api/download-photo';
+    return '/api/post-detail';
   }
   function analyze(){
     var url=(input.value||'').trim(); if(!url){return;}
     var found=findUrl(url)||url; if(!isTikTok(found)){show('<p>Please paste a valid TikTok link.</p>');return;}
+    var kind=(form.getAttribute('data-kind')||'video');
     input.value=found; if(busy)return; busy=true; show('<p>Analyzing...</p>');
-    fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:found})})
+    fetch((window.TIKTMETA_API||'')+apiFor(kind),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:found})})
       .then(function(r){ return r.json().then(function(d){ return {status:r.status,body:d}; }); })
-      .then(function(res){ if(res.status>=400&&res.body&&res.body.ok===false){ show('<p>'+esc(res.body.error||('HTTP '+res.status))+'</p>'); return; } render(res.body); })
+      .then(function(res){ if(res.status>=400&&res.body&&res.body.ok===false){ show('<p>'+esc(res.body.error||('HTTP '+res.status))+'</p>'); return; } render(res.body,kind); })
       .catch(function(err){ show('<p>Could not reach the download service. Please try again ('+esc(err.message)+').</p>'); })
       .finally(function(){ busy=false; });
   }

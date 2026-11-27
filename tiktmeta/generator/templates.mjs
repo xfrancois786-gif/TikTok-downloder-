@@ -147,14 +147,31 @@ function footer(locale) {
     </footer>`;
 }
 
-function form(locale) {
+function form(locale, kind = 'video') {
   const ui = getContent(locale).ui;
-  return `<form id="dl" class="dl-form" data-locale="${locale}">
+  return `<form id="dl" class="dl-form" data-locale="${locale}" data-kind="${kind}">
     <input type="text" id="url" name="url" placeholder="${ui.common.paste}" autocomplete="off" required />
     <button type="submit" class="dl-btn">${icon('search', 18, 'ico')}${ui.common.search}</button>
   </form>
   <div id="result" class="dl-result" hidden></div>`;
 }
+
+// Map each tool slug to the kind of real data it should fetch/show.
+const TOOL_KIND = {
+  'tiktok-to-mp3': 'audio', 'tiktok-sound-downloader': 'audio', 'tiktok-music-downloader': 'audio',
+  'tiktok-audio-extractor': 'audio', 'tiktok-sound-as-ringtone': 'audio', 'tiktok-voice-downloader': 'audio',
+  'tiktok-original-sound-downloader': 'audio', 'tiktok-trending-sound-finder': 'audio', 'tiktok-podcast-downloader': 'audio',
+  'tiktok-photo-downloader': 'photo', 'tiktok-slideshow-downloader': 'photo', 'tiktok-carousel-downloader': 'photo',
+  'tiktok-live-photo-downloader': 'photo', 'tiktok-to-jpg': 'photo', 'tiktok-to-png': 'photo',
+  'tiktok-wallpaper-downloader': 'photo',
+  'tiktok-thumbnail-downloader': 'cover',
+  'tiktok-profile-picture-downloader': 'user',
+  'tiktok-caption-downloader': 'caption', 'tiktok-transcript-generator': 'caption', 'tiktok-video-to-text': 'caption',
+  'tiktok-subtitle-downloader': 'caption', 'tiktok-auto-caption-generator': 'caption',
+  'tiktok-profile-downloader': 'user', 'tiktok-analytics-checker': 'user', 'tiktok-follower-counter': 'user',
+  'tiktok-money-calculator': 'user',
+};
+function toolKind(slug) { return TOOL_KIND[slug] || 'video'; }
 
 function shell({ title, description, locale, route, jsonLd, body, script = true }) {
   return `${head({ title, description, locale, route, jsonLd })}
@@ -255,7 +272,7 @@ export function toolPage(locale, tool) {
   <section class="hero tool-hero">
     <h1>${esc(h1)}</h1>
     <p>${esc(intro)}</p>
-    ${form(locale)}
+    ${form(locale, toolKind(tool.slug))}
     ${featStrip ? `<div class="feature-strip">${featStrip}</div>` : ''}
   </section>
   <section class="section"><h2>${ui.steps.title}</h2><div class="grid grid-3">
