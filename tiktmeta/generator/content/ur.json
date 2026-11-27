@@ -1,0 +1,228 @@
+{
+  "ui": {
+    "nav": { "home": "ہوم", "tools": "ٹولز", "blog": "بلاگ", "howto": "استعمال کرنے کا طریقہ", "about": "بارے میں", "contact": "رابطہ", "faq": "عام سوالات" },
+    "hero": {
+      "title": "TikTok ڈاؤن لوڈر — واٹر مارک کے بغیر ویڈیوز ڈاؤن لوڈ کریں · مفت",
+      "subtitle": "لنک پیٹ کریں اور ۳ سیکنڈ میں ڈاؤن لوڈ کریں۔ تخلیق کار کے اصل معیار میں ویڈیو، واٹر مارک اور دوبارہ انkoڈنگ کے بغیر — ایک مفت آن لائن TikTok ٹول جس کے لیے سائن اپ یا ایپ کی ضرورت نہیں۔"
+    },
+    "cta": { "title": "ڈاؤن لوڈ کرنے تیار ہیں؟", "text": "اپنے پسندیدہ TikTok ویڈیوز اصل معیار میں واٹر مارک کے بغیر ڈاؤن لوڈ شروع کریں۔ کوئی رجسٹریشن یا انسٹالیشن درکار نہیں۔", "btn": "شروع کریں" },
+    "common": {
+      "safePrivate": "محفوظ اور نجی", "noReg": "کوئی رجسٹریشن درکار نہیں", "quickLinks": "تیز لنکس", "legal": "قانونی", "tools": "ٹولز",
+      "rights": "تمام حقوق محفوظ ہیں۔", "freeForever": "تیز ڈاؤن لوڈ۔ ہمیشہ مفت۔",
+      "independent": "TiktMeta ایک آزاد سروس ہے اور TikTok یا ByteDance Ltd. سے وابستہ، اسپانسرڈ یا منسلک نہیں ہے۔",
+      "madeWith": "اس کے ساتھ بنایا گیا", "otherTools": "مزید ٹولز", "otherToolsLead": "TikTok سے جو کچھ بھی محفوظ کیا جا سکتا ہے، ہر فارمیٹ کے لیے ایک مخصوص ٹول۔",
+      "getStarted": "شروع کریں", "search": "تلاش", "paste": "TikTok لنک پیٹ کریں", "download": "ڈاؤن لوڈ", "open": "کھولیں",
+      "language": "زبان", "searchLanguage": "تلاش کی زبان…"
+    },
+    "footer": { "tagline": "واٹر مارک کے بغیر TikTok ویڈیوز، تصاویر اور کہانیاں ڈاؤن لوڈ کرنے کا تیز ترین اور محفوظ ترین طریقہ۔ ۱۰۰% مفت، کوئی سائن اپ نہیں۔" },
+    "steps": { "title": "۳ مراحل میں ڈاؤن لوڈ کریں", "lead": "۳ مراحل۔ اس میں ۱۰ سیکنڈ سے کم وقت لگے گا۔" },
+    "notFound": { "title": "۴۰۴ — صفحہ نہیں ملا", "text": "آپ جو صفحہ تلاش کر رہے ہیں، وہ موجود نہیں ہے یا منتقل ہو چکا ہے۔", "back": "ہوم پر واپس جائیں", "popular": "مقبول ٹولز" }
+  },
+  "categoryLabels": { "video": "ویڈیو", "converter": "کنورٹر", "photo": "تصویر", "audio": "آڈیو", "text": "ٹیکسٹ", "device": "ڈوائس", "pro": "پرو ٹولز" },
+  "catCopy": {
+    "video": {
+      "intro": "TikTok کی کوئی بھی ویڈیو {t} کے ذریعے محفوظ کریں — اصل معیار، واٹر مارک بغیر، براہِ راست TikTok کے سروروں سے آپ کے ڈوائس تک۔",
+      "steps": [
+        ["TikTok کھولیں", "ایپ یا tiktok.com پر وہ ویڈیو تلاش کریں جسے آپ محفوظ کرنا چاہتے ہیں۔"],
+        ["لنک کاپی کریں", "شیئر → لنک کاپی کریں۔ vm.tiktok.com اور vt.tiktok.com کے مختصر لنک بھی کام کرتے ہیں۔"],
+        ["پیٹ اور ڈاؤن لوڈ", "اوپر لنک پیٹ کریں، تلاش دبائیں، پھر اپنا فارمیٹ منتخب کریں۔"]
+      ]
+    },
+    "converter": {
+      "intro": "{t} کے ذریعے TikTok کو اپنی مطلوبہ فارمیٹ میں تبدیل کریں۔ ہماری طرف سے کوئی دوبارہ انkoڈنگ نہیں — ہم اصل فائل لیتے ہیں اور اسے مطلوبہ فارمیٹ میں پہنچاتے ہیں۔",
+      "steps": [
+        ["TikTok لنک کاپی کریں", "ایپ یا ایڈریس بار سے شیئر → لنک کاپی کریں استعمال کریں۔"],
+        ["پیٹ اور کنورٹ", "اوپر لنک پیٹ کریں اور پوسٹ کا تجزیہ کرنے کے لیے تلاش دبائیں۔"],
+        ["ڈاؤن لوڈ", "آؤٹ پٹ فارمیٹ منتخب کریں اور فائل براہِ راست آپ کے ڈوائس پر چلی جاتی ہے۔"]
+      ]
+    },
+    "photo": {
+      "intro": "{t} کے ذریعے TikTok تصاویر، کیروسیل اور کور بلند ریزولوشن میں ڈاؤن لوڈ کریں۔ ہر تصویر مکمل معیار کی JPG کے طور پر فراہم کی جاتی ہے۔",
+      "steps": [
+        ["پوسٹ تلاش کریں", "وہ تصاویر، کیروسیل یا سلائی شو کھولیں جسے آپ محفوظ کرنا چاہتے ہیں۔"],
+        ["لنک کاپی کریں", "شیئر → لنک کاپی کریں۔"],
+        ["پیٹ اور ڈاؤن لوڈ", "اوپر پیٹ کریں، تلاش دبائیں، اور ہر تصویر الگ الگ محفوظ کریں۔"]
+      ]
+    },
+    "audio": {
+      "intro": "{t} کے ذریعے TikTok آڈیو نکالیں اور محفوظ کریں — موسیقی، آوازیں اور اصل آوازیں MP3 کے طور پر فراہم کی جاتی ہیں۔",
+      "steps": [
+        ["ویڈیو لنک کاپی کریں", "شیئر → لنک کاپی کریں وہ ویڈیو جس کی آواز آپ چاہتے ہیں۔"],
+        ["پیٹ اور نکالیں", "اوپر پیٹ کریں اور تلاش دبائیں۔"],
+        ["آڈیو ڈاؤن لوڈ", "MP3 منتخب کریں اور آواز آپ کے ڈوائس پر محفوظ ہو جاتی ہے۔"]
+      ]
+    },
+    "text": {
+      "intro": "{t} کے ذریعے کسی بھی TikTok ویڈیو سے کاپشنز، ٹرانسکرپٹس اور مزید حاصل کریں۔ متن کاپی کریں یا اسے TXT یا SRT کے طور پر ڈاؤن لوڈ کریں۔",
+      "steps": [
+        ["ویڈیو لنک کاپی کریں", "شیئر → لنک کاپی کریں۔"],
+        ["پیٹ اور پیدا کریں", "اوپر پیٹ کریں اور تلاش دبائیں۔"],
+        ["کاپی کریں یا ڈاؤن لوڈ", "متن کاپی کریں یا ٹائم سٹمپس کے ساتھ TXT / SRT کے طور پر ڈاؤن لوڈ کریں۔"]
+      ]
+    },
+    "device": {
+      "intro": "{t} — آپ کے ڈوائس پر TikTok ویڈیوز ڈاؤن لوڈ کرنے کے لیے مرحلہ وار ہدایات، ہر فائل کہاں محفوظ ہوتی ہے اور عام مسائل کو ٹھیک کرنے کا طریقہ ساتھ میں۔",
+      "steps": [
+        ["TikTok کھولیں", "وہ ویڈیو تلاش کریں جسے آپ محفوظ کرنا چاہتے ہیں۔"],
+        ["لنک کاپی کریں", "شیئر → لنک کاپی کریں۔"],
+        ["پیٹ اور ڈاؤن لوڈ", "اوپر پیٹ کریں، تلاش دبائیں، اور فائل اپنے ڈوائس پر محفوظ کریں۔"]
+      ]
+    },
+    "pro": {
+      "intro": "{t} — ایک مفت، براوزر پر مبنی یوٹیلیٹی۔ کوئی انسٹالیشن نہیں، کوئی سائن اپ نہیں، کسی بھی جدید براؤزر پر کام کرتا ہے۔",
+      "steps": [
+        ["ٹول کھولیں", "کوئی انسٹالیشن درکار نہیں — یہ آپ کے براؤزر میں چلتا ہے۔"],
+        ["اپنا ذریعہ شامل کریں", "ایک TikTok لنک پیٹ کریں یا فراہم کردہ کنٹرولز استعمال کریں۔"],
+        ["نتیجة حاصل کریں", "نتیجة فوری پیدا ہوتی ہے اور استعمال کے لیے تیار ہے۔"]
+      ]
+    }
+  },
+  "toolFaq": [
+    ["کیا {t} مفت ہے؟", "جی ہاں۔ ۱۰۰% مفت، کوئی سائن اپ نہیں، کوئی سبسکرپشن نہیں۔"],
+    ["کیا مجھے کچھ انسٹال کرنے کی ضرورت ہے؟", "نہیں۔ یہ iPhone، Android، Windows، Mac اور Linux پر کسی بھی جدید براؤزر پر کام کرتا ہے۔"],
+    ["مجھے کون سا معیار ملتا ہے؟", "جو تخلیق کار نے اپلوڈ کیا وہی — نہ زیادہ، نہ کم۔ ہم کبھی دوبارہ کمپریس یا اپ سکیل نہیں کرتے۔"],
+    ["کیا یہ محفوظ ہے؟", "ہم آپ کے ڈاؤن لوڈ کردہ کچھ بھی محفوظ نہیں کرتے۔ فائلیں براہِ راست TikTok سے آپ کے ڈوائس پر جاتی ہیں۔"]
+  ],
+  "blogBody": {
+    "intro": "{t} — ایک واضح اور عملی گائیڈ۔ وہ سب کچھ جسے آپ جاننا چاہتے ہیں، غیر ضروری تفصیلات بغیر۔",
+    "sections": [
+      ["جائزہ", "یہ گائیڈ {t} کو سادہ مراحل میں سمجھاتی ہے جنہیں آپ کسی بھی ڈوائس پر عمل کر سکتے ہیں۔"],
+      ["مرحلہ وار", "شروع کرنے کے لیے وہ TikTok لنک کاپی کریں جس کے ساتھ آپ کام کرنا چاہتے ہیں (شیئر → لنک کاپی کریں)، اوپر کے ٹول میں پیٹ کریں اور تلاش دبائیں۔"],
+      ["مشورے", "ممکنہ طور پر اصل ایپ لنک استعمال کریں، ویڈیو عوامی رکھیں، اور شیئر کرتے وقت تخلیق کار کو کریڈٹ دیں۔"],
+      ["عام سوالات", "اگر ڈاؤن لوڈ شروع نہ ہو تو تصدیق کریں کہ ویڈیو عوامی ہے اور لنک کسی مخصوص پوسٹ کی طرف اشارہ کرتا ہے، پروفائل کی نہیں۔"]
+    ],
+    "updated": "۲۷ نومبر ۲۰۲۶ کو آپڈیٹ شدہ",
+    "by": "توسط"
+  },
+  "pageBody": {
+    "howto": { "intro": "واٹر مارک کے بغیر TikTok ویڈیوز تین سادہ مراحل میں ڈاؤن لوڈ کریں — iPhone، Android اور پی سی پر۔", "sections": [["۱. لنک کاپی کریں", "TikTok ایپ میں شیئر → لنک کاپی کریں۔"], ["۲. پیٹ اور تلاش", "اوپر لنک پیٹ کریں اور تلاش دبائیں۔"], ["۳. ڈاؤن لوڈ", "ایچ ڈی ویڈیو، ایم پی تھری یا تصاویر منتخب کریں اور فائل آپ کے ڈوائس پر جاتی ہے۔"]] },
+    "about": { "intro": "{site} ایک مفت، آزاد TikTok ڈاؤن لوڈر ہے۔ ہم عوامی مواد کو اصل معیار میں محفوظ کرنا آسان بناتے ہیں۔", "sections": [["ہمارا مشن", "ہر کسی کے لیے اپنا مواد اور عوامی ویڈیوز تخلیق کار کی اجازت کے ساتھ اصل معیار میں محفوظ کرنے کا تیز، نجی اور مفت طریقہ فراہم کرنا۔"], ["پرائیویسی", "ہم آپ کے ڈاؤن لوڈ کردہ کچھ بھی محفوظ نہیں کرتے۔"]] },
+    "contact": { "intro": "سوالات، فیڈ بیک یا DMCA درخواست؟ {site} ٹیم سے رابطہ کریں۔", "sections": [["ای میل", "support@tiktmeta.com"], ["جواب کا وقت", "عام طور پر ہم ۱-۲ کاروباری دنوں کے اندر جواب دیتے ہیں۔"]] },
+    "faq": { "intro": "واٹر مارک کے بغیر TikTok ڈاؤن لوڈ کرنے کے بارے میں عام ترین سوالات کے جوابات۔", "sections": [["کیا یہ قانونی ہے؟", "ذاتی استعمال کے لیے عوامی مواد کا ڈاؤن لوڈ عام طور پر ٹھیک ہے؛ کاپی رائیٹ کا احترام کریں اور کریڈٹ دیں۔"], ["کیا یہ مفت ہے؟", "جی ہاں — کوئی اکاونٹ نہیں، کوئی سبسکرپشن نہیں۔"]] },
+    "privacy-policy": { "intro": "{site} آپ کی پرائیویسی کا احترام کرتا ہے۔ یہ پالیسی بتاتی ہے کہ ہم کیا جمع کرتے ہیں اور کیا نہیں۔", "sections": [["ڈیٹا", "ہم ویڈیوز، تاریخ یا تلاش محفوظ نہیں کرتے۔"], ["کوکیز", "ہم صرف ضروری کوکیز استعمال کرتے ہیں۔"]] },
+    "terms-of-service": { "intro": "{site} استعمال کر کے آپ ان شرائط سے متفق ہوتے ہیں۔", "sections": [["استعمال", "سروس کا استعمال صرف ان مواد کے لیے کریں جنہیں ڈاؤن لوڈ کرنے کا آپ کو حق ہے۔"], ["ذمہ داری", "سروس 'جس حال میں ہے' فراہم کی جاتی ہے۔"]] },
+    "dmca": { "intro": "{site} فکریہ ملکیت کے حقوق کا احترام کرتا ہے اور درست DMCA نوٹس کا جواب دیتا ہے۔", "sections": [["داخل کرنے کا طریقہ", "URL اور ملکیت کے ثبوت کے ساتھ support@tiktmeta.com پر ای میل کریں۔"], ["حذف", " ہم خلاف ورزی کرنے والے لنکس جلد ہٹا دیتے ہیں۔"]] },
+    "cookie-policy": { "intro": "{site} سائٹ چالُو اور محفوظ رکھنے کے لیے کوکیز استعمال کرتا ہے۔", "sections": [["ضروری", "سائٹ کے کام کرنے کے لیے درکار۔"], ["کنٹرول", "آپ اپنے براؤزر میں کوکیز بند کر سکتے ہیں۔"]] }
+  },
+  "faqPage": [
+    ["کیا TikTok ویڈیوز ڈاؤن لوڈ کرنا مفت ہے؟", "جی ہاں۔ TiktMeta ۱۰۰% مفت ہے جس میں کوئی سائن اپ یا سبسکرپشن نہیں ہے۔"],
+    ["کیا مجھے ایپ انسٹال کرنے کی ضرورت ہے؟", "نہیں۔ یہ iPhone، Android، Windows، Mac اور Linux پر کسی بھی جدید براؤزر میں کام کرتا ہے۔"],
+    ["مجھے کون سا معیار ملتا ہے؟", "جو تخلیق کار نے اپلوڈ کیا وہی — ہم کبھی دوبارہ کمپریس یا اپ سکیل نہیں کرتے۔"],
+    ["کیا یہ محفوظ اور نجی ہے؟", "ہم آپ کے ڈاؤن لوڈ کردہ کچھ بھی محفوظ نہیں کرتے؛ فائلیں براہِ راست TikTok سے آپ کے ڈوائس پر جاتی ہیں۔"],
+    ["کیا میں نجی یا ڈیلیٹ شدہ ویڈیوز ڈاؤن لوڈ کر سکتا ہوں؟", "نہیں۔ ہم صرف وہ مواد رسائی کرتے ہیں جو TikTok عوامی طور پر فراہم کرتا ہے۔"]
+  ],
+  "toolTitles": {
+    "tiktok-video-downloader": "TikTok ویڈیو ڈاؤن لوڈر",
+    "tiktok-hd-downloader": "TikTok ایچ ڈی ڈاؤن لوڈر",
+    "tiktok-4k-downloader": "TikTok 4K ڈاؤن لوڈر",
+    "tiktok-no-watermark-downloader": "TikTok واٹر مارک بغیر ڈاؤن لوڈر",
+    "tiktok-watermark-remover": "TikTok واٹر مارک ہٹانے والا",
+    "tiktok-bulk-downloader": "TikTok بلک ڈاؤن لوڈر",
+    "tiktok-playlist-downloader": "TikTok پلے لسٹ ڈاؤن لوڈر",
+    "tiktok-favorites-downloader": "TikTok فاوورٹس ڈاؤن لوڈر",
+    "tiktok-private-video-downloader": "TikTok نجی ویڈیو ڈاؤن لوڈر",
+    "tiktok-long-video-downloader": "TikTok لمبی ویڈیو ڈاؤن لوڈر",
+    "tiktok-live-video-downloader": "TikTok لائیو ویڈیو ڈاؤن لوڈر",
+    "tiktok-duet-downloader": "TikTok ڈیٹ ڈاؤن لوڈر",
+    "tiktok-to-mp4": "TikTok سے MP4",
+    "tiktok-to-mp3": "TikTok سے MP3",
+    "tiktok-to-gif": "TikTok سے GIF",
+    "tiktok-to-wav": "TikTok سے WAV",
+    "tiktok-to-webm": "TikTok سے WebM",
+    "tiktok-to-jpg": "TikTok سے JPG",
+    "tiktok-to-png": "TikTok سے PNG",
+    "tiktok-to-reels-converter": "TikTok سے Reels کنورٹر",
+    "tiktok-to-shorts-converter": "TikTok سے Shorts کنورٹر",
+    "tiktok-to-whatsapp-status": "TikTok سے WhatsApp Status",
+    "tiktok-photo-downloader": "TikTok تصاویر ڈاؤن لوڈر",
+    "tiktok-slideshow-downloader": "TikTok سلائی شو ڈاؤن لوڈر",
+    "tiktok-story-downloader": "TikTok سٹوری ڈاؤن لوڈر",
+    "tiktok-live-photo-downloader": "TikTok لائیو تصاویر ڈاؤن لوڈر",
+    "tiktok-thumbnail-downloader": "TikTok تھیمنیل ڈاؤن لوڈر",
+    "tiktok-carousel-downloader": "TikTok کیروسیل ڈاؤن لوڈر",
+    "tiktok-profile-picture-downloader": "TikTok پروفائل تصویر ڈاؤن لوڈر",
+    "tiktok-wallpaper-downloader": "TikTok وال پیپر ڈاؤن لوڈر",
+    "tiktok-sound-downloader": "TikTok آواز ڈاؤن لوڈر",
+    "tiktok-music-downloader": "TikTok موسیقی ڈاؤن لوڈر",
+    "tiktok-audio-extractor": "TikTok آڈیو نکالنے والا",
+    "tiktok-sound-as-ringtone": "TikTok آواز رنگ ٹون کے طور پر",
+    "tiktok-voice-downloader": "TikTok وائس ڈاؤن لوڈر",
+    "tiktok-original-sound-downloader": "TikTok اصل آواز ڈاؤن لوڈر",
+    "tiktok-trending-sound-finder": "TikTok ٹرینڈنگ آواز تلاش کرنے والا",
+    "tiktok-podcast-downloader": "TikTok پادکاسٹ ڈاؤن لوڈر",
+    "tiktok-caption-downloader": "TikTok کاپشن ڈاؤن لوڈر",
+    "tiktok-transcript-generator": "TikTok ٹرانسکرپٹ جنریٹر",
+    "tiktok-video-to-text": "TikTok ویڈیو سے ٹیکسٹ",
+    "tiktok-subtitle-downloader": "TikTok سب ٹائٹل ڈاؤن لوڈر",
+    "tiktok-auto-caption-generator": "TikTok آٹو کاپشن جنریٹر",
+    "tiktok-hashtag-generator": "TikTok ہیش ٹیگ جنریٹر",
+    "tiktok-bio-generator": "TikTok بائیو جنریٹر",
+    "tiktok-username-generator": "TikTok یوزر نیم جنریٹر",
+    "tiktok-on-iphone": "iPhone پر TikTok",
+    "tiktok-on-android": "Android پر TikTok",
+    "tiktok-on-pc": "پي سی پر TikTok",
+    "tiktok-on-mac": "میک پر TikTok",
+    "tiktok-on-chromebook": "کرومی بک پر TikTok",
+    "tiktok-on-ipad": "آئی پی ایڈ پر TikTok",
+    "tiktok-downloader-app": "TikTok ڈاؤن لوڈر ایپ",
+    "tiktok-downloader-api": "TikTok ڈاؤن لوڈر API",
+    "tiktok-profile-downloader": "TikTok پروفائل ڈاؤن لوڈر",
+    "tiktok-analytics-checker": "TikTok اینالٹکس چیکر",
+    "tiktok-follower-counter": "TikTok فالوور کاؤنٹر",
+    "tiktok-money-calculator": "TikTok مونی کیلکولیٹر",
+    "tiktok-video-quality-checker": "TikTok ویڈیو کوالٹی چیکر",
+    "tiktok-video-compressor": "TikTok ویڈیو کمپریسر"
+  },
+  "blogTitles": {
+    "how-to-download-tiktok-without-watermark": "واٹر مارک کے بغیر TikTok ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-videos-on-iphone": "iPhone پر TikTok ویڈیوز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-videos-on-android": "Android پر TikTok ویڈیوز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-videos-on-pc": "پي سی پر TikTok ویڈیوز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-photos": "TikTok تصاویر ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-stories": "TikTok سٹوریاں ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-slideshow": "TikTok سلائی شو ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-live-photos": "TikTok لائیو تصاویر ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-in-hd": "TikTok ایچ ڈی میں ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-tiktok-in-4k": "TikTok 4K میں ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-convert-tiktok-to-mp3": "TikTok کو MP3 میں تبدیل کرنے کا طریقہ",
+    "how-to-convert-tiktok-to-mp4": "TikTok کو MP4 میں تبدیل کرنے کا طریقہ",
+    "how-to-save-tiktok-without-posting": "پوسٹ کیے بغیر TikTok محفوظ کرنے کا طریقہ",
+    "how-to-download-your-own-tiktok-videos": "اپنی TikTok ویڈیوز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-download-private-tiktok-videos": "TikTok نجی ویڈیوز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-go-live-on-tiktok": "TikTok پر لائیو جانے کا طریقہ",
+    "how-to-get-more-views-on-tiktok": "TikTok پر زیادہ ویوز حاصل کرنے کا طریقہ",
+    "how-to-get-more-followers-on-tiktok": "TikTok پر فالوورز بڑھانے کا طریقہ",
+    "how-to-make-money-on-tiktok": "TikTok سے پیسے کمانے کا طریقہ",
+    "how-to-use-tiktok-without-account": "TikTok اکاؤنٹ بغیر استعمال کرنے کا طریقہ",
+    "how-to-remove-tiktok-watermark": "TikTok واٹر مارک ہٹانے کا طریقہ",
+    "how-to-repost-tiktok-on-reels": "TikTok Reels پر ری پوسٹ کرنے کا طریقہ",
+    "how-to-repost-tiktok-on-youtube-shorts": "YouTube Shorts پر TikTok ری پوسٹ کرنے کا طریقہ",
+    "how-to-save-tiktok-sound-as-ringtone": "TikTok آواز کو رنگ ٹون کے طور پر محفوظ کرنے کا طریقہ",
+    "how-to-set-tiktok-video-as-wallpaper": "TikTok ویڈیو کو وال پیپر کے طور پر سیٹ کرنے کا طریقہ",
+    "how-to-download-tiktok-profile-picture": "TikTok پروفائل تصویر ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-transcribe-tiktok-video": "TikTok ویڈیو کی ٹرانسکرپشن کرنے کا طریقہ",
+    "how-to-download-tiktok-captions": "TikTok کاپشنز ڈاؤن لوڈ کرنے کا طریقہ",
+    "how-to-share-tiktok-to-whatsapp-status": "TikTok کو WhatsApp Status پر شیئر کرنے کا طریقہ",
+    "best-time-to-post-on-tiktok": "TikTok پر پوسٹ کرنے کا بہترین وقت",
+    "is-it-legal-to-download-tiktok-videos": "کیا TikTok ویڈیوز ڈاؤن لوڈ کرنا قانونی ہے؟",
+    "is-tiktok-downloader-safe": "کیا TikTok ڈاؤن لوڈر محفوظ ہے؟",
+    "why-tiktok-download-fails": "TikTok ڈاؤن لوڈ کیوں ناکام ہوتا ہے؟",
+    "what-quality-do-you-get-from-tiktok": "TikTok سے آپ کو کس معیار کی ویڈیو ملتی ہے؟",
+    "tiktok-mp4-vs-mp3-difference": "TikTok MP4 بمقابلہ MP3 فرق",
+    "tiktok-hd-vs-4k-vs-hdr": "TikTok ایچ ڈی بمقابلہ 4K بمقابلہ HDR",
+    "why-tiktok-video-has-no-sound-after-download": "ڈاؤن لوڈ کے بعد TikTok ویڈیو میں آواز کیوں نہیں آتی؟",
+    "why-tiktok-video-is-blurry-after-download": "ڈاؤن لوڈ کے بعد TikTok ویڈیو دھندلی کیوں ہے؟",
+    "can-you-download-deleted-tiktok-videos": "کیا آپ ڈیلیٹ شدہ TikTok ویڈیوز ڈاؤن لوڈ کر سکتے ہیں؟",
+    "can-you-download-tiktok-without-app": "کیا آپ ایپ بغیر TikTok ڈاؤن لوڈ کر سکتے ہیں؟",
+    "tiktok-downloader-vs-screen-recording": "TikTok ڈاؤن لوڈر بمقابلہ اسکرین ریکارڈنگ",
+    "best-tiktok-downloader-in-2026": "۲۰۲۶ کا بہترین TikTok ڈاؤن لوڈر",
+    "tiksnap-vs-tiktmeta-comparison": "TikSnap بمقابلہ TiktMeta موازنه",
+    "snaptik-vs-tiktmeta-comparison": "Snaptik بمقابلہ TiktMeta موازنه",
+    "tiktok-copyright-rules-you-must-know": "TikTok کاپی رائیٹ کے قوانین جن کے بارے میں آپ کو جاننا ضروری ہے",
+    "how-to-give-credit-to-tiktok-creator": "TikTok تخلیق کار کو کریڈٹ دینے کا طریقہ",
+    "how-to-use-downloaded-tiktok-for-school": "اسکول کے لیے ڈاؤن لوڈ شدہ TikTok استعمال کرنے کا طریقہ",
+    "how-to-use-downloaded-tiktok-for-business": "بزنس کے لیے ڈاؤن لوڈ شدہ TikTok استعمال کرنے کا طریقہ",
+    "does-tiktok-notify-when-you-download": "کیا TikTok ڈاؤن لوڈ کرنے پر نوٹیفائی کرتا ہے؟",
+    "how-to-download-tiktok-without-watermark-on-iphone": "iPhone پر واٹر مارک بغیر TikTok ڈاؤن لوڈ کرنے کا طریقہ"
+  }
+}

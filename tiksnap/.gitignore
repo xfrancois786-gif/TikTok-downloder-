@@ -1,9 +1,0 @@
-node_modules/
-dist/
-.astro/
-.env
-.env.*
-!.env.example
-wrangler.toml.bak
-*.log
-.DS_Store

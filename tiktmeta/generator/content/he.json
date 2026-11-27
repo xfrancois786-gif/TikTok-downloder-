@@ -1,0 +1,472 @@
+{
+  "ui": {
+    "nav": {
+      "home": "בית",
+      "tools": "כלים",
+      "blog": "בלוג",
+      "howto": "איך להשתמש",
+      "about": "אודות",
+      "contact": "צור קשר",
+      "faq": "שאלות נפוצות"
+    },
+    "hero": {
+      "title": "הורדת טיקטוק — הורדת סרטונים ללא סימן מים · חינם",
+      "subtitle": "הדביקו את הקישור והורידו תוך 3 שניות. וידאו באיכות המקור של היוצר, ללא סימן מים וללא קידוד מחדש — שומר טיקטוק מקוון חינם ללא הרשמה וללא אפליקציה."
+    },
+    "cta": {
+      "title": "מוכנים להוריד?",
+      "text": "התחילו להוריד את סרטוני הטיקטוק האהובים עליכם ללא סימן מים באיכות המקור. ללא הרשמה או התקנה.",
+      "btn": "ʼʼʼʼ"
+    },
+    "common": {
+      "safePrivate": "בטוח ופרטי",
+      "noReg": "ללא הרשמה",
+      "quickLinks": "קישורים מהירים",
+      "legal": "משפטי",
+      "tools": "כלים",
+      "rights": "כל הזכויות שמורות.",
+      "freeForever": "הורדה מהירה. חינם לתמיד.",
+      "independent": "הוא שירות עצמאי ואינו קשור, ממומן או מזוהה עם טיקטוק או ByteDance Ltd.",
+      "madeWith": "נעשה עם",
+      "otherTools": "כלים נוספים",
+      "otherToolsLead": "כל מה שאפשר לשמור מטיקטוק, כל פורמט עם כלי ייעודי.",
+      "getStarted": "התחילו",
+      "search": "חיפוש",
+      "paste": "הדביקו קישור טיקטוק",
+      "download": "הורדה",
+      "open": "פתח",
+      "language": "שפה",
+      "searchLanguage": "חיפוש שפה…"
+    },
+    "footer": {
+      "tagline": "הדרך המהירה והבטוחה ביותר להורדת סרטוני, תמונות וסטוריז טיקטוק ללא סימן מים. 100% חינם, ללא הרשמה."
+    },
+    "steps": {
+      "title": "הורדה ב-3 שלבים",
+      "lead": "שלושה שלבים. ייקח לכם פחות מ-10 שניות."
+    },
+    "notFound": {
+      "title": "404 — הדף לא נמצא",
+      "text": "הדף שאתם מחפשים לא קיים או הועבר.",
+      "back": "חזרה לבית",
+      "popular": "כלים פופולריים"
+    }
+  },
+  "categoryLabels": {
+    "video": "וידאו",
+    "converter": "המרה",
+    "photo": "תמונה",
+    "audio": "אודיו",
+    "text": "טקסט",
+    "device": "מכשיר",
+    "pro": "כלים מתקדמים"
+  },
+  "catCopy": {
+    "video": {
+      "intro": "שמרו כל סרטון טיקטוק עם {t} — Qualität מקור, ללא סימן מים, ישירות משרתי טיקטוק למכשירכם.",
+      "steps": [
+        [
+          "פתחו טיקטוק",
+          "מצאו את הסרטון שברצונכם לשמור באפליקציה או ב-tiktok.com."
+        ],
+        [
+          "העתיקו את הקישור",
+          "לחצו שיתוף → העתק קישור. גם קישורים קצרים vm.tiktok.com ו-vt.tiktok.com עובדים."
+        ],
+        [
+          "הדביקו והורידו",
+          "הדביקו את הקישור למעלה ולחצו חיפוש, ואז בחרו את הפורמט."
+        ]
+      ]
+    },
+    "converter": {
+      "intro": "המירו טיקטוק לפורמט הרצוי עם {t}. ללא קידוד מחדש מצידנו — אנו מביאים את הקובץ המקורי ומספקים אותו בפורמט היעד.",
+      "steps": [
+        [
+          "העתיקו את קישור הטיקטוק",
+          "השתמשו בשיתוף → העתק קישור מהאפליקציה או משורת הכתובת."
+        ],
+        [
+          "הדביקו והמירו",
+          "הדביקו את הקישור למעלה ולחצו חיפוש לניתוח הפוסט."
+        ],
+        [
+          "הורדה",
+          "בחרו פורמט פלט והקובץ יגיע ישירות למכשירכם."
+        ]
+      ]
+    },
+    "photo": {
+      "intro": "הורידו תמונות, קרוסלות וכריכות טיקטוק ברזולוציה גבוהה עם {t}. כל תמונה מוגשת כ-JPG באיכות מלאה.",
+      "steps": [
+        [
+          "מצאו את הפוסט",
+          "פתחו את התמונה, הקרוסלה או המצגת שברצונכם לשמור."
+        ],
+        [
+          "העתיקו את הקישור",
+          "לחצו שיתוף → העתק קישור."
+        ],
+        [
+          "הדביקו והורידו",
+          "הדביקו למעלה, לחצו חיפוש, ושמרו כל תמונה בנפרד."
+        ]
+      ]
+    },
+    "audio": {
+      "intro": "חלצו ושמרו אודיו טיקטוק עם {t} — מוזיקה, קולות וצלילים מקוריים כ-MP3.",
+      "steps": [
+        [
+          "העתיקו את קישור הסרטון",
+          "שיתוף → העתק קישור בסרטון dont-sound."
+        ],
+        [
+          "הדביקו וחילצו",
+          "הדביקו למעלה ולחצו חיפוש."
+        ],
+        [
+          "הורדת אודיו",
+          "בחרו MP3 והצליל יישמר למכשירכם."
+        ]
+      ]
+    },
+    "text": {
+      "intro": "קבלו כיתובים, תמלולים ועוד מכל סרטון טיקטוק עם {t}. העתיקו את הטקסט או הורידו כ-TXT או SRT.",
+      "steps": [
+        [
+          "העתיקו את קישור הסרטון",
+          "שיתוף → העתק קישור."
+        ],
+        [
+          "הדביקו וצרו",
+          "הדביקו למעלה ולחצו חיפוש."
+        ],
+        [
+          "העתיקו או הורידו",
+          "העתיקו את הטקסט או הורידו כ-TXT / SRT עם חותמות זמן."
+        ]
+      ]
+    },
+    "device": {
+      "intro": "{t} — הוראות שלב אחר שלב להורדת סרטוני טיקטוק במכשירכם, היכן כל קובץ נשמר ואיך לתקן בעיות נפוצות.",
+      "steps": [
+        [
+          "פתחו טיקטוק",
+          "מצאו את הסרטון שברצונכם לשמור."
+        ],
+        [
+          "העתיקו את הקישור",
+          "לחצו שיתוף → העתק קישור."
+        ],
+        [
+          "הדביקו והורידו",
+          "הדביקו למעלה, לחצו חיפוש, ושמרו את הקובץ למכשירכם."
+        ]
+      ]
+    },
+    "pro": {
+      "intro": "{t} — כלי עזר חינמי בדפדפן. ללא התקנה, ללא הרשמה, работает בכל דפדפן מודרני.",
+      "steps": [
+        [
+          "פתחו את הכלי",
+          "אין צורך בהתקנה — הוא רץ בדפדפן."
+        ],
+        [
+          "הוסיפו את המקור",
+          "הדביקו קישור טיקטוק או השתמשו בפקדים שסופקו."
+        ],
+        [
+          "קבלו את התוצאה",
+          "התוצאה נוצרת מיידית ומוכנה לשימוש."
+        ]
+      ]
+    }
+  },
+  "toolFaq": [
+    [
+      "האם {t} חינם?",
+      "כן. 100% חינם, ללא הרשמה, ללא מנויים."
+    ],
+    [
+      "האם צריך להתקין משהו?",
+      "לא. работает בכל דפדפן מודרני ב-iPhone, Android, Windows, Mac ו-Linux."
+    ],
+    [
+      "איזו Qualität אקבל?",
+      "מה שהיוצר העלה — לא יותר ולא פחות. мы לא מכווצים מחדש ולא משפרים."
+    ],
+    [
+      "האם זה בטוח?",
+      "мы не שומרים כלום שהורדתם. הקבצים הולכים ישירות מטיקטוק למכשירכם."
+    ]
+  ],
+  "blogBody": {
+    "intro": "{t} — מדריך ברור ומעשי. כל מה שצריך לדעת, ללא פירוט מיותר.",
+    "sections": [
+      [
+        "סקירה",
+        "מדריך זה מכסה את {t} בצעדים פשוטים שאפשר לעקוב אחריהם בכל מכשיר."
+      ],
+      [
+        "שלב אחר שלב",
+        "התחילו בהעתקת קישור הטיקטוק שברצונכם לעבוד איתו (שיתוף → העתק קישור). הדביקו אותו בכלי למעלה ולחצו חיפוש."
+      ],
+      [
+        "טיפים",
+        "השתמשו בקישור האפליקציה המקורי כאשר אפשר, שמרו על הוידאו ציבורי, ותנו קרדיט ליוצר בעת השיתוף."
+      ],
+      [
+        "שאלות נפוצות",
+        "אם ההורדה לא מתחילה, ודאו שהוידאו ציבורי והקישור מצביע על פוסט ספציפי, לא על פרופיל."
+      ]
+    ],
+    "updated": "עודכן ב-27 בנובמבר 2026",
+    "by": "מאת"
+  },
+  "pageBody": {
+    "howto": {
+      "intro": "הורדת סרטוני טיקטוק ללא סימן מים בשלושה צעדים פשוטים — ב-iPhone, Android ו-PC.",
+      "sections": [
+        [
+          "1. העתקת הקישור",
+          "לחצו שיתוף → העתק קישור באפליקציית טיקטוק."
+        ],
+        [
+          "2. הדבקה וחיפוש",
+          "הדביקו את הקישור למעלה ולחצו חיפוש."
+        ],
+        [
+          "3. הורדה",
+          "בחרו HD Video, MP3 או תמונות והקובץ יגיע למכשירכם."
+        ]
+      ]
+    },
+    "about": {
+      "intro": "{site} הוא הורדת טיקטוק חינמית ועצמאית. мы מקילים על שמירת תוכן ציבורי באיכות מקור.",
+      "sections": [
+        [
+          "המשימה שלנו",
+          "לתת לכל אחד דרך מהירה, פרטית וחינמית לשמור את התוכן שלו וסרטונים ציבוריים באישור היוצר."
+        ],
+        [
+          "פרטיות",
+          "мы לא שומרים כלום שהורדתם."
+        ]
+      ]
+    },
+    "contact": {
+      "intro": "שאלות, משוב או בקשת DMCA? פנו לצוות {site}.",
+      "sections": [
+        [
+          "אימייל",
+          "support@tiktmeta.com"
+        ],
+        [
+          "זמן מענה",
+          "мы בדרך כללительнנו תוך 1–2 ימי עבודה."
+        ]
+      ]
+    },
+    "faq": {
+      "intro": "תשובות לשאלות הנפוצות ביותר על הורדת טיקטוק ללא סימן מים.",
+      "sections": [
+        [
+          "האם זה חוקי?",
+          "הורדת תוכן ציבורי לשימוש אישי היא בדרך כלל בסדר; כבדו זכויות יוצרים ותנו קרדיט."
+        ],
+        [
+          "האם זה חינם?",
+          "כן — ללא חשבונות, ללא מנויים."
+        ]
+      ]
+    },
+    "privacy-policy": {
+      "intro": "{site} מכבד את הפרטיות שלכם. מדיניות זו מסבירה מה мы אוספים ומה לא.",
+      "sections": [
+        [
+          "נתונים",
+          "мы לא שומרים סרטונים, היסטוריה או חיפושים."
+        ],
+        [
+          "Cookies",
+          "мы משתמשים רק ב-cookies חיוניים."
+        ]
+      ]
+    },
+    "terms-of-service": {
+      "intro": "בשימוש ב-{site} אתם מסכימים לתנאים אלה.",
+      "sections": [
+        [
+          "שימוש",
+          "השתמשו בשירות רק עבור תוכן youre вправе להוריד."
+        ],
+        [
+          "אחריות",
+          "השירות מסופק как есть."
+        ]
+      ]
+    },
+    "dmca": {
+      "intro": "{site} מכבד זכויות קניין רוחני ומשיב להודעות DMCA תקפות.",
+      "sections": [
+        [
+          "הגשת בקשה",
+          "שלחו אימייל ל-support@tiktmeta.com עם ה-URL והוכחת בעלות."
+        ],
+        [
+          "הסרה",
+          "мы מסירים קישורים פוגעים במהירות."
+        ]
+      ]
+    },
+    "cookie-policy": {
+      "intro": "{site} משתמש ב-cookies כדי לשמור על פעילות האתר ואבטחתו.",
+      "sections": [
+        [
+          "חיוני",
+          "הכרחי לתפקוד האתר."
+        ],
+        [
+          "שליטה",
+          "ניתן להשבית cookies בדפדפן."
+        ]
+      ]
+    }
+  },
+  "faqPage": [
+    [
+      "האם להוריד סרטוני טיקטוק חינם?",
+      "כן. TiktMeta 100% חינם ללא הרשמה וללא מנויים."
+    ],
+    [
+      "האם צריך להתקין אפליקציה?",
+      "לא. работает בכל דפדפן מודרני ב-iPhone, Android, Windows, Mac ו-Linux."
+    ],
+    [
+      "א∶se Qualität אקבל?",
+      "מה שהיוצר העלה — мы לא מכווצים מחדש ולא משפרים."
+    ],
+    [
+      "האם זה בטוח ופרטי?",
+      "мы לא שומרים כלום שהורדתם; קבצים הולכים ישירות מטיקטוק למכשירכם."
+    ],
+    [
+      "האם אפשר להוריד סרטונים פרטיים או שנמחקו?",
+      "לא. мы ניגשים רק לתוכן שטיקטוק מגישה לציבור."
+    ]
+  ],
+  "toolTitles": {
+    "tiktok-video-downloader": "טיקטוק וידאו הורדה",
+    "tiktok-hd-downloader": "טיקטוק HD הורדה",
+    "tiktok-4k-downloader": "טיקטוק 4K הורדה",
+    "tiktok-no-watermark-downloader": "טיקטוק אין סימן מים הורדה",
+    "tiktok-watermark-remover": "טיקטוק סימן מים הסרה",
+    "tiktok-bulk-downloader": "טיקטוק ריבוי הורדה",
+    "tiktok-playlist-downloader": "טיקטוק פלייליסט הורדה",
+    "tiktok-favorites-downloader": "טיקטוק מועדפים הורדה",
+    "tiktok-private-video-downloader": "טיקטוק פרטי וידאו הורדה",
+    "tiktok-long-video-downloader": "טיקטוק ארוך וידאו הורדה",
+    "tiktok-live-video-downloader": "טיקטוק לייב וידאו הורדה",
+    "tiktok-duet-downloader": "טיקטוק דואט הורדה",
+    "tiktok-to-mp4": "טיקטוק ל MP4",
+    "tiktok-to-mp3": "טיקטוק ל MP3",
+    "tiktok-to-gif": "טיקטוק ל GIF",
+    "tiktok-to-wav": "טיקטוק ל WAV",
+    "tiktok-to-webm": "טיקטוק ל WebM",
+    "tiktok-to-jpg": "טיקטוק ל JPG",
+    "tiktok-to-png": "טיקטוק ל PNG",
+    "tiktok-to-reels-converter": "טיקטוק ל Reels המרה",
+    "tiktok-to-shorts-converter": "טיקטוק ל Shorts המרה",
+    "tiktok-to-whatsapp-status": "טיקטוק ל מהsאפליקציה סטטוס",
+    "tiktok-photo-downloader": "טיקטוק תמונה הורדה",
+    "tiktok-slideshow-downloader": "טיקטוק מצגת הורדה",
+    "tiktok-story-downloader": "טיקטוק סטורי הורדה",
+    "tiktok-live-photo-downloader": "טיקטוק לייב תמונה הורדה",
+    "tiktok-thumbnail-downloader": "טיקטוק תמונה ממוזערת הורדה",
+    "tiktok-carousel-downloader": "טיקטוק קרוסלה הורדה",
+    "tiktok-profile-picture-downloader": "טיקטוק פרופיל תמונה הורדה",
+    "tiktok-wallpaper-downloader": "טיקטוק טפט הורדה",
+    "tiktok-sound-downloader": "טיקטוק צליל הורדה",
+    "tiktok-music-downloader": "טיקטוק מוזיקה הורדה",
+    "tiktok-audio-extractor": "טיקטוק אודיו חילוץ",
+    "tiktok-sound-as-ringtone": "טיקטוק צליל כ רינגטון",
+    "tiktok-voice-downloader": "טיקטוק קול הורדה",
+    "tiktok-original-sound-downloader": "טיקטוק מקורי צליל הורדה",
+    "tiktok-trending-sound-finder": "טיקטוק טרנדי צליל מציאת",
+    "tiktok-podcast-downloader": "טיקטוק פודקאסט הורדה",
+    "tiktok-caption-downloader": "טיקטוק כיתוב הורדה",
+    "tiktok-transcript-generator": "טיקטוק תמלול מחולל",
+    "tiktok-video-to-text": "טיקטוק וידאו לטקסט",
+    "tiktok-subtitle-downloader": "טיקטוק כתובית הורדה",
+    "tiktok-auto-caption-generator": "טיקטוק אוטומטי כיתוב מחולל",
+    "tiktok-hashtag-generator": "טיקטוק האשטאג מחולל",
+    "tiktok-bio-generator": "טיקטוק ביוגרפיה מחולל",
+    "tiktok-username-generator": "טיקטוק שם משתמש מחולל",
+    "tiktok-on-iphone": "טיקטוק ב iPhone",
+    "tiktok-on-android": "טיקטוק ב Android",
+    "tiktok-on-pc": "טיקטוק ב PC",
+    "tiktok-on-mac": "טיקטוק ב Mac",
+    "tiktok-on-chromebook": "טיקטוק ב Chromebook",
+    "tiktok-on-ipad": "טיקטוק ב iPad",
+    "tiktok-downloader-app": "טיקטוק הורדה אפליקציה",
+    "tiktok-downloader-api": "טיקטוק הורדה API",
+    "tiktok-profile-downloader": "טיקטוק פרופיל הורדה",
+    "tiktok-analytics-checker": "טיקטוק אנליטיקה בדיקת",
+    "tiktok-follower-counter": "טיקטוק עוקב ספירה",
+    "tiktok-money-calculator": "טיקטוק כסף מחשבון",
+    "tiktok-video-quality-checker": "טיקטוק וידאו איכות בדיקת",
+    "tiktok-video-compressor": "טיקטוק וידאו kompressor"
+  },
+  "blogTitles": {
+    "how-to-download-tiktok-without-watermark": "איך ל הורדה טיקטוק ללא סימן מים",
+    "how-to-download-tiktok-videos-on-iphone": "איך ל הורדה טיקטוק סרטונים ב iPhone",
+    "how-to-download-tiktok-videos-on-android": "איך ל הורדה טיקטוק סרטונים ב Android",
+    "how-to-download-tiktok-videos-on-pc": "איך ל הורדה טיקטוק סרטונים ב PC",
+    "how-to-download-tiktok-photos": "איך ל הורדה טיקטוק תמונות",
+    "how-to-download-tiktok-stories": "איך ל הורדה טיקטוק סטוריז",
+    "how-to-download-tiktok-slideshow": "איך ל הורדה טיקטוק מצגת",
+    "how-to-download-tiktok-live-photos": "איך ל הורדה טיקטוק לייב תמונות",
+    "how-to-download-tiktok-in-hd": "איך ל הורדה טיקטוק ב HD",
+    "how-to-download-tiktok-in-4k": "איך ל הורדה טיקטוק ב 4K",
+    "how-to-convert-tiktok-to-mp3": "איך ל המרה טיקטוק ל MP3",
+    "how-to-convert-tiktok-to-mp4": "איך ל המרה טיקטוק ל MP4",
+    "how-to-save-tiktok-without-posting": "איך ל שמירה טיקטוק ללא פרסום",
+    "how-to-download-your-own-tiktok-videos": "איך ל הורדה שלכם אישי טיקטוק סרטונים",
+    "how-to-download-private-tiktok-videos": "איך ל הורדה פרטי טיקטוק סרטונים",
+    "how-to-go-live-on-tiktok": "איך ל ללכת לייב ב טיקטוק",
+    "how-to-get-more-views-on-tiktok": "איך ל מקבלים עוד צפיות ב טיקטוק",
+    "how-to-get-more-followers-on-tiktok": "איך ל מקבלים עוד עוקבים ב טיקטוק",
+    "how-to-make-money-on-tiktok": "איך ל לעשות כסף ב טיקטוק",
+    "how-to-use-tiktok-without-account": "איך ל שימוש טיקטוק ללא חשבון",
+    "how-to-remove-tiktok-watermark": "איך ל הסרה טיקטוק סימן מים",
+    "how-to-repost-tiktok-on-reels": "איך ל פרסום מחדש טיקטוק ב Reels",
+    "how-to-repost-tiktok-on-youtube-shorts": "איך ל פרסום מחדש טיקטוק ב אתםTube Shorts",
+    "how-to-save-tiktok-sound-as-ringtone": "איך ל שמירה טיקטוק צליל כ רינגטון",
+    "how-to-set-tiktok-video-as-wallpaper": "איך ל הגדרה טיקטוק וידאו כ טפט",
+    "how-to-download-tiktok-profile-picture": "איך ל הורדה טיקטוק פרופיל תמונה",
+    "how-to-transcribe-tiktok-video": "איך ל תמלול טיקטוק וידאו",
+    "how-to-download-tiktok-captions": "איך ל הורדה טיקטוק כיתובs",
+    "how-to-share-tiktok-to-whatsapp-status": "איך ל שיתוף טיקטוק ל מהsאפליקציה סטטוס",
+    "best-time-to-post-on-tiktok": " (ה (ה זמן ל פרסום ב טיקטוק",
+    "is-it-legal-to-download-tiktok-videos": "האם זה חוקי ל הורדה טיקטוק סרטונים",
+    "is-tiktok-downloader-safe": "האם טיקטוק הורדה בטוח",
+    "why-tiktok-download-fails": "למה טיקטוק הורדה נכשל",
+    "what-quality-do-you-get-from-tiktok": "מה איכות Do אתם מקבלים מ טיקטוק",
+    "tiktok-mp4-vs-mp3-difference": "טיקטוק MP4 مقابل MP3 הבדל",
+    "tiktok-hd-vs-4k-vs-hdr": "טיקטוק HD مقابل 4K مقابل HDR",
+    "why-tiktok-video-has-no-sound-after-download": "למה טיקטוק וידאו יש אין צליל אחרי הורדה",
+    "why-tiktok-video-is-blurry-after-download": "למה טיקטוק וידאו האם מטושטש אחרי הורדה",
+    "can-you-download-deleted-tiktok-videos": "האם אתם הורדה נמחק טיקטוק סרטונים",
+    "can-you-download-tiktok-without-app": "האם אתם הורדה טיקטוק ללא אפליקציה",
+    "tiktok-downloader-vs-screen-recording": "טיקטוק הורדה مقابل הקלטת מסך",
+    "best-tiktok-downloader-in-2026": " (ה (ה טיקטוק הורדה ב-2026",
+    "tiksnap-vs-tiktmeta-comparison": "Tiksnap مقابل Tiktmeta השוואה",
+    "snaptik-vs-tiktmeta-comparison": "Snaptik مقابل Tiktmeta השוואה",
+    "tiktok-copyright-rules-you-must-know": "טיקטוק זכויות יוצרים כללים אתם צריך לדעת",
+    "how-to-give-credit-to-tiktok-creator": "איך ל לתת קרדיט ל טיקטוק יוצר",
+    "how-to-use-downloaded-tiktok-for-school": "איך ל שימוש הורדהed טיקטוק ל בית ספר",
+    "how-to-use-downloaded-tiktok-for-business": "איך ל שימוש הורדהed טיקטוק ל עסק",
+    "does-tiktok-notify-when-you-download": "האם טיקטוק הודעה כאשר אתם הורדה",
+    "how-to-download-tiktok-without-watermark-on-iphone": "איך ל הורדה טיקטוק ללא סימן מים ב iPhone"
+  }
+}

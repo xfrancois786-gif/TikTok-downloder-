@@ -1,0 +1,18 @@
+name = "tiktmeta-api"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# API-only: no media bandwidth through Cloudflare.
+# The Worker proxies JSON from the TikLive API and returns signed CDN links;
+# the browser downloads media directly from TikTok's CDN.
+[vars]
+TIKLIVE_API_KEY = "b7105ebbe6bb1b80de31042f9629f9b0"
+
+# For production, prefer a secret over a committed var:
+#   wrangler secret put TIKLIVE_API_KEY
+# and remove TIKLIVE_API_KEY from [vars] above.
+
+# KV for response caching (optional). Create with: wrangler kv namespace create CACHE
+# [[kv_namespaces]]
+# binding = "CACHE"
+# id = "<your-kv-id>"

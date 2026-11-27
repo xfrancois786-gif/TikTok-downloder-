@@ -1,0 +1,665 @@
+{
+  "tools": {
+    "tiktok-video-to-text": {
+      "h1": "TikTok Video to Text",
+      "intro": "TikTok Video to Text turns the spoken words in a public TikTok video into readable text. It is the fastest way to capture what a video says without watching it, ready to copy or download.",
+      "sections": [
+        {
+          "h": "What it produces",
+          "p": "The tool transcribes the audio of the video into text. You get the spoken content as a block of writing you can search, quote, or reuse."
+        },
+        {
+          "h": "Why convert to text",
+          "p": "Text is searchable, skimmable, and accessible. Converting a video to text helps with notes, accessibility, and repurposing spoken content into written form."
+        },
+        {
+          "h": "Accuracy",
+          "p": "Transcripts are machine-generated and can mishear names or accents. Review the output before using it where precision matters."
+        },
+        {
+          "h": "Export options",
+          "p": "Copy the text directly or download it as TXT or SRT with timestamps for subtitle use."
+        },
+        {
+          "h": "Tips for a usable text version",
+          "p": "Start from clear audio and expect to tidy up names, numbers, and slang by hand, since those are where automated text slips. Export as TXT for reading or SRT if you want timing. A transcript is a strong first draft, not a finished document, so a quick proofread makes it reliable for notes or reference."
+        },
+        {
+          "h": "Turning a video into written form",
+          "p": "Text from a video is ideal for search, accessibility, and repurposing your own content into an article or post. It also lets you quote a specific line accurately. Keep the speaker's permission in mind before publishing their words, and treat the transcript as a tool for understanding first and a quotable source second."
+        },
+        {
+          "h": "Choosing an export format",
+          "p": "Plain TXT is the simplest for reading and pasting into notes, while SRT adds timestamps that make it easy to sync text to a moment in the video. If you only need the words, TXT is enough; if you plan captions, SRT saves you aligning lines by hand. Pick the format that matches the next step."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Get the text",
+          "Copy or download the transcription."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the text editable?",
+          "Yes, copy it and edit freely. The transcript is plain text you can paste into any editor, reformat, or trim. You are not locked into the output; it is a starting point you can shape. This flexibility is why text is so useful: you can quote it, summarize it, or fold it into an article without retyping."
+        ],
+        [
+          "Can I download it?",
+          "Yes, as TXT or SRT. TXT gives you the words for reading and editing, while SRT adds timestamps for use as subtitles. Both come from the same transcription. Choose TXT for notes and articles, and SRT when you want to attach the text to the video as captions in a player or editor."
+        ],
+        [
+          "Is it accurate?",
+          "Mostly, but proofread important uses. Transcripts are machine-generated and can mishear names, slang, or accents. For casual reading they are usually close enough, while for publishing or accessibility you should review against the audio. Treating the text as a strong first draft rather than a perfect record catches the occasional error before it matters."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and generate the text at no cost. The free model is the same as every other tool, so converting a video to text costs nothing."
+        ]
+      ]
+    },
+    "tiktok-subtitle-downloader": {
+      "h1": "TikTok Subtitle Downloader",
+      "intro": "The TikTok Subtitle Downloader saves the captions of a public TikTok video as a subtitle file. You get timestamped text you can attach to the video in a player or editor.",
+      "sections": [
+        {
+          "h": "What subtitles are",
+          "p": "Subtitles are the on-screen text of what is said, with timestamps. This tool exports them as a file so you can reuse or archive the captions."
+        },
+        {
+          "h": "SRT format",
+          "p": "The standard export is SRT, which maps text to time ranges. It works in VLC, most editors, and any player that supports captions."
+        },
+        {
+          "h": "Why keep subtitles",
+          "p": "Subtitles improve accessibility, let you watch muted, and make content searchable. Saving them separately means you can reuse the captions elsewhere."
+        },
+        {
+          "h": "Accuracy note",
+          "p": "Auto-generated subtitles can contain errors. Review and correct them before publishing."
+        },
+        {
+          "h": "Tips for clean subtitles",
+          "p": "Download subtitles alongside the original video so the timing matches, and check that the file opens in your player without a delay. SRT is widely supported, so it drops into most players and editors. If the on-screen text was auto-generated, expect to fix a few words, especially proper names and numbers."
+        },
+        {
+          "h": "Using subtitles well",
+          "p": "Subtitles help when you watch without sound, learn a language, or quote a line precisely. Keep the SRT with the video and load it in your player to toggle captions on and off. For someone else's video, brief quoted lines with credit are fine; the file is mainly a convenience for understanding and accessibility."
+        },
+        {
+          "h": "When subtitles drift out of sync",
+          "p": "Occasionally a subtitle track runs slightly ahead or behind the picture, usually because the source video was edited after the captions were made. Most players let you nudge the timing by a fraction of a second. If the drift is large, the captions may belong to a different cut, so re-download them from the same post as the video."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download SRT",
+          "Save the subtitle file."
+        ]
+      ],
+      "faqs": [
+        [
+          "What format is the file?",
+          "SRT with timestamps. This is the standard subtitle format that maps each line of text to a time range. It works in VLC, most editors, and any player that supports captions. The timestamps let the text sync to the video, so the subtitles appear at the right moment. It is the format you want for reusable, attachable captions."
+        ],
+        [
+          "Where can I use it?",
+          "VLC, editors, and caption-supporting players. SRT is widely accepted, so you can attach the subtitles to the video in a player or import them into editing software. This makes the captions reusable across tools. If a player does not support SRT, you can convert it, but most modern software handles it directly."
+        ],
+        [
+          "Is it accurate?",
+          "Review auto-generated text. The subtitles are machine-produced and can mishear words or names. For casual use they are usually fine, but for publishing or accessibility, proofread against the audio and correct errors. The SRT is a strong draft, not a guaranteed-perfect transcript, so a quick review improves reliability."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the subtitle file at no cost. The free model matches the other tools, so downloading subtitles costs nothing."
+        ]
+      ]
+    },
+    "tiktok-auto-caption-generator": {
+      "h1": "TikTok Auto Caption Generator",
+      "intro": "The TikTok Auto Caption Generator produces captions for a public TikTok video from its audio, giving you ready-to-use subtitle text. It is a quick way to add accessible captions to a clip.",
+      "sections": [
+        {
+          "h": "How it generates captions",
+          "p": "The tool transcribes the video's speech and formats it as captions with timing. You get a caption file you can attach to the video or edit."
+        },
+        {
+          "h": "Why auto captions",
+          "p": "Captions make videos accessible and watchable without sound. Generating them automatically saves the manual work of typing every line."
+        },
+        {
+          "h": "Editing the result",
+          "p": "Auto captions are a strong first draft but can mishear words. Review and fix names or terms before publishing."
+        },
+        {
+          "h": "Export",
+          "p": "Download the captions as SRT for use in players and editors, or copy the text."
+        },
+        {
+          "h": "Tips for readable auto captions",
+          "p": "Auto captions are a strong start, but read them once to fix names, slang, and punctuation, which the generator guesses at. Keep lines short so they are easy to read on a phone, and place them where they do not cover faces or key action. A clean source audio gives noticeably better results than a noisy one."
+        },
+        {
+          "h": "Editing and exporting the result",
+          "p": "After generating, export to SRT to keep the timing or to TXT for a plain script. Adjust any line that the tool misheard before you publish, since a wrong word in a caption is more noticeable than in a transcript. The export drops into most editors, so you can style and place captions to match your video's look."
+        },
+        {
+          "h": "Why captions matter for reach",
+          "p": "Many people watch on mute, so captions keep your message clear even without sound, which can improve watch time. They also make a video accessible to viewers who are deaf or hard of hearing. A quick pass to correct the auto text turns a rough draft into captions that represent you well."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download captions",
+          "Save the generated SRT."
+        ]
+      ],
+      "faqs": [
+        [
+          "Are captions editable?",
+          "Yes, edit the SRT after download. The generated captions are a starting point you can open in any text or subtitle editor and adjust. You can fix misheard words, correct names, or retime lines. This editability is important because auto-captions are a strong first draft rather than a finished product, and a quick pass makes them publishable."
+        ],
+        [
+          "Do they include timing?",
+          "Yes, SRT has timestamps. Each line is mapped to a time range so the captions sync to the video. This is what makes them usable as subtitles rather than just a block of text. The timing lets you attach the captions in a player or editor and have them appear at the right moment."
+        ],
+        [
+          "Are they perfect?",
+          "Review for errors. Auto-captions can mishear names, slang, or accented speech. For casual use they are usually close, but for publishing or accessibility, proofread against the audio. Treating them as a draft and fixing mistakes before publishing ensures the captions are accurate and professional."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and generate the captions at no cost. The free model is identical to the other tools, so auto-captioning a video costs nothing."
+        ]
+      ]
+    },
+    "tiktok-hashtag-generator": {
+      "h1": "TikTok Hashtag Generator",
+      "intro": "The TikTok Hashtag Generator suggests relevant hashtags for a public TikTok video based on its caption and content, helping you tag your own posts with terms that fit the topic.",
+      "sections": [
+        {
+          "h": "What it does",
+          "p": "It reads the caption and topic of a public video and proposes hashtags that match the subject. You can use them as a starting set for your own related posts."
+        },
+        {
+          "h": "Why relevant tags help",
+          "p": "Good hashtags group content by topic so the right viewers find it. A focused set beats a flood of unrelated tags."
+        },
+        {
+          "h": "Use thoughtfully",
+          "p": "Pick the tags that genuinely describe your post. Overloading with loosely related hashtags can look spammy and dilute relevance."
+        },
+        {
+          "h": "Trends and niches",
+          "p": "Mix broad and niche tags to balance reach and specificity. The generator gives you raw material to curate."
+        },
+        {
+          "h": "Tips for a balanced tag set",
+          "p": "Mix a few broad tags with several specific ones so you reach both a wide audience and a targeted niche. Too many tags reads as spam and can bury the relevant ones, so pick a focused set that matches the video. Put the most important tag first, and skip unrelated trending tags that do not fit the content."
+        },
+        {
+          "h": "Using tags without chasing trends",
+          "p": "Tags help discovery, but the video itself has to deliver, so choose ones that describe what viewers actually see. Trending tags fade fast, so lean on steady niche tags that keep working over time. Thoughtful tagging is a small edge; relevance beats volume every time, and a clean, honest set avoids looking desperate."
+        },
+        {
+          "h": "Avoiding tag spam",
+          "p": "Stuffing a caption with dozens of loosely related tags can look spammy to viewers and platforms alike, and it rarely helps. A handful of precise tags signals what the video is really about. Save the tag generator for inspiration, then trim to the ones that genuinely apply, keeping your post clean and credible."
+        }
+      ],
+      "steps": [
+        [
+          "Copy a reference link",
+          "Share → Copy link on a similar video."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Pick hashtags",
+          "Choose the relevant suggestions for your post."
+        ]
+      ],
+      "faqs": [
+        [
+          "Are the hashtags tailored?",
+          "They are based on the referenced video's topic, so they are relevant to that subject. The tool reads the caption and content of a public video and proposes matching tags. They are a starting set to curate, not a guaranteed-perfect list. Use the ones that genuinely describe your post and drop the rest."
+        ],
+        [
+          "How many should I use?",
+          "A focused handful beats many unrelated tags. Good hashtags group content by topic so the right viewers find it, and a tight, relevant set outperforms a flood of loosely related ones. Overloading with tags can look spammy and dilute relevance. Pick the few that truly fit your post."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a reference link and get hashtag suggestions at no cost. The free model matches the other tools, so generating hashtags costs nothing."
+        ],
+        [
+          "Do they guarantee reach?",
+          "No, they improve relevance, not guaranteed views. Good hashtags help the right audience find your content, but reach depends on many factors including the video itself and timing. The suggestions give you relevant raw material to curate. They are a tool for discoverability, not a promise of virality."
+        ]
+      ]
+    },
+    "tiktok-bio-generator": {
+      "h1": "TikTok Bio Generator",
+      "intro": "The TikTok Bio Generator drafts short profile bios for your TikTok account based on a theme or reference. It gives you a starting point you can refine into a bio that fits your brand.",
+      "sections": [
+        {
+          "h": "What a bio needs",
+          "p": "A good TikTok bio is short, clear, and tells viewers who you are and what they will get. This tool drafts options from a topic or reference so you are not staring at a blank field."
+        },
+        {
+          "h": "How it works",
+          "p": "Give it a theme or a reference public profile, and it proposes concise bios. Treat them as drafts to edit, not final copy."
+        },
+        {
+          "h": "Make it yours",
+          "p": "Add your voice, a call to action, and any links. The best bios sound like a person, not a template."
+        },
+        {
+          "h": "Keep it current",
+          "p": "Update your bio as your content evolves. A stale bio misrepresents what you post now."
+        },
+        {
+          "h": "Tips for a bio that fits",
+          "p": "A good bio says who you are and what viewers get in a line or two, so lead with the clearest version of that and cut the rest. Let the generator spark options, then edit so it sounds like you rather than a template. A specific, human bio outperforms a vague, polished one that could belong to anyone."
+        },
+        {
+          "h": "Making the generated bio yours",
+          "p": "Treat the output as a starting point and swap in your own voice, a concrete detail, or a touch of humor so it stands out. Keep it current as your focus shifts, since a stale bio misleads new visitors. The goal is a short, honest line that makes the right people want to follow."
+        },
+        {
+          "h": "Keeping a bio up to date",
+          "p": "Refresh your bio when your content changes direction, a series launches, or a milestone is worth a mention, because it is often the first thing a new visitor reads. A quick edit keeps it accurate without a full rewrite. Seasonal or timely notes can help, but clear and current beats clever and stale."
+        }
+      ],
+      "steps": [
+        [
+          "Pick a theme",
+          "Decide what your account is about."
+        ],
+        [
+          "Generate",
+          "Use the tool to draft bio options."
+        ],
+        [
+          "Refine",
+          "Edit the draft into your own voice."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the bio final?",
+          "It is a draft to edit. The tool proposes concise bios from a theme or reference so you are not facing a blank field. Treat the output as a starting point and add your voice, a call to action, and any links. The best bios sound like a person, not a template, so refinement is what makes it yours."
+        ],
+        [
+          "Can I add links?",
+          "Yes, add your link in the bio field. TikTok lets you put a link in your profile, and the generated bio leaves room for it. A clear call to action plus a link helps viewers take the next step. The draft is a base; adding your link and personality turns it into an effective bio."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You enter a theme and get bio options at no cost. The free model is the same as every other tool, so generating a bio costs nothing."
+        ],
+        [
+          "Will it fit the character limit?",
+          "Keep it short and trim to fit. TikTok bios have a limited length, so the drafts are concise by design. If a suggestion runs long, cut it down to the essentials. A tight bio that fits the limit and states who you are and what you post works better than a long one that gets truncated."
+        ]
+      ]
+    },
+    "tiktok-username-generator": {
+      "h1": "TikTok Username Generator",
+      "intro": "The TikTok Username Generator suggests available-style username ideas based on a keyword or theme. It helps you brainstorm a handle that is memorable and fits your content before you check availability.",
+      "sections": [
+        {
+          "h": "What makes a good handle",
+          "p": "A strong username is short, easy to spell, and tied to your niche. This tool generates ideas from a keyword so you have options to choose from."
+        },
+        {
+          "h": "How it works",
+          "p": "Enter a topic or name and it proposes variations. Use them as inspiration, then check availability directly in TikTok."
+        },
+        {
+          "h": "Check availability",
+          "p": "Suggestions are ideas, not confirmed-available names. Verify in the app before committing, since taken handles cannot be used."
+        },
+        {
+          "h": "Brand consistency",
+          "p": "Match your handle across platforms where possible so people can find you easily."
+        },
+        {
+          "h": "Tips for a handle that lasts",
+          "p": "Pick a name that is easy to say, spell, and remember, and avoid numbers or underscores you will have to explain. A handle that matches your other platforms builds recognition, so check availability everywhere before you commit. Shorter is usually better, and a name that still fits if your content evolves saves a rebrand later."
+        },
+        {
+          "h": "Checking availability and consistency",
+          "p": "Before settling on a handle, confirm it is free on the platforms you care about so your identity stays consistent across them. Grabbing the same name everywhere, even where you are not active yet, protects it. A consistent handle makes you easier to find and harder to impersonate, which matters as you grow."
+        },
+        {
+          "h": "When to rebrand a handle",
+          "p": "If your content shifts or the current name no longer fits, a change can be worth it, but do it deliberately: announce it, keep the new name close to the old, and update your other profiles the same day. A clear, consistent rebrand carries your audience with you, while a confusing one scatters it."
+        }
+      ],
+      "steps": [
+        [
+          "Enter a keyword",
+          "Type the theme or name you want."
+        ],
+        [
+          "Generate ideas",
+          "Get a list of username suggestions."
+        ],
+        [
+          "Check and claim",
+          "Verify availability in TikTok and register."
+        ]
+      ],
+      "faqs": [
+        [
+          "Are the names available?",
+          "They are ideas; check availability in the app. The tool suggests username variations from a keyword, but it cannot confirm which are free, since taken handles cannot be used. Verify your favorite in TikTok before committing. Treat the list as inspiration, then claim an available one that fits your brand."
+        ],
+        [
+          "Can I use numbers or symbols?",
+          "Follow TikTok's username rules. The platform has specific rules about length and allowed characters, so check them before choosing. The generator works within typical handle patterns, but the final say is TikTok's. Pick something short and easy to spell that complies, so people can find and remember you."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You enter a keyword and get username ideas at no cost. The free model matches the other tools, so generating usernames costs nothing."
+        ],
+        [
+          "Should I match other platforms?",
+          "Consistency helps people find you. Using the same or a similar handle across platforms makes it easier for your audience to recognize and locate you. If the exact name is taken elsewhere, a close variant keeps the brand coherent. Matching where possible is a small thing that builds recognition over time."
+        ]
+      ]
+    },
+    "tiktok-on-iphone": {
+      "h1": "TikTok on iPhone",
+      "intro": "How to download TikTok videos on iPhone: use Safari, paste the link, and save the file. This guide covers where the download lands in the Files app and how to move it into Photos.",
+      "sections": [
+        {
+          "h": "Use Safari, not in-app browsers",
+          "p": "On iOS, Safari is the browser that properly handles file downloads. Other browsers may not offer a save option, so open the downloader in Safari for the smoothest experience."
+        },
+        {
+          "h": "Where the file goes",
+          "p": "Downloads land in the Files app, under Downloads (On My iPhone or iCloud Drive, depending on your setting). A download arrow appears next to the address bar while it saves."
+        },
+        {
+          "h": "Move it to Photos",
+          "p": "To get the video into your camera roll, open Files, long-press the video, tap Share, then Save Video. iOS asks for Photos permission the first time."
+        },
+        {
+          "h": "Fix common issues",
+          "p": "If nothing happens, the browser may have blocked the download — allow it from the prompt near the address bar. Confirm the link is a public post, not a profile."
+        },
+        {
+          "h": "Tips for a smooth iPhone save",
+          "p": "Use Safari rather than an in-app browser, since in-app browsers often will not save files properly. After the download, find the clip in the Files app, then use the share button to save it to Photos if you want it in your camera roll. If a download stalls, retry once rather than stacking attempts."
+        },
+        {
+          "h": "Where iPhone downloads go",
+          "p": "By default the file lands in the Downloads folder of the Files app, not the camera roll, which surprises many people. From Files you can move it into Photos with the share sheet. Knowing this saves the usual moment of panic when the video is not in Photos right away."
+        },
+        {
+          "h": "Fixing common iPhone issues",
+          "p": "If nothing downloads, check that Safari has permission to download files and that you have storage space. If the file will not open, try a different browser or confirm the link is public. Most problems are permission or connection issues rather than the file itself, and a clean retry usually clears them."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link in TikTok",
+          "Share → Copy link."
+        ],
+        [
+          "Open Safari and paste",
+          "Go to the downloader, paste, and Search."
+        ],
+        [
+          "Save to Files",
+          "Tap Download; find it in the Files app."
+        ]
+      ],
+      "faqs": [
+        [
+          "Why Safari?",
+          "It is the iOS browser that handles downloads reliably. Safari properly saves files to the Files app, while other or in-app browsers may not offer a save option. If you have struggled to download on iPhone, switching to Safari is often the fix. A download progress arrow appears by the address bar while it saves."
+        ],
+        [
+          "Where is my file?",
+          "In the Files app, Downloads folder. Downloads land under Downloads, either On My iPhone or iCloud Drive depending on your setting. Open the Files app and look there. If you cannot find it, the download may still be in progress, so wait for the arrow to finish before checking again."
+        ],
+        [
+          "How do I put it in Photos?",
+          "Long-press in Files, then Share, then Save Video. iOS asks for Photos permission the first time; allow it and the video appears in your camera roll. If Save Video is missing, the download is incomplete. Once in Photos, you can view, edit, or share the video like any other clip."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link in Safari and save the clean file at no cost. The free model is the same as every other tool, so downloading on iPhone costs nothing."
+        ]
+      ]
+    },
+    "tiktok-on-android": {
+      "h1": "TikTok on Android",
+      "intro": "How to download TikTok videos on Android: copy the link, paste it into the downloader in Chrome, and save. The file goes to your Downloads folder and appears in your gallery once indexed.",
+      "sections": [
+        {
+          "h": "Use Chrome",
+          "p": "Chrome (or your usual browser) handles downloads cleanly on Android. Open the downloader, long-press the field to Paste, and tap Search."
+        },
+        {
+          "h": "Where it saves",
+          "p": "Files go to the Downloads folder of internal storage. Videos usually appear in Google Photos or your gallery within seconds as the system indexes them."
+        },
+        {
+          "h": "If you cannot find it",
+          "p": "Open the Files app, go to Downloads, and open or move the video from there. You can relocate it to Movies or DCIM to keep things tidy."
+        },
+        {
+          "h": "Permissions",
+          "p": "The first download may ask for storage permission — accept it once and subsequent saves are seamless."
+        },
+        {
+          "h": "Tips for a quick Android save",
+          "p": "Chrome or any modern browser does the job, so paste the link, download, and the file goes to your Downloads folder. It usually appears in your Gallery or Google Photos within seconds. If it does not, open the Files app and look in Downloads, since some phones do not auto-index new media immediately."
+        },
+        {
+          "h": "Finding a download on Android",
+          "p": "When a clip is not in the Gallery, check the Downloads folder in the Files app first, as that is where browsers save by default. From there you can move it into a media folder the Gallery scans. A manual media rescan or reopening the Gallery often makes a freshly downloaded video appear."
+        },
+        {
+          "h": "Permissions and troubleshooting",
+          "p": "Android rarely needs special permissions for a browser download, so if it fails, check storage space and your connection before anything else. If a file will not play, try another player or confirm the link is public. Clearing a stuck download in the browser and retrying solves most hiccups without changing any settings."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link in TikTok."
+        ],
+        [
+          "Paste in Chrome",
+          "Open the downloader, paste, and Search."
+        ],
+        [
+          "Save the file",
+          "Download; find it in Downloads or your gallery."
+        ]
+      ],
+      "faqs": [
+        [
+          "Where does it save?",
+          "Downloads folder, then your gallery. Files go to the Downloads folder of internal storage, and videos usually appear in Google Photos or your gallery within seconds as the system indexes them. If you cannot find it, open the Files app and go to Downloads. You can move it to Movies or DCIM to keep things tidy."
+        ],
+        [
+          "Which browser should I use?",
+          "Chrome or your default browser. Chrome handles downloads cleanly on Android, so open the downloader there, long-press the field to Paste, and tap Search. Any modern default browser works similarly. The key is a browser that saves files properly, which Chrome and most defaults do."
+        ],
+        [
+          "Why no gallery entry yet?",
+          "Wait a moment for indexing, or open from Files. The system needs a few seconds to index a new download into your gallery. If it still does not appear, open the Files app, go to Downloads, and open or move the video manually. Once moved to a media folder, the gallery picks it up."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link in Chrome and save the clean file at no cost. The free model matches the other tools, so downloading on Android costs nothing."
+        ]
+      ]
+    },
+    "tiktok-on-pc": {
+      "h1": "TikTok on PC",
+      "intro": "How to download TikTok videos on a PC: open tiktok.com in your browser, copy the video URL, paste it into the downloader, and save the MP4 to your Downloads folder. No software to install.",
+      "sections": [
+        {
+          "h": "Copy from the address bar",
+          "p": "On desktop, open the video on tiktok.com and copy the URL from the address bar, or use the video's Share → Copy link. Both point to the same public post."
+        },
+        {
+          "h": "Paste and download",
+          "p": "Paste the link into the downloader and press Search. Choose the video format and the MP4 lands in your Downloads folder."
+        },
+        {
+          "h": "If it opens instead of saving",
+          "p": "Some browsers play the file in a new tab. Right-click the video and choose Save video as to store it where you want."
+        },
+        {
+          "h": "Editing workflow",
+          "p": "The clean MP4 imports directly into CapCut, Premiere, or DaVinci on Windows, Mac, or Linux, ready to trim or caption."
+        },
+        {
+          "h": "Tips for saving on a computer",
+          "p": "Copy the video's URL from tiktok.com or from the share link on your phone, paste it into the tool, and the MP4 downloads to your Downloads folder. A desktop browser handles the file without fuss. Keeping the original rather than a re-encoded copy means it is ready for any editor you use next."
+        },
+        {
+          "h": "From download to editing",
+          "p": "Once the MP4 is on your PC, it imports straight into CapCut, Premiere, DaVinci Resolve, or any editor with no watermark to crop. That makes a desktop the natural place for trimming, captioning, or repurposing. The clean, full-resolution source gives you room to edit without the quality loss a stamped copy would force."
+        },
+        {
+          "h": "If the file opens instead of saving",
+          "p": "Sometimes a browser plays the video in a tab instead of downloading it. When that happens, use the download option in the player or right-click and save, and make sure the link is the direct post URL. If it still streams, a different browser or a fresh copy of the link usually resolves it."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the URL",
+          "Copy from the address bar or Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste into the downloader and press Search."
+        ],
+        [
+          "Save the MP4",
+          "Download to your Downloads folder."
+        ]
+      ],
+      "faqs": [
+        [
+          "Do I need to install anything?",
+          "No, it runs in the browser. The downloader works in Chrome, Edge, Firefox, or any modern desktop browser, with nothing to install. You copy a video URL, paste it, and save the MP4. This no-install approach is the main advantage: it works the same across Windows, Mac, and Linux without extra software."
+        ],
+        [
+          "Where does it save?",
+          "Your browser's Downloads folder. The MP4 lands in the default download location, which you can find in the browser's download list or your file manager. You can change the location in your browser settings if you prefer. The file is a standard MP4 ready to play or edit."
+        ],
+        [
+          "What if it plays instead of downloading?",
+          "Right-click and choose Save video as. Some browsers open the file in a new tab rather than saving it. If that happens, right-click the video and select Save video as to place it in a folder of your choice. This forces a download instead of inline playback. The clean MP4 then saves where you want it."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the MP4 at no cost. The free model is identical to the other tools, so downloading on a PC costs nothing."
+        ]
+      ]
+    },
+    "tiktok-on-mac": {
+      "h1": "TikTok on Mac",
+      "intro": "How to download TikTok videos on a Mac: copy the link in Safari or Chrome, paste it into the downloader, and save the MP4. The file goes to Downloads and works with any Mac editor.",
+      "sections": [
+        {
+          "h": "Copy the link",
+          "p": "Open the video on tiktok.com and copy the URL, or use Share → Copy link. Short vm.tiktok.com and vt.tiktok.com links work too."
+        },
+        {
+          "h": "Paste and save",
+          "p": "Paste into the downloader, press Search, and download. The MP4 saves to your Downloads folder."
+        },
+        {
+          "h": "If it opens in a tab",
+          "p": "Right-click (or Control-click) the video and choose Save Video As to place it in a folder of your choice."
+        },
+        {
+          "h": "Editing on Mac",
+          "p": "The clean file drops into iMovie, Final Cut, or DaVinci without conversion, ready for trimming or captions."
+        },
+        {
+          "h": "Tips for saving on a Mac",
+          "p": "Copy the link, paste it into the tool in Safari or Chrome, and the MP4 lands in Downloads. The clean file is ready for QuickTime to preview or for iMovie and other editors to import. A Mac is a comfortable place to edit, and starting from the original means no logo to work around."
+        },
+        {
+          "h": "Editing the file on macOS",
+          "p": "The downloaded MP4 opens in QuickTime for a quick look and imports cleanly into iMovie, Final Cut, or DaVinci for real editing. Because there is no watermark, you skip the crop-and-blur dance and go straight to trimming or captioning. The full-resolution source keeps the vertical composition intact for Reels or Shorts."
+        },
+        {
+          "h": "When the video plays in a tab",
+          "p": "If Safari or Chrome opens the video instead of saving it, use the player's download control or right-click and choose save, and confirm the link points to the post. A fresh copy of the URL from the address bar usually fixes it. Once saved to Downloads, the file behaves like any other local video."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Copy the URL or Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste into the downloader and press Search."
+        ],
+        [
+          "Save the file",
+          "Download the MP4 to Downloads."
+        ]
+      ],
+      "faqs": [
+        [
+          "Which browser works?",
+          "Safari, Chrome, or any modern Mac browser. All handle downloads properly, so use whichever you prefer. Open the downloader, paste the link, and save. The choice of browser does not affect the result, since they all save the MP4 to your Downloads folder. Pick the one you use daily for convenience."
+        ],
+        [
+          "Where does it save?",
+          "Downloads folder. The MP4 goes to your default download location, which you can open from the browser's download list or Finder. You can change the location in your browser settings if desired. The file is a clean MP4 ready for any Mac editor."
+        ],
+        [
+          "Can I edit in iMovie?",
+          "Yes, the MP4 imports directly. The clean file drops into iMovie, Final Cut, or DaVinci without conversion, ready for trimming or captions. Because there is no watermark, you can work with the full frame. This makes the download a convenient source for a quick edit on Mac."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the MP4 at no cost. The free model matches the other tools, so downloading on a Mac costs nothing."
+        ]
+      ]
+    }
+  },
+  "blog": {}
+}

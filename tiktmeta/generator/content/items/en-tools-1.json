@@ -1,0 +1,625 @@
+{
+  "tools": {
+    "tiktok-video-downloader": {
+      "h1": "TikTok Video Downloader",
+      "intro": "The TikTok Video Downloader saves a public TikTok video to your device in the same quality the app plays it, without the logo overlay that the in-app Save button burns in. Paste a link, and the original MP4 is fetched straight from TikTok's servers — no account, no app, no re-encoding.",
+      "sections": [
+        {
+          "h": "What this downloader actually does",
+          "p": "When you tap Share and Copy link in TikTok, you get a URL that points at a specific post. This tool reads the public metadata TikTok exposes for that post and locates the address of the original video file — the exact file the app streams when you watch. It then hands you that file as-is.\n\nThat distinction matters. The clip you get from the app's own Save button has the username and logo composited into the picture. The file this downloader returns is the clean upload, so it is ready to archive, re-edit, or repost elsewhere without a second platform's branding stamped on it."
+        },
+        {
+          "h": "Quality and format",
+          "p": "TikTok stores uploads as MP4 with the H.264 codec, usually 1080×1920 when filmed vertically on a recent phone. You get the best version that exists for that post. If the creator uploaded in 1080p, you download 1080p; if they filmed in 720p, that is the real ceiling and no tool can invent detail that was never captured."
+        },
+        {
+          "h": "Which links work",
+          "p": "Long links (tiktok.com/@user/video/…), and the short vm.tiktok.com and vt.tiktok.com links the mobile app generates, all resolve. Links that point at a profile or a hashtag do not, because they do not identify a single video. Re-shortened links from other services are not supported."
+        },
+        {
+          "h": "Responsible use",
+          "p": "Only download content you have the right to save. Personal archiving and offline viewing are common; republishing someone else's work as your own, or using it commercially without permission, can infringe copyright. Give the creator credit when you share."
+        },
+        {
+          "h": "Tips for a smooth download",
+          "p": "Use a stable connection, confirm the link points to a single public video, and allow the download if your browser prompts you. On iPhone, Safari is the most reliable browser for saving files. If a download stalls, delete the partial file and retry rather than stacking attempts, which can confuse the browser's download queue."
+        },
+        {
+          "h": "How it compares to the app's Save button",
+          "p": "The app's Save button renders a fresh copy with the logo and handle burned in, often at a slightly lower bitrate. This downloader skips that step and points at the original asset, so you get the clean upload with its full resolution and audio. The difference is invisible on a quick view but obvious when you edit, print, or repost."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "In the TikTok app, tap Share → Copy link. On desktop, copy the URL from the address bar."
+        ],
+        [
+          "Paste and search",
+          "Paste the link into the field above and press Search. The post is read and the original file is located."
+        ],
+        [
+          "Download",
+          "Choose the video download. The MP4 travels directly from TikTok to your device."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the TikTok Video Downloader free?",
+          "Yes, completely. There are no accounts to create, no subscriptions to manage, and no per-download charges. You can save as many public videos as you like without ever being asked for payment or a credit card. The tool is funded to stay free, so the only thing you need is a public TikTok link and a browser."
+        ],
+        [
+          "Does it add a watermark?",
+          "No. The downloader fetches the creator's original upload, which never contained a logo, so the file you receive is clean. This is different from the TikTok app's Save button, which renders a fresh copy with the logo and @handle burned into the frames. By skipping that step entirely, the tool delivers a file that is ready to archive, edit, or repost without any overlay to crop or cover."
+        ],
+        [
+          "Will it work on private videos?",
+          "No, and this is by design rather than a limitation to work around. Private and friends-only posts are served by TikTok only to authorized, logged-in viewers, so there is no public file for any downloader to read. The tool only accesses what TikTok exposes without a login, which means private content is simply out of scope. Any service claiming to download private videos is almost always a phishing or malware risk."
+        ],
+        [
+          "What if the download does not start?",
+          "First, confirm the link points to a single public video rather than a profile or hashtag page, since those do not identify one file. On iPhone, use Safari, which handles downloads reliably, and allow the download if the browser shows a prompt near the address bar. If the video plays instead of saving, you may be in an in-app browser, so copy the link and reopen it in Safari or Chrome. A weak connection can also stall a large file, so retry on a stable network."
+        ]
+      ]
+    },
+    "tiktok-hd-downloader": {
+      "h1": "TikTok HD Downloader",
+      "intro": "The TikTok HD Downloader retrieves the highest-resolution version of a public TikTok video that actually exists, without recompressing it. If the creator published in 1080p, you get a 1080p MP4 — the same file the app streams, not a re-encoded copy.",
+      "sections": [
+        {
+          "h": "What HD means here",
+          "p": "HD in this context is not an upscale. The tool finds the best pre-existing rendition of the file TikTok serves for that post. TikTok keeps the resolution the creator uploaded, so a Full HD upload stays Full HD and a lower-resolution upload stays lower. Nothing is sharpened or enlarged, because enlarging only inflates the file and softens the image."
+        },
+        {
+          "h": "Why the app's saved copy looks worse",
+          "p": "The Save button in the TikTok app creates a new file with the logo and handle drawn onto the frames, and that copy is often served at a slightly lower bitrate. This downloader skips that step and points at the original asset, which is why the result looks cleaner and holds up better when you edit it."
+        },
+        {
+          "h": "Editing and reposting",
+          "p": "Because the file is the untouched upload, it drops cleanly into CapCut, Premiere, DaVinci Resolve, or any editor. Creators commonly use it to keep a backup of their own work or to repost to Reels and Shorts with the original quality intact and a credit to themselves."
+        },
+        {
+          "h": "When 1080p is not available",
+          "p": "If the source was shot in 720p, exported from a third-party app, or recompressed by TikTok, there is no 1080p copy on any server. An honest downloader returns the real quality rather than promising an enhancement it cannot deliver."
+        },
+        {
+          "h": "Tips to get the sharpest file",
+          "p": "Check how the video looks inside TikTok first. If it is crisp there, a high-quality original exists and the HD download will match it. Avoid re-downloading a file that was already recompressed by another tool, since that softness is baked in. The clean original from this tool is the best source you can get without the creator's master."
+        },
+        {
+          "h": "HD for editing and reposting",
+          "p": "A clean 1080p file drops straight into CapCut, Premiere, or DaVinci with no logo to crop and no quality lost to recompression. That makes it ideal for trimming, adding captions, or reposting to Reels and Shorts. Because the frame is intact, you keep the full vertical composition the creator shot."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the video link",
+          "Use Share → Copy link in the app, or copy the address-bar URL on desktop."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search to read the post."
+        ],
+        [
+          "Download in HD",
+          "Save the highest-quality MP4 the post offers."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does HD cost anything?",
+          "No, the HD download is free like every other tool here. There is no premium tier, no watermark charge, and no account required to unlock higher resolution. You paste a public link, press Search, and save the best-quality file the post offers without paying anything. The free model is the same across all resolutions, so HD is not a paid upgrade."
+        ],
+        [
+          "Can it make a 720p video 1080p?",
+          "No. The tool returns the highest resolution that actually exists for that post; it cannot invent detail that was never captured. If a creator uploaded in 720p, that is the real ceiling, and any service that promises to turn it into 1080p is upscaling, which enlarges pixels without adding information. Upscaled files look softer and often reveal compression artifacts, so an honest downloader gives you the true source quality instead."
+        ],
+        [
+          "Is the HD file watermarked?",
+          "No, you receive the clean original upload rather than the app's saved copy. The watermark is added only when TikTok generates the shareable version through the Save button, so by fetching the original asset the tool avoids it entirely. The result is a sharp, logo-free file that holds up well when you edit or repost it, with no second platform's branding stamped across the picture."
+        ],
+        [
+          "Why is my file still not sharp?",
+          "Check how the video looks inside TikTok itself. If it appears soft or compressed there, that is the source quality, and no downloader can add detail that the original never had. Playback settings, a re-uploaded clip, or a lower-resolution export can all cap sharpness. The tool delivers the best version that exists, so the file matches what the app streams rather than exceeding it."
+        ]
+      ]
+    },
+    "tiktok-4k-downloader": {
+      "h1": "TikTok 4K Downloader",
+      "intro": "The TikTok 4K Downloader fetches a public TikTok video at the maximum resolution available for that post. When a creator genuinely uploaded a 4K (2160p-class) source, you get that file; when they did not, no honest tool can manufacture 4K from a lower original.",
+      "sections": [
+        {
+          "h": "The truth about 4K on TikTok",
+          "p": "Most TikTok uploads are vertical 1080×1920. A minority are exported from cameras or phones capable of 4K, and TikTok will store and serve that higher-resolution file. This downloader locates that best rendition when it exists.\n\nWhat it will not do is upscale. Taking a 1080p frame and blowing it up to 2160p adds pixels but no information, and it usually makes compression artifacts more visible. If a service promises to 'make any TikTok 4K', it is rescaling, not enhancing."
+        },
+        {
+          "h": "How to know if 4K exists",
+          "p": "Open the video in the TikTok app and check its detail on a large screen. If it looks genuinely crisp at full size, a higher-resolution source likely exists. If it softens when enlarged, the upload was probably 1080p or lower and that is the ceiling."
+        },
+        {
+          "h": "Best use cases",
+          "p": "High-resolution originals matter for archiving, for cropping into other aspect ratios without losing quality, and for editors who need headroom to zoom or stabilize. Having the largest clean source gives you the most flexibility downstream."
+        },
+        {
+          "h": "File size and storage",
+          "p": "Higher-resolution files are larger. Make sure you have space, and note that a 4K MP4 can be several times the size of the 1080p equivalent for the same clip length."
+        },
+        {
+          "h": "Tips before downloading a large file",
+          "p": "A 4K MP4 can be several times larger than the 1080p version, so check free storage and use Wi-Fi for the transfer. A modern player handles 4K, but an old device may struggle to play it smoothly even though the file is fine. If space or playback is a concern, the HD tool gives a smaller file at the best lower resolution that exists."
+        },
+        {
+          "h": "When 4K genuinely helps",
+          "p": "A true 4K source gives editors room to crop, reframe, stabilize, or zoom without the image falling apart. It is also the best choice for archiving a high-resolution original you may want to revisit. For everyday phone viewing, 1080p is usually plenty, so 4K matters most when you plan to edit or keep the file long term."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link from the app or the desktop URL."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download",
+          "Save the highest-resolution file the post provides."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is every download 4K?",
+          "No. You get the maximum resolution that exists for that specific post, which for most TikTok uploads is vertical 1080p. Only a minority of creators upload genuine 4K sources, and the tool retrieves that higher-resolution file when it exists. For the majority of videos, the honest ceiling is 1080p, and the downloader returns that rather than pretending otherwise."
+        ],
+        [
+          "Can it upscale to 4K?",
+          "No. Upscaling takes a lower-resolution frame and enlarges it to 2160p, which adds pixels but no real information and usually makes compression artifacts more visible. The tool does not do this because it would produce a larger file that looks no sharper. If a service promises to make any TikTok 4K, it is rescaling, not enhancing, and the result is rarely worth the extra size."
+        ],
+        [
+          "Is 4K free?",
+          "Yes, all resolutions are free, including 4K when the source provides it. There is no premium charge for higher resolution and no account needed to unlock it. You paste a public link and save the best file available at no cost. The free model applies uniformly, so resolution is never gated behind payment."
+        ],
+        [
+          "Why is the 4K file huge?",
+          "Higher resolution means more data, so a 4K MP4 can be several times the size of the 1080p equivalent for the same clip length. That is expected rather than a fault. Make sure you have enough storage before downloading, and note that large files also take longer to transfer. If space is tight, the HD tool gives you a smaller file at the best lower resolution that still exists."
+        ]
+      ]
+    },
+    "tiktok-no-watermark-downloader": {
+      "h1": "TikTok No Watermark Downloader",
+      "intro": "The TikTok No Watermark Downloader returns the creator's original video without the logo and @handle that the app's Save button overlays. It is the clean file that already existed on TikTok's servers, delivered untouched.",
+      "sections": [
+        {
+          "h": "How watermark-free works",
+          "p": "There are two versions of many TikTok videos: the one that plays inside the app (the raw upload) and the one the Save button generates (with the watermark composited in). This downloader targets the first one. It does not erase a logo with editing tricks, which always leave smudges — it simply fetches the version that never had a logo."
+        },
+        {
+          "h": "Why people want it",
+          "p": "A clean file is what you need to repost your own content to other platforms, to keep an archive without branding, or to edit without a logo floating over your footage. It looks more professional and avoids advertising another app on your clip."
+        },
+        {
+          "h": "When only a watermarked copy exists",
+          "p": "For some older posts, or where a creator changed settings, TikTok may only expose the watermarked rendition publicly. In that case the tool returns the best version actually available rather than degrading it further with removal attempts."
+        },
+        {
+          "h": "Stay within the rules",
+          "p": "Removing a watermark for personal backup of your own content is one thing; passing off someone else's video as yours is another. Credit creators and seek permission for commercial reuse."
+        },
+        {
+          "h": "Tips for a clean result",
+          "p": "Always choose the no-watermark download option rather than the app's saved copy, and play the file once to confirm there is no logo in any corner and no end card. If a post only exposes a watermarked version publicly, the tool returns the best available copy; re-downloading later sometimes resolves it when TikTok changes how it serves the file."
+        },
+        {
+          "h": "How to spot a clean file",
+          "p": "A clean file has no bouncing logo, no @username burned into the picture, and no logo animation at the end. In the file's details you will see a vertical resolution, usually 1080 by 1920 for a recent phone. If any of those marks appear, you likely saved the app's copy rather than the original the downloader provides."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Tap Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download clean",
+          "Save the no-watermark MP4."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is it really watermark-free?",
+          "Yes, when TikTok exposes the original file, which it does for most public posts. The watermark lives only on the copy the app's Save button generates, so fetching the original upload gives you a genuinely clean video. The tool does not blur or paint over a logo, which always leaves artifacts; it simply retrieves the version that never had one. The result is a file with no overlay at all."
+        ],
+        [
+          "Does it cost money?",
+          "No, it is free. There are no accounts, subscriptions, or per-download fees, and no premium tier for watermark-free output. You paste a public link, press Search, and save the clean MP4 without paying anything. The clean download is the standard free offering, not an upsell."
+        ],
+        [
+          "What if I still see a logo?",
+          "That post likely only exposes a watermarked copy publicly, which can happen with some older videos or where a creator changed settings. In that case the tool returns the best version actually available rather than degrading it further with removal attempts. There is no clean file to fetch, so no honest tool can produce one. If most videos download clean but one does not, the source is the reason."
+        ],
+        [
+          "Can I use it commercially?",
+          "Only with the creator's permission. Removing a watermark for a personal backup of your own content is one thing, but using someone else's video commercially without a license can infringe copyright. The clean file does not transfer any rights; it just gives you a better copy. For commercial use, clear the rights with the creator or the music label first, and credit them when you share."
+        ]
+      ]
+    },
+    "tiktok-watermark-remover": {
+      "h1": "TikTok Watermark Remover",
+      "intro": "The TikTok Watermark Remover gets you the clean, logo-free version of a public TikTok video by fetching the original upload rather than painting over the watermark. The result is a genuinely clean file, not an edited one with blurry patches.",
+      "sections": [
+        {
+          "h": "Removal by retrieval, not by editing",
+          "p": "Traditional watermark removers blur or clone-stamp over the logo, which leaves artifacts and softens the frame. This tool avoids that entirely: it locates the pre-watermark source file that TikTok serves and hands it to you. Nothing is painted, cropped, or blurred."
+        },
+        {
+          "h": "Where the clean file comes from",
+          "p": "Creators upload a clean video; TikTok adds the overlay only when generating the shareable/saveable copy. By reading the post's public data, the tool finds the original asset address and downloads it directly."
+        },
+        {
+          "h": "Limitations to understand",
+          "p": "If a creator restricted the post so only the watermarked version is public, there is no clean file to fetch. The tool will not fabricate one. Deleted or private videos are likewise out of scope."
+        },
+        {
+          "h": "Editing after removal",
+          "p": "Because the file is the raw upload, it is ideal for re-editing in CapCut or Premiere, adding your own captions, or reposting with credit. There is no residual logo to work around."
+        },
+        {
+          "h": "Why retrieval beats editing",
+          "p": "Editing a logo out means cropping, blurring, or AI-filling the area, and every one of those leaves a trace while forcing the video to be encoded again. Retrieval avoids all of it: the original file never had a logo, so there is nothing to hide and no quality lost. The result is a genuinely clean video rather than a retouched one with a soft patch."
+        },
+        {
+          "h": "Tips for reposting cleanly",
+          "p": "Once you have the clean file, credit the creator with their handle and get permission before republishing, especially for commercial use. The clean file makes your post look native on the new platform, but it does not transfer the rights. Used with attribution and permission, it is a practical tool for sharing your own work or content you are allowed to reuse."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link from TikTok."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download",
+          "Save the clean, watermark-free video."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it blur the logo?",
+          "No. Traditional removers clone-stamp or blur over the logo, which leaves a soft patch and often damages the surrounding pixels. This tool avoids that entirely by locating the pre-watermark source file that TikTok serves and handing it to you. Nothing is painted, cropped, or blurred, so the picture stays intact. The clean result is the original asset, not an edited one with a smudge where the logo used to be."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier for watermark removal. You paste a public link, press Search, and download the clean file at no cost. The free model is the same as every other tool here, so removing a watermark is not a paid feature."
+        ],
+        [
+          "What if no clean version exists?",
+          "If a creator restricted the post so only the watermarked version is public, there is no clean file to fetch, and the tool will not fabricate one. It returns the best version actually available rather than pretending to enhance it. Deleted and private videos are likewise out of scope. In these cases the limitation is the source, not the tool."
+        ],
+        [
+          "Is this legal?",
+          "For your own content or with the creator's permission, generally yes. Passing off someone else's video as your own, or using it commercially without a license, can infringe copyright. The clean file does not grant rights; it only removes the overlay. Used for personal archiving or with permission, watermark removal is a legitimate editing and backup aid rather than a shortcut to misappropriate work."
+        ]
+      ]
+    },
+    "tiktok-bulk-downloader": {
+      "h1": "TikTok Bulk Downloader",
+      "intro": "The TikTok Bulk Downloader lets you queue several public TikTok links and save them one after another, so you can archive a batch of videos without repeating the copy-paste-search cycle for each. It is built for people collecting many clips at once.",
+      "sections": [
+        {
+          "h": "How batch downloading works",
+          "p": "Instead of processing a single URL, you add multiple public links to the queue. Each is resolved in turn, and the clean MP4s are prepared for download. This is far quicker than handling ten videos individually when you are building a library or gathering reference material."
+        },
+        {
+          "h": "Practical uses",
+          "p": "Teachers assembling lesson clips, editors collecting b-roll, and creators backing up their own catalog all benefit. Anything that involves saving a set of public videos in one sitting is a good fit."
+        },
+        {
+          "h": "What you can and cannot queue",
+          "p": "Public video links work, including short vm.tiktok.com and vt.tiktok.com links. Private posts, profile URLs, and deleted videos cannot be queued because there is no public file to retrieve."
+        },
+        {
+          "h": "Staying organized",
+          "p": "Downloaded files keep their original quality and are named so you can tell them apart. Move them into folders as they arrive to keep a large batch tidy."
+        },
+        {
+          "h": "Tips for large batches",
+          "p": "Split very large queues into smaller groups to stay within fair-use limits, and run them on a stable connection so files do not stall. Name or sort each file as it arrives so a big batch stays navigable. Keeping the queue organized turns a pile of downloads into a tidy local library you can actually search later."
+        },
+        {
+          "h": "When bulk saves time",
+          "p": "Teachers assembling lesson clips, editors collecting b-roll, and creators backing up a catalog all save real time by queuing links instead of repeating copy-paste-search for each video. The quality is identical to single downloads; the only difference is convenience. For one-off saves, a single download is fine, but bulk shines when you need many at once."
+        }
+      ],
+      "steps": [
+        [
+          "Collect links",
+          "Copy the public TikTok links you want to save."
+        ],
+        [
+          "Add to queue",
+          "Paste each link into the field and add it to the batch."
+        ],
+        [
+          "Download all",
+          "Start the batch and save each file as it resolves."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is there a queue limit?",
+          "Reasonable batch sizes are supported, so you can queue a useful number of public links at once. Extremely large queues may be throttled to keep the service fair and responsive for everyone. If you hit a limit, split the batch into smaller groups and run them in sequence. For typical archiving or reference-gathering, the supported batch size is more than enough."
+        ],
+        [
+          "Is bulk free?",
+          "Yes, like the rest of the tools. There is no charge for queuing multiple videos, no premium tier for larger batches, and no account required. You add your public links and download each clean file at no cost. The free model applies to batch downloads just as it does to single ones."
+        ],
+        [
+          "Can I queue private videos?",
+          "No, only public posts can be retrieved. Private and friends-only content has no public file to fetch, so it cannot be added to a batch. The same applies to deleted videos and profile or hashtag links, which do not identify a single file. The queue works from public video links, including short vm.tiktok.com and vt.tiktok.com links."
+        ],
+        [
+          "Will quality drop in a batch?",
+          "No, each file is fetched at its original quality, exactly as a single download would be. Batching changes the workflow, not the source, so you get the same clean, full-resolution MP4 for every item. The only difference is convenience: you queue several links and save them one after another instead of repeating the copy-paste-search cycle for each."
+        ]
+      ]
+    },
+    "tiktok-playlist-downloader": {
+      "h1": "TikTok Playlist Downloader",
+      "intro": "The TikTok Playlist Downloader helps you save the public videos that make up a collection you can access, one link at a time, in their original quality. TikTok does not offer a clean export of a whole playlist, so this fills that gap for public content you have the right to keep.",
+      "sections": [
+        {
+          "h": "What a playlist download means",
+          "p": "TikTok playlists group a creator's public videos. There is no single button to export them cleanly, so this tool works from the individual public links: you gather the videos in a playlist and save each original file. The result is a local set that mirrors the collection."
+        },
+        {
+          "h": "Why creators use it",
+          "p": "Creators often want a backup of a series they produced, or a clean copy to repurpose. Having the original files locally means the work is safe even if it is later removed or a account is lost."
+        },
+        {
+          "h": "Respecting access",
+          "p": "Only public videos can be saved. If a playlist contains private or restricted posts, those cannot be fetched, and that restriction is respected rather than bypassed."
+        },
+        {
+          "h": "Keeping order",
+          "p": "Name or sort files as you save them so the local collection matches the playlist order. This makes a large series far easier to navigate later."
+        },
+        {
+          "h": "Tips for a tidy collection",
+          "p": "Save the videos in the playlist's order and rename them with a consistent pattern so the local set mirrors the original. If the playlist is a tutorial series, keeping the sequence makes it far easier to follow later. A little organization at download time saves a lot of sorting when you come back to the collection."
+        },
+        {
+          "h": "Backing up a series",
+          "p": "Creators often want a clean copy of a multi-part series in case an account is lost or a video is removed. Downloading each public video while it is available gives you a backup that does not depend on TikTok's availability. Because the files are the original uploads, the archive keeps the quality the creator published."
+        }
+      ],
+      "steps": [
+        [
+          "Gather the links",
+          "Copy the public links of the videos in the playlist."
+        ],
+        [
+          "Add them",
+          "Paste each link into the tool."
+        ],
+        [
+          "Save each video",
+          "Download the original MP4 for every public item."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can it grab a whole playlist in one click?",
+          "It works from the public links of the videos rather than a single playlist export, since TikTok does not offer a clean whole-playlist download. You gather the public links in the collection and add them, then save each original file. The result is a local set that mirrors the playlist. This link-based approach is what makes a clean, watermark-free archive possible."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier for saving a collection. You add the public links and download each original MP4 at no cost. The free model is the same as every other tool here, so building a local set costs nothing."
+        ],
+        [
+          "Do private playlist items work?",
+          "No, only public videos are accessible. If a playlist contains private or restricted posts, those cannot be fetched, and the tool respects that restriction rather than bypassing it. Deleted videos are likewise out of scope. The downloader saves what is publicly served and leaves restricted content alone."
+        ],
+        [
+          "Will quality be preserved?",
+          "Yes, each file is the original upload, so the collection keeps the quality the creators published. There is no recompression and no watermark, since the tool fetches the clean source. Whether you are backing up a series or gathering reference material, every video in the set matches what plays in the app."
+        ]
+      ]
+    },
+    "tiktok-favorites-downloader": {
+      "h1": "TikTok Favorites Downloader",
+      "intro": "The TikTok Favorites Downloader lets you save the public videos you have marked as favorites by working from their links, in original quality. Your Favorites list is private to you, so the tool operates on the public links you provide rather than on your account.",
+      "sections": [
+        {
+          "h": "How it fits with Favorites",
+          "p": "Your Favorites are visible only to you and are not publicly addressable. This downloader therefore takes the public link of each favorited video and retrieves the clean file. You keep control of your account while still building a local copy of the clips you saved."
+        },
+        {
+          "h": "Why keep a local copy",
+          "p": "Favorites can disappear if a creator deletes a video or goes private. A local archive means the clips you valued remain watchable offline, independent of TikTok's availability."
+        },
+        {
+          "h": "Privacy first",
+          "p": "The tool never asks for your login. It only reads public data for the links you supply, so your account and private list stay private."
+        },
+        {
+          "h": "Organizing your saves",
+          "p": "Sort downloads into folders by theme or creator so a large favorites archive stays usable. Original quality is preserved throughout."
+        },
+        {
+          "h": "Tips for archiving favorites",
+          "p": "Save the clips you value while they are still available, since a favorite can disappear if the creator deletes the video or goes private. Sort downloads into folders by theme or creator so a large archive stays usable. A local copy means the clips you saved remain watchable offline regardless of what happens on the platform."
+        },
+        {
+          "h": "Keeping your list private",
+          "p": "The tool never asks for your login and cannot read your private Favorites, so your account and list stay private. You simply supply the public link of each video you want to keep. This separation is deliberate: you get a local archive without handing over any credentials or exposing your activity."
+        }
+      ],
+      "steps": [
+        [
+          "Copy favorited links",
+          "Open each favorite and copy its public link."
+        ],
+        [
+          "Paste and search",
+          "Add the link above and press Search."
+        ],
+        [
+          "Download",
+          "Save the original video to your device."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it need my login?",
+          "No. The tool works from the public links you provide and never asks for your TikTok password. Your Favorites list is private to you, so the downloader operates on the public link of each video rather than on your account. This keeps your login and private list private while still letting you build a local copy."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You supply the public links of your favorited videos and download each clean file at no cost. The free model is identical to the other tools, so archiving your saves costs nothing."
+        ],
+        [
+          "Can it access my private list?",
+          "No, and it never asks to. Your Favorites are visible only to you and are not publicly addressable, so the tool cannot and does not read them. Instead, you copy the public link of each favorite and paste it in. You stay in control of your account while still keeping a local archive of the clips you saved."
+        ],
+        [
+          "What if a favorite is deleted?",
+          "There is no public file left to fetch, so a deleted video cannot be downloaded. This is why keeping a local copy is worthwhile: favorites can disappear if a creator deletes a video or goes private. Saving the clips you value while they are available means they remain watchable offline, independent of TikTok's availability."
+        ]
+      ]
+    },
+    "tiktok-private-video-downloader": {
+      "h1": "TikTok Private Video Downloader",
+      "intro": "This page explains plainly why private TikTok videos cannot be downloaded by any legitimate tool, and what you can do instead. TikTok serves private and friends-only content only to authorized, logged-in viewers, so there is no public file to retrieve.",
+      "sections": [
+        {
+          "h": "Why private downloads are not possible",
+          "p": "Private videos are not exposed to the public web. A downloader reads the same public data your browser would see without logging in, and for a private post that data contains no downloadable file. There is nothing to fetch, and bypassing the privacy setting is neither supported nor attempted."
+        },
+        {
+          "h": "What you can do instead",
+          "p": "If it is your own private video, you can change its visibility to public temporarily, download the clean file, and set it back to private. If it belongs to someone else, ask the creator to share the file or make the post available — that respects their choice."
+        },
+        {
+          "h": "Avoiding scam tools",
+          "p": "Sites that claim to download private videos are usually phishing for your login or spreading malware. A trustworthy downloader never asks for your TikTok password and openly states that private content is out of scope."
+        },
+        {
+          "h": "Deleted content",
+          "p": "Similarly, once a video is deleted there is no file left on TikTok's servers to retrieve. No tool keeps a copy."
+        },
+        {
+          "h": "How to spot a scam tool",
+          "p": "Any service that promises to download private videos and asks for your TikTok password is a phishing risk. Others gate the download behind a survey or an app install, which is a common way to harvest data or push malware. A trustworthy tool openly states that private content is out of scope and never requests your login."
+        },
+        {
+          "h": "What to do instead",
+          "p": "If the video is yours, set it to public briefly, download the clean file, and set it back to private. If it belongs to someone else, ask the creator to share the file or make the post available. Both routes get you the video without bypassing the creator's privacy choice, which is the only legitimate approach."
+        }
+      ],
+      "steps": [
+        [
+          "Check visibility",
+          "Confirm whether the video is public or restricted."
+        ],
+        [
+          "For your own content",
+          "Set it to public briefly, download, then revert."
+        ],
+        [
+          "For others' content",
+          "Ask the creator to share it directly."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can any tool download private videos?",
+          "No legitimate tool can, because there is no public file to fetch. Private videos are served only to authorized, logged-in viewers, and a downloader reads the same public data your browser sees without logging in. For a private post that data contains no downloadable file. Bypassing the privacy setting is neither supported nor attempted, and services claiming otherwise are usually scams."
+        ],
+        [
+          "Do you ask for my password?",
+          "Never. A trustworthy downloader does not need your login, and any site that requests your TikTok password to access content is a phishing risk. The tool works entirely from public data, so there is no reason to hand over credentials. If a page asks for your password, leave it and use a reputable browser-based tool instead."
+        ],
+        [
+          "What about deleted videos?",
+          "Once a video is deleted there is no file left on TikTok's servers to retrieve, so it cannot be downloaded. No tool keeps a hidden copy of deleted content. If you deleted your own video, check your device or a quick data export, but a downloader cannot recover content that is no longer served publicly."
+        ],
+        [
+          "How do I save my own private video?",
+          "Temporarily change the video's visibility to public, download the clean file with the tool, and then set it back to private. This works because the file is briefly served publicly, so the downloader can read it. For someone else's private video, ask the creator to share the file or make the post available, which respects their choice rather than bypassing it."
+        ]
+      ]
+    },
+    "tiktok-long-video-downloader": {
+      "h1": "TikTok Long Video Downloader",
+      "intro": "The TikTok Long Video Downloader saves longer public TikTok videos — the multi-minute uploads TikTok now allows — in their original quality, without the watermark. Longer clips simply take a little more time to transfer, but the file is the same clean upload.",
+      "sections": [
+        {
+          "h": "Longer uploads, same method",
+          "p": "TikTok now supports videos up to several minutes, and some creators post extended content. The retrieval method is identical: the tool reads the post's public data and downloads the original file. Length changes the wait, not the approach."
+        },
+        {
+          "h": "What to expect",
+          "p": "A long 1080p video can be a large file, so downloads take longer and use more storage. Quality is unchanged — you get the resolution the creator uploaded, with no recompression."
+        },
+        {
+          "h": "Good for archiving talks and tutorials",
+          "p": "Extended tutorials, talks, and walkthroughs are exactly the kind of content worth keeping offline. A clean local copy means you can watch or reference it without buffering or an internet connection."
+        },
+        {
+          "h": "Connection matters",
+          "p": "On a slow or unstable connection a large transfer may stall. If that happens, delete the partial file and retry on a stronger network."
+        },
+        {
+          "h": "Tips for long downloads",
+          "p": "Long, high-resolution files are large, so use Wi-Fi and confirm you have enough storage before starting. A stable connection matters more than for short clips, since a drop can leave a partial file that will not play. If that happens, delete the partial and retry. A modern player handles the finished file without issue."
+        },
+        {
+          "h": "Editing long videos",
+          "p": "Extended tutorials, talks, and walkthroughs are exactly the kind of content worth keeping in a clean, editable form. The original file imports into any editor with no watermark to work around, so you can trim, caption, or excerpt it. Having the full-quality source locally means you can reference it without buffering or an internet connection."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link on the long video."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download and wait",
+          "Save the file; allow extra time for the larger transfer."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is there a length limit?",
+          "It handles the longer uploads TikTok supports, which now run to several minutes. Very large files simply take longer to transfer and use more storage, but there is no artificial length cap in the tool. The retrieval method is the same as for short videos; length changes the wait, not the approach."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier, regardless of video length. You paste a public link and save the original file at no cost. The free model applies to long videos just as it does to short ones, so extended content is not gated behind payment."
+        ],
+        [
+          "Will quality drop for long videos?",
+          "No, the original quality is preserved. The tool fetches the creator's uploaded file without recompression, so a long 1080p video stays 1080p. The only practical difference is size: longer, higher-resolution files are larger and take more time and space. Quality itself is unchanged from the source."
+        ],
+        [
+          "What if the download stalls?",
+          "A large transfer can stall on a slow or unstable connection. If that happens, delete the partial file and retry on a stronger network. Because long videos are big, a stable connection matters more than for short clips. Once the transfer completes, the file plays at the original quality with no watermark."
+        ]
+      ]
+    }
+  },
+  "blog": {}
+}

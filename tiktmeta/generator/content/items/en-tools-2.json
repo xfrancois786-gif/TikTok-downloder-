@@ -1,0 +1,625 @@
+{
+  "tools": {
+    "tiktok-live-video-downloader": {
+      "h1": "TikTok Live Video Downloader",
+      "intro": "The TikTok Live Video Downloader helps you keep a public TikTok live replay after the broadcast ends. Live streams are temporary, so saving the replay while it is still available is the only way to hold onto the content.",
+      "sections": [
+        {
+          "h": "Why live content disappears",
+          "p": "TikTok live broadcasts are ephemeral. Once a stream ends, the replay may stay up only briefly, and not every creator keeps it. If a replay is publicly available, this tool can retrieve the original file before it is gone."
+        },
+        {
+          "h": "What can be saved",
+          "p": "Only replays that TikTok still serves publicly can be downloaded. A live that was never saved as a replay, or one that has already expired, leaves no file to fetch. The tool cannot record a stream that is not being served as a video."
+        },
+        {
+          "h": "Archiving your own streams",
+          "p": "Creators who want a copy of their broadcast should check whether a replay exists and download it promptly. A local copy is the safest way to preserve a live moment, since availability is not guaranteed."
+        },
+        {
+          "h": "Quality notes",
+          "p": "Live replays are saved at the quality TikTok stored, which is often lower than a studio upload because of the live encoding pipeline. You get the best version that exists for that replay."
+        },
+        {
+          "h": "Tips for saving a live moment",
+          "p": "Live clips are only available while the broadcast is running or while the replay stays online, so grab the file as soon as you can. A stable connection helps, since a drop mid-capture can leave a partial file. If the streamer has ended the broadcast, check back later in case a replay is published, and never pressure anyone to stay live just so you can record."
+        },
+        {
+          "h": "Etiquette around live content",
+          "p": "A live broadcast is a person performing in real time, so treat a recording as you would a photo of someone at an event: keep it for personal rewatch, credit the streamer if you share a short excerpt, and do not repost the whole thing as your own. If you run the channel, archiving your own streams is the cleanest use of all."
+        }
+      ],
+      "steps": [
+        [
+          "Find the replay",
+          "Open the ended live if a replay is available."
+        ],
+        [
+          "Copy its link",
+          "Share → Copy link from the replay."
+        ],
+        [
+          "Download promptly",
+          "Paste above and save before it expires."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can I save a live that already ended?",
+          "Only if a public replay is still available. TikTok live broadcasts are temporary, and once a stream ends the replay may stay up only briefly, or not at all. If a replay is currently served publicly, the tool can retrieve the original file before it expires. If no replay exists, there is nothing to download, so timing is what matters most."
+        ],
+        [
+          "Can it record a current stream?",
+          "No, it downloads existing replays, not live broadcasts in progress. The tool reads a video that TikTok is already serving as a file, so it cannot capture an ongoing stream that has not been saved as a replay. If you need a live moment, wait for the replay to appear and download it promptly. Recording a live in progress is a different task the tool does not perform."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier for saving a replay. You paste the public replay link and download the original file at no cost. The free model is the same as every other tool here, so archiving a broadcast costs nothing."
+        ],
+        [
+          "Why is replay quality lower?",
+          "Live replays are saved at the quality TikTok stored during the live encoding pipeline, which is usually more compressed than a regular studio upload. The tool returns the best version that exists for that replay, but it cannot exceed what was broadcast. If a live looks softer than a normal video, that is the nature of live encoding rather than a fault of the downloader."
+        ]
+      ]
+    },
+    "tiktok-duet-downloader": {
+      "h1": "TikTok Duet Downloader",
+      "intro": "The TikTok Duet Downloader saves a public duet video in its original quality, without the watermark. A duet is just a regular public post with a split layout, so the same clean-file retrieval applies.",
+      "sections": [
+        {
+          "h": "What a duet contains",
+          "p": "A duet places two videos side by side — the original and the reaction — as a single published post. Because it is published like any other video, TikTok serves a single MP4 for it, and that is what this tool retrieves."
+        },
+        {
+          "h": "Clean, original file",
+          "p": "You get the creator's uploaded duet without the logo overlay that the Save button adds. That makes it straightforward to archive or re-edit the split-screen composition."
+        },
+        {
+          "h": "Public only",
+          "p": "As with all posts, only public duets can be fetched. Private or restricted duets are out of scope and are not bypassed."
+        },
+        {
+          "h": "Editing the layout",
+          "p": "Since the file is the composed duet as published, both halves are already combined. If you want the two clips separately, you would need the original source from each creator."
+        },
+        {
+          "h": "Tips for a usable duet file",
+          "p": "Confirm the post is a public duet before you start, and play the result once to check both halves are present and in sync. Because a duet pairs two creators, the clean file is ideal for study or for your own reaction video, but reposting it wholesale still needs the original creators' okay. A quick credit line goes a long way."
+        },
+        {
+          "h": "What the split layout means for editing",
+          "p": "A duet arrives as a single frame with the two videos side by side or stacked, exactly as viewers see it. If you only want one half, you crop the frame in an editor, which trims the resolution of that side. Keeping the full layout preserves the context of who reacted to what, which is usually the point of a duet."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the duet link",
+          "Share → Copy link on the duet."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download",
+          "Save the original duet MP4."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is a duet downloaded as one file?",
+          "Yes, the published split-screen MP4. A duet places two videos side by side as a single post, and TikTok serves one file for it, which is what the tool retrieves. You get the composed layout exactly as it was published, in the creator's original quality and without the watermark. It is a single clean file, not two separate clips."
+        ],
+        [
+          "Can I get the two halves separately?",
+          "Not from the duet, because it is published as one combined file. To get the two clips independently you would need each creator's original source video, which is a different thing. The downloader returns the duet as viewers see it. If you need the individual halves, you have to obtain them from the original posts."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste the public duet link and save the clean MP4 at no cost. The free model matches the other tools, so downloading a duet costs nothing."
+        ],
+        [
+          "Do private duets work?",
+          "No, only public posts can be fetched. A private or restricted duet has no public file to retrieve, so it is out of scope and is not bypassed. The tool works from what TikTok serves publicly. If a duet is private, there is simply nothing for any legitimate downloader to access."
+        ]
+      ]
+    },
+    "tiktok-to-mp4": {
+      "h1": "TikTok to MP4",
+      "intro": "TikTok to MP4 converts a public TikTok video into a standard MP4 file you can play, edit, or archive anywhere. MP4 with H.264 is the format TikTok already uses, so the result is universally compatible.",
+      "sections": [
+        {
+          "h": "Why MP4",
+          "p": "MP4 is the most widely supported video container across phones, computers, TVs, and editors. Because TikTok stores uploads as MP4/H.264, converting to MP4 is essentially delivering the native file rather than transcoding to something exotic."
+        },
+        {
+          "h": "What you receive",
+          "p": "A clean MP4 in the original resolution, with audio, and without the watermark. It plays in QuickTime, VLC, Windows Media Player, and imports directly into editing software."
+        },
+        {
+          "h": "When conversion is involved",
+          "p": "For standard video posts the file is already MP4, so no lossy conversion happens. The tool simply packages the original stream into a downloadable .mp4."
+        },
+        {
+          "h": "Using the file",
+          "p": "Drop it into CapCut, Premiere, or DaVinci, upload it to another platform, or keep it as an archive. The lack of a watermark makes it presentable as-is."
+        },
+        {
+          "h": "Tips for a dependable MP4",
+          "p": "MP4 with H.264 plays almost everywhere, so it is the safest choice for sharing. Download the original rather than converting an already-compressed file, since each extra conversion softens the image. If a player refuses the file, it is usually a codec issue on an old device rather than a problem with the download, and a modern player or a different browser resolves it."
+        },
+        {
+          "h": "When an MP4 is already the source",
+          "p": "Most TikTok videos are stored as MP4 to begin with, so this tool usually hands you the original file with no conversion at all. That means the resolution and bitrate match what the app streams. The label MP4 is less about transforming the video and more about giving you a predictable, widely compatible container you can drop into any editor."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download MP4",
+          "Save the .mp4 file."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the MP4 watermarked?",
+          "No, it is the clean original. TikTok already stores uploads as MP4 with the H.264 codec, so converting to MP4 mainly packages the native file rather than transcoding it. The result has no logo and no interface overlay, ready to play or edit. You get the creator's upload without the app's watermarked copy."
+        ],
+        [
+          "Will it play everywhere?",
+          "Yes, MP4 with H.264 is the most widely supported video format across phones, computers, TVs, and editors. It plays in QuickTime, VLC, Windows Media Player, and imports directly into editing software. That broad compatibility is the main reason MP4 is the default choice. You can share or archive the file without worrying about whether a device can open it."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the MP4 at no cost. The free model is identical to the other tools, so converting to MP4 costs nothing."
+        ],
+        [
+          "Does conversion reduce quality?",
+          "No, the native MP4 is delivered without recompression. Because TikTok already uses MP4/H.264, the tool packages the original stream rather than re-encoding it, so there is no quality loss. The file matches what the app streams. Any claim that MP4 conversion softens the video does not apply when the source is already MP4."
+        ]
+      ]
+    },
+    "tiktok-to-mp3": {
+      "h1": "TikTok to MP3",
+      "intro": "TikTok to MP3 extracts the audio track from a public TikTok video and delivers it as an MP3. It is the quickest way to keep a song, sound, or voice clip from a video as a standalone audio file.",
+      "sections": [
+        {
+          "h": "What gets extracted",
+          "p": "The tool pulls the sound exactly as it plays in that specific video — including any voiceover, mix, or effects the creator added. It does not fetch a studio master; it captures the audio as published."
+        },
+        {
+          "h": "Why MP3",
+          "p": "MP3 plays on virtually any device, car stereo, or app, and is small enough to share easily. It is ideal for ringtones, reference clips, or sampling a viral sound for personal use."
+        },
+        {
+          "h": "Quality expectations",
+          "p": "The final audio quality depends on the source track. Extraction cannot add fidelity that was not in the original mix, so a heavily compressed source yields a correspondingly modest MP3."
+        },
+        {
+          "h": "Copyright reminder",
+          "p": "Music and audio belong to their creators. Use extracted audio for personal, educational, or permitted purposes, and clear rights before any commercial use."
+        },
+        {
+          "h": "Tips for a clean audio file",
+          "p": "Extract from the original video rather than an already-converted copy, and check the result once for the spoken words or music you expected. MP3 keeps the file small and universal, which is ideal for a ringtone or a quick listen. If you need to edit the audio in a studio, a lossless format gives you more room, but for everyday use MP3 is hard to beat."
+        },
+        {
+          "h": "Matching the audio to its source",
+          "p": "The audio you get is bounded by what the video contains: a clear voice memo extracts cleanly, while music mixed under loud effects may sound crowded. Knowing this sets expectations. For a song you want to keep, the original sound tool often gives a cleaner track than pulling audio from a busy video."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link on the video with the sound you want."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download MP3",
+          "Save the extracted audio file."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the audio the original sound?",
+          "Yes, exactly as it plays in that video, including any voiceover, mix, or effects the creator added. The tool extracts the audio track from that specific post, so you get the sound as published rather than a clean studio master. If the creator used only part of a song, you get that part as heard. It is the audio tied to the video, not a separate recording."
+        ],
+        [
+          "Can it improve audio quality?",
+          "No, it preserves the source quality and cannot add fidelity that was not there. Extraction is a faithful copy of the existing mix, so a clean source yields a clean MP3 and a compressed one stays compressed. If the original sounds muffled, the MP3 will too. The tool does not enhance; it delivers what the video contains."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier for audio extraction. You paste a public link and save the MP3 at no cost. The free model matches the other tools, so pulling the sound from a video costs nothing."
+        ],
+        [
+          "Can I use the MP3 commercially?",
+          "Only with the rights holder's permission. Music and audio belong to their creators, so using an extracted track commercially without a license can infringe copyright. Personal, educational, or permitted use is generally fine, but commercial use needs clearance. The MP3 is a copy of someone's audio; it does not transfer the rights to it."
+        ]
+      ]
+    },
+    "tiktok-to-gif": {
+      "h1": "TikTok to GIF",
+      "intro": "TikTok to GIF turns a short segment of a public TikTok video into an animated GIF. GIFs loop silently and play almost anywhere, which makes them perfect for reactions, memes, and quick visual notes.",
+      "sections": [
+        {
+          "h": "Why choose GIF",
+          "p": "A GIF auto-plays and loops without controls, and it embeds in chats, forums, and docs that do not accept video. It is the go-to format for a short, shareable moment rather than a full clip."
+        },
+        {
+          "h": "What to expect",
+          "p": "GIFs are silent and limited to a compact color palette, so they suit brief, high-contrast moments better than long, detailed footage. For a specific segment, trim the source to the part you want before converting."
+        },
+        {
+          "h": "Best practices",
+          "p": "Keep GIFs short — a few seconds — to keep file size reasonable. Longer or larger GIFs can become heavy, so a brief loop is usually the sweet spot."
+        },
+        {
+          "h": "Sharing",
+          "p": "The resulting GIF can be dropped into messages, social posts, or documentation. No watermark is included when the original file is used."
+        },
+        {
+          "h": "Tips for a smaller, smoother GIF",
+          "p": "GIFs balloon in size with length and color, so trim to the few seconds that matter and expect a reduced frame rate compared with the source video. A short loop of a reaction or a transition usually reads better than a long clip. If the file is too heavy for a chat app, shorten it further rather than shrinking the dimensions, which hurts legibility."
+        },
+        {
+          "h": "Where GIFs shine and where they do not",
+          "p": "GIFs are perfect for quick reactions in messages, forum replies, and docs that do not support video. They are poor for anything with fine detail or long duration, because the format caps color and smoothness. For a polished post, the original MP4 looks far better; reach for a GIF when you need something that autoplays silently and loops."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download GIF",
+          "Save the animated .gif."
+        ]
+      ],
+      "faqs": [
+        [
+          "Do GIFs have sound?",
+          "No, GIFs are silent by format. The format has no audio track, so a GIF captures only the visual moment, looping without sound. If you need the audio as well, keep the video or extract the sound separately as an MP3. A GIF is the right choice for a short, silent, shareable visual rather than a clip with sound."
+        ],
+        [
+          "Can I pick the segment?",
+          "Trim the source to the part you want before converting. The tool turns the video into a GIF, so the segment you keep is determined by what you trim beforehand. For a precise moment, cut the source to that range first, then convert. This gives you a short loop of exactly the part you care about."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the GIF at no cost. The free model is the same as every other tool, so making a GIF costs nothing."
+        ],
+        [
+          "Why is my GIF large?",
+          "Long or detailed GIFs are heavy because the format stores many frames with limited compression. Keeping the GIF short, just a few seconds, and simple keeps the file size reasonable. If your GIF is large, trim it to a brief loop. Shorter, high-contrast moments make the best and smallest GIFs."
+        ]
+      ]
+    },
+    "tiktok-to-wav": {
+      "h1": "TikTok to WAV",
+      "intro": "TikTok to WAV extracts a public TikTok video's audio as an uncompressed WAV file. WAV is preferred when you need the cleanest possible audio for editing, sampling, or production work.",
+      "sections": [
+        {
+          "h": "Why WAV over MP3",
+          "p": "WAV is uncompressed, so it avoids the additional loss that MP3 encoding introduces. For audio editing or sampling, an uncompressed file gives your software the most faithful starting point from the source."
+        },
+        {
+          "h": "What you get",
+          "p": "The audio as it plays in the video, delivered as a .wav. The fidelity is bounded by the original mix — extraction preserves it but cannot exceed it."
+        },
+        {
+          "h": "File size trade-off",
+          "p": "Uncompressed audio is large. A WAV of the same clip is far bigger than the MP3 equivalent, so use it when quality matters more than size."
+        },
+        {
+          "h": "Typical uses",
+          "p": "Producers sampling a sound, editors syncing audio, and anyone who wants a lossless container for further processing will prefer WAV."
+        },
+        {
+          "h": "Tips for managing WAV size",
+          "p": "WAV is uncompressed, so even a short clip can be tens of megabytes. Use it when you plan to edit the audio and want every sample intact, and keep the source clip short to stay manageable. For sharing or casual listening, a compressed format is far lighter; WAV earns its size only in an editing or mastering context."
+        },
+        {
+          "h": "Editing with a WAV track",
+          "p": "Because WAV is uncompressed, it imports cleanly into any audio editor without generation loss, which makes it ideal for lining up a sound with your own footage. You can trim, layer, and normalize without the artifacts that repeated MP3 encoding introduces. When the project is finished, export to whatever format your audience needs."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download WAV",
+          "Save the uncompressed .wav."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is WAV better than MP3?",
+          "It is uncompressed, so it avoids the additional loss that MP3 encoding introduces. For editing or sampling, a WAV gives your software the most faithful starting point from the source. MP3 is smaller and fine for casual listening, but WAV is preferred when quality matters more than size. The choice depends on whether you need compactness or fidelity."
+        ],
+        [
+          "Is the file large?",
+          "Yes, uncompressed audio is sizable. A WAV of the same clip is far bigger than the MP3 equivalent, sometimes many times larger. That is the trade-off for avoiding compression. Use WAV when you need the cleanest audio for production, and MP3 when you want something small and easy to share."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the WAV at no cost. The free model matches the other tools, so extracting uncompressed audio costs nothing."
+        ],
+        [
+          "Can it exceed source quality?",
+          "No, it preserves the original mix and cannot add detail beyond it. WAV avoids extra encoding loss, but the fidelity is still bounded by what the video contains. A clean source yields a clean WAV; a compressed one stays limited. The tool delivers the best faithful copy, not an enhancement."
+        ]
+      ]
+    },
+    "tiktok-to-webm": {
+      "h1": "TikTok to WebM",
+      "intro": "TikTok to WebM delivers a public TikTok video in the WebM format, a modern, web-friendly container that is efficient for browsers and web pages. It is a good choice when you need a compact video for the web.",
+      "sections": [
+        {
+          "h": "Why WebM",
+          "p": "WebM is designed for the web and is supported by all major browsers. It typically compresses well, making it suitable for embedding video on a site without a large download."
+        },
+        {
+          "h": "What you receive",
+          "p": "A clean video in WebM, without the watermark, at the source resolution. It is ideal for web playback and modern HTML5 video players."
+        },
+        {
+          "h": "Compatibility note",
+          "p": "Some older desktop players and certain editors prefer MP4. If your target software does not accept WebM, choose the MP4 tool instead."
+        },
+        {
+          "h": "Editing and hosting",
+          "p": "For hosting on a website or a platform that accepts WebM, the format keeps files smaller while retaining good quality."
+        },
+        {
+          "h": "Tips for smooth WebM playback",
+          "p": "WebM plays natively in Chrome, Firefox, and Edge, and in most modern mobile browsers, so it is a good fit for the web. If you hit a device that will not open it, that is a codec limitation rather than a bad file. Keep the original resolution and avoid re-encoding, since WebM already compresses efficiently and a second pass only degrades it."
+        },
+        {
+          "h": "When to convert WebM to MP4",
+          "p": "Reach for MP4 when you need to share with someone on an older device, upload to a platform that prefers MP4, or edit in software that does not read WebM. Converting is quick, but it re-encodes the video, so start from the clean original. For pure web playback and hosting, WebM keeps files small and crisp without any conversion."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download WebM",
+          "Save the .webm file."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is WebM good for websites?",
+          "Yes, it is web-optimized and supported by all major browsers. WebM typically compresses well, making it suitable for embedding video on a site without a huge download. It is a modern, efficient choice for HTML5 playback. If your goal is compact, browser-friendly video, WebM is a strong fit."
+        ],
+        [
+          "Will my editor accept it?",
+          "Most modern editors do, but some older desktop players and certain software prefer MP4. If your target editor does not accept WebM, choose the MP4 tool instead. WebM is excellent for the web and current tools, while MP4 is the safer bet for broad software compatibility. Pick based on where the file is going."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the WebM at no cost. The free model is identical to the other tools, so converting to WebM costs nothing."
+        ],
+        [
+          "Is it watermarked?",
+          "No, it is the clean original. The tool fetches the creator's upload without the logo, then packages it as WebM. You get a watermark-free file at the source resolution. The lack of a logo makes it presentable for web playback without another platform's branding across the picture."
+        ]
+      ]
+    },
+    "tiktok-to-jpg": {
+      "h1": "TikTok to JPG",
+      "intro": "TikTok to JPG saves a still frame from a public TikTok video as a JPG image. It is handy for thumbnails, references, or any moment you want as a picture rather than a clip.",
+      "sections": [
+        {
+          "h": "When you want a still",
+          "p": "A JPG is perfect for a cover image, a reference frame, or a quick snapshot of a moment. Instead of screenshotting — which can capture UI elements — you get a clean frame from the source."
+        },
+        {
+          "h": "Choosing the frame",
+          "p": "The saved image corresponds to a frame of the video. For a precise moment, note the timestamp you want and capture that frame from the source."
+        },
+        {
+          "h": "Quality",
+          "p": "JPG is a compact, universally supported image format. The still is taken from the original-resolution file, so it is as sharp as the source allows."
+        },
+        {
+          "h": "Use cases",
+          "p": "Making a thumbnail, documenting a step in a tutorial, or keeping a visual reference are all good reasons to export a JPG."
+        },
+        {
+          "h": "Tips for picking the sharpest frame",
+          "p": "Scrub to a moment where the subject is still and in focus, since motion blur and mid-blink frames make poor stills. A frame near the start is often cleaner than one mid-transition. Download at the original resolution rather than upscaling a small image, which only adds blur. A sharp source frame is the single biggest factor in a good still."
+        },
+        {
+          "h": "Editing a JPG still",
+          "p": "A JPG is ready for almost any use, from a quick post to a slide, and its small size makes it easy to send. If you plan heavy retouching, keep edits light to avoid compounding compression artifacts, and save a copy at high quality. For graphics with sharp text or flat color, a PNG may hold edges better, but for photos JPG is the practical default."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download JPG",
+          "Save the still image."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the JPG clean?",
+          "Yes, it is a frame from the original with no UI overlay or watermark. Instead of screenshotting, which captures the app interface, the tool saves a still from the source file. The result is a clean image with none of the buttons or text around it. That makes it suitable for thumbnails, references, or any use that needs an uncluttered picture."
+        ],
+        [
+          "Can I choose the exact frame?",
+          "Capture the timestamp you want from the source. The saved image corresponds to a frame of the video, so for a precise moment, note the time and grab that frame. This gives you the exact still you need rather than an arbitrary one. It is more reliable than pausing and screenshotting, which can catch the interface."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the JPG at no cost. The free model matches the other tools, so exporting a still costs nothing."
+        ],
+        [
+          "Is it watermarked?",
+          "No. The still comes from the original-resolution file, so it has no logo and no interface elements. You get a clean frame ready for use as a thumbnail or reference. The absence of a watermark makes it more professional than a screenshot of the app would be."
+        ]
+      ]
+    },
+    "tiktok-to-png": {
+      "h1": "TikTok to PNG",
+      "intro": "TikTok to PNG saves a still frame from a public TikTok video as a lossless PNG image. PNG is the better choice when you need crisp edges and no compression artifacts, such as for graphics work.",
+      "sections": [
+        {
+          "h": "Why PNG",
+          "p": "PNG is lossless, so text, lines, and sharp edges stay clean. For design work, overlays, or any image you plan to edit further, PNG avoids the small artifacts JPG can introduce."
+        },
+        {
+          "h": "What you get",
+          "p": "A still frame from the original-resolution video, saved as a .png with no watermark and no interface elements."
+        },
+        {
+          "h": "Size trade-off",
+          "p": "PNG files are larger than JPG for photographic content. Choose PNG when fidelity matters and JPG when size matters."
+        },
+        {
+          "h": "Editing",
+          "p": "The lossless still drops cleanly into Photoshop, Figma, or any editor that handles PNG, ready for cropping or compositing."
+        },
+        {
+          "h": "Tips for getting a crisp PNG",
+          "p": "Choose a frame with clean edges and little motion, and download at the source resolution rather than enlarging a thumbnail. PNG preserves every pixel, so a sharp original yields a sharp result. Because the file is larger than a JPG, use it when clarity matters more than size, such as for a cover image or a graphic you will edit."
+        },
+        {
+          "h": "Editing and reuse with PNG",
+          "p": "PNG is lossless, so it survives multiple saves without the softening a JPG accumulates. That makes it a good master to keep before you export smaller copies. It shines for images with text, logos, or flat color where crisp edges matter, while for a plain photograph a high-quality JPG is usually smaller with no visible difference."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download PNG",
+          "Save the lossless .png."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is PNG lossless?",
+          "Yes, it preserves the frame without compression artifacts. That makes text, lines, and sharp edges stay clean, which is why PNG is preferred for graphics work. Unlike JPG, it does not introduce small artifacts around detailed areas. If you plan to edit or composite the image, the lossless still gives you a cleaner starting point."
+        ],
+        [
+          "Is it bigger than JPG?",
+          "Usually, for photographic images. PNG is lossless, so it stores more data and produces larger files than JPG for the same picture. Choose PNG when fidelity matters and JPG when size matters. For a still you will edit, the extra size is worth it; for a quick share, JPG is lighter."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the PNG at no cost. The free model is the same as every other tool, so exporting a lossless still costs nothing."
+        ],
+        [
+          "Is it watermarked?",
+          "No. The still is taken from the original-resolution video with no logo and no interface. You get a clean, lossless image ready for design work. The lack of a watermark makes it more useful than a screenshot, which would include the app's UI."
+        ]
+      ]
+    },
+    "tiktok-to-reels-converter": {
+      "h1": "TikTok to Reels Converter",
+      "intro": "The TikTok to Reels Converter prepares a public TikTok video for reposting to Instagram Reels by delivering the clean original file, which you can then upload. It removes the watermark so the clip looks native on Reels.",
+      "sections": [
+        {
+          "h": "Why convert for Reels",
+          "p": "Reels favors clean, vertical, watermark-free video. A clip carrying another platform's logo looks out of place and can be down-ranked. Starting from the original upload gives you a clean base to post."
+        },
+        {
+          "h": "What the tool provides",
+          "p": "The original MP4 in the creator's quality, without the TikTok watermark. You can trim, add captions, or adjust it in Instagram or an editor before posting."
+        },
+        {
+          "h": "Aspect and length",
+          "p": "TikTok and Reels are both vertical, so the framing usually fits. Keep within Reels' length limits and add your own captions or music as desired."
+        },
+        {
+          "h": "Credit and rights",
+          "p": "Repost your own content freely; for someone else's, get permission and give credit. Do not present another creator's work as your own."
+        },
+        {
+          "h": "Tips for a Reels-ready upload",
+          "p": "Download the clean original, check that it is vertical and within the length Reels accepts, and upload the file directly rather than screen-recording it, which adds a visible watermark and lowers quality. A native-looking, sharp upload tends to perform better. Keep the creator's handle in the caption so credit travels with the clip."
+        },
+        {
+          "h": "Repurposing without the other platform's logo",
+          "p": "The whole advantage is a file with no second platform's branding, which Reels favors over clips stamped by another app. The tool provides the clean source; you still choose the crop, cover, and caption. Used with permission and credit, it is an efficient way to give your own TikToks a second life on a new platform."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download and post",
+          "Save the clean MP4 and upload it to Reels."
+        ]
+      ],
+      "faqs": [
+        [
+          "Will Reels show a watermark?",
+          "No, you start from the clean original rather than the app's saved copy. Reels favors watermark-free vertical video, and a TikTok logo can suppress reach, so using the original upload avoids that. The tool delivers the creator's file with no overlay. You can then trim or caption it in Instagram before posting, and it looks native to Reels."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the clean MP4 at no cost. The free model matches the other tools, so preparing a video for Reels costs nothing."
+        ],
+        [
+          "Can I edit before posting?",
+          "Yes, trim, add captions, or adjust the clip in Instagram or an editor before uploading. The clean MP4 is the source, so you can cut it to length, add text, and choose audio. Both TikTok and Reels are vertical, so the framing usually fits. Editing before posting gives you a polished Reel rather than a raw repost."
+        ],
+        [
+          "Do I need permission to repost?",
+          "For your own content, no. For someone else's, yes, and you should give credit. Reposting another creator's video without a license can infringe copyright and lead to takedowns. A quick permission request and a visible credit keep it legitimate. The clean file does not transfer rights; it only gives you a better copy to work with."
+        ]
+      ]
+    }
+  },
+  "blog": {}
+}

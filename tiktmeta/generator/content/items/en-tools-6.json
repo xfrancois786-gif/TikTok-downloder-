@@ -1,0 +1,697 @@
+{
+  "tools": {
+    "tiktok-on-chromebook": {
+      "h1": "TikTok on Chromebook",
+      "intro": "How to download TikTok videos on a Chromebook: use Chrome, copy the video link, paste it into the downloader, and save the MP4 to your Files. Everything runs in the browser, nothing to install.",
+      "sections": [
+        {
+          "h": "Chrome does the work",
+          "p": "Chromebooks center on Chrome, which handles the download cleanly. Open the downloader, paste the link, and press Search — no Android app or extension required."
+        },
+        {
+          "h": "Where files land",
+          "p": "Downloads go to the Files app under Downloads. From there you can move the video into Google Drive or another folder."
+        },
+        {
+          "h": "If it will not save",
+          "p": "If the video plays in a tab, use the browser's save option or right-click → Save video as. Confirm the link is a public post."
+        },
+        {
+          "h": "Editing and sharing",
+          "p": "The clean MP4 can be uploaded to the web, shared, or edited in browser-based tools, which suits the Chromebook workflow."
+        },
+        {
+          "h": "Tips for saving on a Chromebook",
+          "p": "Chrome does all the work, so paste the link, download, and the file goes to the Files app under Downloads. From there it is ready to upload or open in a web editor. Because a Chromebook leans on the browser, the experience matches a desktop, and the clean file is the same original everyone gets."
+        },
+        {
+          "h": "Where Chromebook files land",
+          "p": "Downloads on a Chromebook live in the Files app, which you can open from the launcher, and they sync to Google Drive if you choose. That makes moving a clip to another device simple. Knowing the Files app is the home for downloads saves the hunt when a video does not appear where you expect."
+        },
+        {
+          "h": "If a download will not save",
+          "p": "When a file will not save, check available storage in the Files app and confirm your connection, since Chromebooks can be strict about space. If it still fails, a fresh copy of the link or a different browser tab usually clears it. Most issues are storage or connection rather than the download itself."
+        },
+        {
+          "h": "Editing and sharing from a Chromebook",
+          "p": "A downloaded MP4 uploads easily to web-based editors and to social platforms, so a Chromebook is fine for trimming and posting. The original file keeps its quality through the process. For heavier editing, a web editor with the clean source gets you most of the way without any desktop software."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link or copy the URL."
+        ],
+        [
+          "Paste in Chrome",
+          "Open the downloader, paste, and Search."
+        ],
+        [
+          "Save to Files",
+          "Download; find it in the Files app."
+        ]
+      ],
+      "faqs": [
+        [
+          "Do I need an app?",
+          "No, it runs in Chrome. Chromebooks center on the browser, which handles the download cleanly, so there is no Android app or extension to install. You open the downloader, paste the link, and press Search. The whole process stays in the browser, which suits the Chromebook workflow and avoids extra software."
+        ],
+        [
+          "Where does it save?",
+          "Files, then Downloads. The MP4 goes to the Files app under Downloads, where you can open it or move it. From there you can relocate it into Google Drive or another folder. The Files app is the central place to manage downloads on a Chromebook, so that is where to look first."
+        ],
+        [
+          "Can I move it to Drive?",
+          "Yes, from the Files app. Once the video is downloaded, open Files, find it in Downloads, and drag or copy it into Google Drive. This lets you access it across devices or share it easily. The clean MP4 uploads to Drive like any other file, ready to use wherever you sign in."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link in Chrome and save the MP4 at no cost. The free model is the same as every other tool, so downloading on a Chromebook costs nothing."
+        ]
+      ]
+    },
+    "tiktok-on-ipad": {
+      "h1": "TikTok on iPad",
+      "intro": "How to download TikTok videos on an iPad: use Safari, paste the link, and save the file to Files. Then move it to Photos or edit it, just like on iPhone but with more screen room.",
+      "sections": [
+        {
+          "h": "Safari on iPadOS",
+          "p": "Safari handles downloads on iPad the same way it does on iPhone. Open the downloader in Safari, paste the link, and download."
+        },
+        {
+          "h": "Where it saves",
+          "p": "Files go to the Files app under Downloads (iCloud Drive or On My iPad). A progress arrow appears by the address bar during the save."
+        },
+        {
+          "h": "Move to Photos",
+          "p": "Open Files, long-press the video, tap Share, then Save Video. Allow Photos access the first time and it appears in your camera roll."
+        },
+        {
+          "h": "Bigger canvas for editing",
+          "p": "The larger screen makes trimming and captioning in iMovie or other editors comfortable, and the clean MP4 imports directly."
+        },
+        {
+          "h": "Tips for saving on an iPad",
+          "p": "Safari is the reliable choice, and the file lands in the Files app under Downloads. To get it into Photos, open it from Files and use the share sheet to save the video. The larger screen makes an iPad pleasant for reviewing a download before you move or edit it."
+        },
+        {
+          "h": "Where iPad downloads go",
+          "p": "Downloads land in the Files app rather than Photos, which is the usual surprise. From Files, the share button moves a clip into the camera roll. Once you know this two-step path, saving and finding videos on an iPad is quick and predictable."
+        },
+        {
+          "h": "Moving a clip into Photos",
+          "p": "Open the Files app, find the download, tap share, and choose Save Video to place it in Photos. From there it behaves like any recorded clip. This extra step is the main difference from a phone, and it keeps the original quality intact through the move."
+        },
+        {
+          "h": "A bigger canvas for editing",
+          "p": "The iPad's larger screen makes trimming and captioning more comfortable than on a phone, and the clean file imports into mobile editors without a watermark to crop. It is a sweet spot for quick edits on the go, with the original resolution giving you room to reframe for Reels or Shorts."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link in TikTok."
+        ],
+        [
+          "Paste in Safari",
+          "Open the downloader, paste, and Search."
+        ],
+        [
+          "Save and move",
+          "Download to Files, then Save Video to Photos."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is it the same as iPhone?",
+          "Yes, with a larger screen. iPadOS handles downloads through Safari the same way iOS does, so the steps are identical: paste the link, download to Files, then move to Photos if you want. The bigger display just makes viewing and editing more comfortable. The process and the clean result are the same as on iPhone."
+        ],
+        [
+          "Where is the file?",
+          "Files app, Downloads. Downloads land under Downloads, either iCloud Drive or On My iPad depending on your setting. A progress arrow appears by the address bar during the save. Open Files and look in Downloads. If it is not there yet, the download may still be finishing, so wait for it to complete."
+        ],
+        [
+          "How do I get it in Photos?",
+          "Long-press in Files, then Share, then Save Video. Allow Photos access the first time and the video appears in your camera roll. If Save Video is missing, the download is incomplete. Once in Photos, you can view, edit in iMovie, or share the clip like any other video on your iPad."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link in Safari and save the clean file at no cost. The free model matches the other tools, so downloading on an iPad costs nothing."
+        ]
+      ]
+    },
+    "tiktok-downloader-app": {
+      "h1": "TikTok Downloader App",
+      "intro": "A TikTok downloader app is a convenient way to save videos, but a browser-based tool like this one needs no install, no updates, and no permissions. This page explains the trade-offs so you can choose.",
+      "sections": [
+        {
+          "h": "Apps versus browser tools",
+          "p": "Apps can feel convenient, but they require installation, updates, and often broad permissions. A browser tool runs anywhere, stays current automatically, and asks for nothing but a link."
+        },
+        {
+          "h": "Why no-install wins",
+          "p": "Nothing to download means nothing to maintain and no app-store restrictions. It works on iPhone, Android, PC, Mac, and Chromebook through the same interface."
+        },
+        {
+          "h": "Privacy",
+          "p": "This tool stores nothing you download and does not ask for your login. Many apps request more access than they need; a lean browser tool avoids that."
+        },
+        {
+          "h": "When an app makes sense",
+          "p": "If you want a dedicated workflow inside an app, choose a reputable one with clear privacy practices. For most people, the browser tool covers the same need with less friction."
+        },
+        {
+          "h": "Tips for choosing no-install tools",
+          "p": "A browser tool needs nothing installed, works on any device, and is easy to remove from your history, which sidesteps the permissions and updates an app demands. For occasional saves, it is the simplest path. Reserve a dedicated app for cases where you need automation a browser cannot offer, and check its permissions before installing."
+        },
+        {
+          "h": "Why no-install wins on privacy",
+          "p": "A browser tool never asks for your login and leaves no app on your device holding permissions, which keeps your data footprint small. You supply a public link and get a file, nothing more. That minimal exchange is the privacy advantage, and it is why a no-install tool suits most people most of the time."
+        },
+        {
+          "h": "When a dedicated app makes sense",
+          "p": "An app is worth it only if you need batch automation, scheduled downloads, or deep integration a browser cannot provide. Even then, read the permissions carefully, since a downloader has no reason to read your contacts or messages. For the common case of saving a clip now and then, the browser tool is faster and safer."
+        },
+        {
+          "h": "Keeping any app in check",
+          "p": "If you do install a downloader app, review its permissions, keep it updated, and uninstall it when you stop using it. A small, focused app with few permissions is easier to trust than a sprawling one. The browser tool remains the low-commitment default, and the app is the exception rather than the rule."
+        }
+      ],
+      "steps": [
+        [
+          "Open the tool",
+          "Visit the site in any browser."
+        ],
+        [
+          "Paste a link",
+          "Copy a public TikTok link and paste it."
+        ],
+        [
+          "Download",
+          "Save the file — no install needed."
+        ]
+      ],
+      "faqs": [
+        [
+          "Do I need to install an app?",
+          "No, it works in the browser. A browser-based tool runs anywhere without installation, updates, or broad permissions. It stays current automatically and asks for nothing but a link. This no-install approach works on iPhone, Android, PC, Mac, and Chromebook through the same interface, which is why it is the default recommendation for most people."
+        ],
+        [
+          "Is it safe?",
+          "It asks for no login and stores nothing. A lean browser tool avoids the broad permissions many apps request, which reduces risk. Look for HTTPS and a clear privacy policy, and avoid anything that pushes a survey or pop-up before a download. The fewer credentials and permissions a tool wants, the safer it is to use."
+        ],
+        [
+          "Does it work on all devices?",
+          "Yes, any modern browser. The same interface works on iPhone, Android, PC, Mac, and Chromebook, so you are not tied to a single platform. This uniform coverage is a practical advantage over apps that may be limited to one operating system. Whatever device you are on, the browser tool covers it."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the clean file at no cost. The free model is the same as every other tool, so using the browser downloader costs nothing."
+        ]
+      ]
+    },
+    "tiktok-downloader-api": {
+      "h1": "TikTok Downloader API",
+      "intro": "A TikTok downloader API lets developers fetch public video data programmatically. This page outlines how such an API is typically structured and what to consider before integrating one.",
+      "sections": [
+        {
+          "h": "What a downloader API does",
+          "p": "It accepts a public TikTok URL and returns structured data — usually the original video and audio links, plus metadata. Developers use it to build their own download features."
+        },
+        {
+          "h": "Typical request",
+          "p": "A POST with a JSON body containing the URL, returning JSON with media links. A well-designed API validates the URL, handles errors clearly, and caches responses to stay fast."
+        },
+        {
+          "h": "Rate limits and fairness",
+          "p": "Public APIs apply rate limits to prevent abuse. Respect them, cache results, and avoid hammering the endpoint, or you may be throttled."
+        },
+        {
+          "h": "Legal and ethical use",
+          "p": "Only process public content you have the right to handle, respect copyright, and follow TikTok's terms. An API is a tool; how you use it is your responsibility."
+        },
+        {
+          "h": "Tips for integrating responsibly",
+          "p": "Respect the provider's rate limits, cache results where you can, and handle errors gracefully so you do not hammer the service. A backoff on failures keeps you in good standing. Build for the public, legitimate case, and document your usage so the integration stays within the provider's terms."
+        },
+        {
+          "h": "What a request usually looks like",
+          "p": "A typical call sends a public post URL and receives the media addresses and metadata in a structured response. You then fetch the file from the returned link. Wrapping that flow in error handling and a cache turns a raw endpoint into a dependable feature without overburdening the source."
+        }
+      ],
+      "steps": [
+        [
+          "Read the docs",
+          "Understand the endpoint and response shape."
+        ],
+        [
+          "Send a test request",
+          "POST a public URL and inspect the JSON."
+        ],
+        [
+          "Handle responses",
+          "Parse links, cache, and respect rate limits."
+        ]
+      ],
+      "faqs": [
+        [
+          "What does it return?",
+          "Typically media links and metadata as JSON. A downloader API accepts a public TikTok URL and returns structured data, usually the original video and audio links plus information about the post. Developers use this to build their own download features. A well-designed API validates the URL, handles errors clearly, and returns predictable, parseable responses."
+        ],
+        [
+          "Is there a rate limit?",
+          "Usually yes, so cache and respect it. Public APIs apply rate limits to prevent abuse, and exceeding them can get you throttled. Cache results where possible, avoid hammering the endpoint, and handle rate-limit responses gracefully. Respecting the limits keeps the service responsive for everyone and keeps your integration reliable."
+        ],
+        [
+          "Can it access private videos?",
+          "No, public content only. An API reads the same public data a browser sees without logging in, so private or restricted posts have no file to return. Bypassing privacy is neither supported nor attempted. If you need private content, that is out of scope for any legitimate API, and services claiming otherwise are a risk."
+        ],
+        [
+          "Is use free?",
+          "Depends on the provider, so check their terms. Some APIs are free within limits, while others charge or require a key. Review the provider's pricing and usage policy before integrating. The cost is a provider decision, not a fixed rule, so confirm the terms rather than assuming. Respect their terms and rate limits when you build on top."
+        ]
+      ]
+    },
+    "tiktok-profile-downloader": {
+      "h1": "TikTok Profile Downloader",
+      "intro": "A TikTok profile downloader helps you save the public videos and profile picture associated with an account by working from public links. It does not log in or bypass privacy; it organizes what is already public.",
+      "sections": [
+        {
+          "h": "What it can access",
+          "p": "Only public content: the profile picture and public videos. Private accounts and restricted posts are out of scope and are not bypassed."
+        },
+        {
+          "h": "How it works",
+          "p": "You provide public links from the profile, and the tool retrieves the original files. It is a convenience for archiving a creator's public catalog you have the right to keep."
+        },
+        {
+          "h": "Use cases",
+          "p": "Backing up your own public content, or collecting reference material from a creator with permission, are common reasons."
+        },
+        {
+          "h": "Respect the account",
+          "p": "Do not scrape aggressively or reuse someone's work without permission. Credit creators and honor their privacy choices."
+        },
+        {
+          "h": "Tips for archiving a profile",
+          "p": "Download the public videos you want to keep while they are available, since a profile can go private or a post can be removed. Sort the files by date or theme so the archive stays usable. A local copy means the content you value survives changes on the platform."
+        },
+        {
+          "h": "What a profile download can reach",
+          "p": "The tool works with public profiles and public posts only; private accounts and their content are out of scope. It reads what anyone can already see, so no login is involved. That boundary keeps the tool squarely on the public, legitimate side of archiving."
+        },
+        {
+          "h": "Use cases that make sense",
+          "p": "Archiving your own catalog, backing up a creator you follow with permission, or keeping reference material for study are the natural uses. A clean, full-resolution archive is far more useful than scattered screenshots. The original files keep their quality, so the collection is worth keeping."
+        },
+        {
+          "h": "Respecting the account",
+          "p": "A profile represents a person's work, so personal archiving is the easy case, while republishing needs permission and credit. Downloading does not transfer rights, and a private account is off limits entirely. Used with respect, the tool is a tidy way to keep a copy of public content you are allowed to enjoy."
+        }
+      ],
+      "steps": [
+        [
+          "Gather public links",
+          "Copy links to the public videos or profile."
+        ],
+        [
+          "Add them",
+          "Paste the links into the tool."
+        ],
+        [
+          "Download",
+          "Save the original files."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can it access private accounts?",
+          "No, public content only. A private account does not expose its videos or profile picture to the public web, so there is nothing for any legitimate tool to fetch. The downloader does not bypass privacy settings. If an account is private, its content is out of scope, and that restriction is respected rather than circumvented."
+        ],
+        [
+          "Does it need a login?",
+          "No. The tool works from public links you provide and never asks for your TikTok password. It organizes what is already public, so there is no account event and no need for credentials. This keeps your login private while still letting you archive public content you have the right to keep."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You provide public links and download the original files at no cost. The free model matches the other tools, so archiving a public profile costs nothing."
+        ],
+        [
+          "Can I reuse the content?",
+          "With permission and credit. The videos and images belong to the creator, so reusing them beyond personal archiving requires a license. Backing up your own public content is fine, and collecting reference material with permission is reasonable. The download gives you a copy; it does not transfer the rights to redistribute or monetize someone's work."
+        ]
+      ]
+    },
+    "tiktok-analytics-checker": {
+      "h1": "TikTok Analytics Checker",
+      "intro": "A TikTok analytics checker helps you review publicly visible engagement signals on a video to gauge how it is performing. It works from public data and does not access private account analytics.",
+      "sections": [
+        {
+          "h": "Public versus private analytics",
+          "p": "TikTok's private analytics are available only to the account owner inside the app. A public checker can only reflect what is visible to everyone — likes, comments, shares, and view counts on public posts."
+        },
+        {
+          "h": "What it can show",
+          "p": "For a public video, you can see engagement at a glance. Comparing several posts helps spot which formats or topics resonate."
+        },
+        {
+          "h": "How to use it",
+          "p": "Use public signals to benchmark your own content or study a niche. Treat the numbers as directional, not a full analytics suite."
+        },
+        {
+          "h": "Limitations",
+          "p": "It cannot reveal private metrics like watch time or audience demographics. For those, use TikTok's own analytics as the account owner."
+        },
+        {
+          "h": "Tips for reading public numbers",
+          "p": "Public counts are a snapshot, not the full picture, so note the date and compare over time rather than treating one figure as truth. Engagement ratios tell you more than raw views. Use the numbers for context and curiosity, not as a definitive measure of a creator's health or income."
+        },
+        {
+          "h": "What public analytics can show",
+          "p": "The tool surfaces what is already visible, such as view and like counts and other public metrics, and nothing from a private dashboard. It cannot reveal earnings, audience demographics, or private insights. Understanding that line keeps expectations realistic about what a public check can and cannot tell you."
+        },
+        {
+          "h": "How to use the numbers",
+          "p": "Treat the figures as directional: a rising view count suggests momentum, and a strong like-to-view ratio suggests resonance. They are useful for your own benchmarking or general interest. Avoid overreading a single day, since timing and promotion swing public counts more than underlying quality does."
+        },
+        {
+          "h": "Where the limits are",
+          "p": "Public analytics stop at what the profile exposes, so gaps are normal and not a sign of hiding. The tool cannot access private data by design. Pairing the numbers with the actual content gives far more insight than the counts alone, and honesty about the limits keeps the read grounded."
+        }
+      ],
+      "steps": [
+        [
+          "Open a public video",
+          "Find the post you want to review."
+        ],
+        [
+          "Copy its link",
+          "Share → Copy link."
+        ],
+        [
+          "Review signals",
+          "Look at the public engagement visible."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it show private analytics?",
+          "No, only public engagement. TikTok's private analytics are available only to the account owner inside the app. A public checker can only reflect what is visible to everyone: likes, comments, shares, and view counts on public posts. It cannot reveal private metrics, so treat it as a view of public signals rather than a full analytics suite."
+        ],
+        [
+          "Can I see watch time?",
+          "No, that is private to the owner. Watch time, audience demographics, and other deep metrics are available only to the account holder in TikTok's own analytics. A public tool cannot access them. For those insights, use TikTok's native analytics as the account owner. The public checker is for visible engagement, not private performance data."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You review public engagement on a video at no cost. The free model is the same as every other tool, so checking public signals costs nothing."
+        ],
+        [
+          "Are the numbers live?",
+          "They reflect public counts at the time. The checker reads what is publicly visible when you look, so the figures can change as a video gains or loses engagement. They are a snapshot, not a live feed. For the most current numbers, check again later. Treat them as directional rather than exact to the second."
+        ]
+      ]
+    },
+    "tiktok-follower-counter": {
+      "h1": "TikTok Follower Counter",
+      "intro": "A TikTok follower counter displays the public follower count of an account. It reads the number shown on a public profile, useful for tracking growth or comparing accounts.",
+      "sections": [
+        {
+          "h": "What it shows",
+          "p": "The follower total visible on a public profile. It is the same number anyone can see by visiting the account, presented for quick reference."
+        },
+        {
+          "h": "Tracking growth",
+          "p": "Checking the count over time gives a simple view of momentum. Creators and marketers use it to gauge whether an account is growing."
+        },
+        {
+          "h": "Public data only",
+          "p": "It does not access private insights. It simply reflects the public follower number, which can fluctuate as accounts gain or lose followers."
+        },
+        {
+          "h": "Context matters",
+          "p": "Follower count alone is a rough signal. Pair it with engagement and content quality for a fuller picture."
+        },
+        {
+          "h": "Tips for tracking a count",
+          "p": "Record the number on the same schedule so the trend is meaningful, since daily noise can mislead. A weekly snapshot smooths the spikes. Use the count as one signal among several, because followers do not equal views or sales, and context matters more than the raw figure."
+        },
+        {
+          "h": "What the count actually shows",
+          "p": "The tool reports the public follower total, a single number anyone can see. It does not show who follows or how engaged they are. That simplicity is the point: it is a quick read, not a deep analysis, and treating it as one data point keeps it honest."
+        },
+        {
+          "h": "Following growth over time",
+          "p": "A steady climb suggests consistent content, while a plateau can mean it is time to try something new. Watch the trend across weeks rather than reacting to a single day. Growth is useful feedback, but pairing it with views and comments tells you far more about what is working."
+        },
+        {
+          "h": "Public data and perspective",
+          "p": "Because the number is public, anyone can look, so there is nothing private involved. Keep perspective: follower counts fluctuate and do not measure worth or income. Use the figure to track your own progress or satisfy curiosity, and let the content, not the count, be the real goal."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the profile link",
+          "Open the public profile and copy its link."
+        ],
+        [
+          "Paste and check",
+          "Add the link to the tool."
+        ],
+        [
+          "Read the count",
+          "See the public follower total."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is the count live?",
+          "It reflects the public number at check time. The counter reads the follower total shown on a public profile when you look, so it can shift as accounts gain or lose followers. It is a snapshot rather than a continuous feed. For the latest figure, check again. Treat it as the public number at that moment."
+        ],
+        [
+          "Does it show private data?",
+          "No, public figures only. The tool reads the follower count visible on a public profile, which is the same number anyone can see by visiting the account. It does not access private insights. It simply reflects the public total, which can fluctuate, without revealing anything behind the scenes."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You check a public follower count at no cost. The free model matches the other tools, so using the counter costs nothing."
+        ],
+        [
+          "Can it predict growth?",
+          "No, it is a snapshot. The counter shows the current public total, not a forecast. Tracking it over time gives a simple view of momentum, but it cannot predict future growth. Pair it with engagement and content quality for a fuller picture. The number is a reading, not a crystal ball."
+        ]
+      ]
+    },
+    "tiktok-money-calculator": {
+      "h1": "TikTok Money Calculator",
+      "intro": "A TikTok money calculator estimates potential earnings from public engagement signals using a simple model. It is a rough guide, not a statement of actual income, since real payouts depend on many private factors.",
+      "sections": [
+        {
+          "h": "How the estimate works",
+          "p": "The calculator applies a rough per-view or per-engagement rate to public counts to produce a ballpark figure. It is meant to illustrate scale, not to report real earnings."
+        },
+        {
+          "h": "Why it is only an estimate",
+          "p": "Actual creator payouts depend on the monetization program, audience location, watch time, and other private data. No public tool can know those, so treat the number as illustrative."
+        },
+        {
+          "h": "Use it for perspective",
+          "p": "It can help compare the relative scale of videos or set expectations. Do not rely on it for financial decisions."
+        },
+        {
+          "h": "Real earnings",
+          "p": "For actual income, refer to TikTok's official creator programs and your own analytics as the account owner."
+        },
+        {
+          "h": "Tips for using an earnings estimate",
+          "p": "Treat any figure as a rough range, not a quote, and plug in your own real numbers where you have them. Estimates vary widely by niche, country, and format, so use the tool for perspective rather than planning. A conservative reading keeps you from overestimating what a view is worth."
+        },
+        {
+          "h": "How the estimate is built",
+          "p": "The calculator multiplies public metrics by typical rate assumptions to produce a ballpark. Those rates are averages, so the result is illustrative. It is a way to get a feel for scale, not an accounting of what any creator actually earns."
+        },
+        {
+          "h": "Using it for perspective",
+          "p": "The estimate is best for a sanity check or a conversation starter, not a financial decision. Compare it across scenarios to see how scale changes the picture. For anything real, rely on actual statements and contracts, and let the calculator stay a rough guide."
+        }
+      ],
+      "steps": [
+        [
+          "Get public counts",
+          "Find views or engagement on a public video."
+        ],
+        [
+          "Enter the figures",
+          "Put them into the calculator."
+        ],
+        [
+          "Read the estimate",
+          "Treat the result as a rough ballpark."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is this actual income?",
+          "No, it is a rough estimate. The calculator applies a simple rate to public counts to produce a ballpark figure, not a report of real earnings. Actual payouts depend on private factors no public tool can see. Treat the result as illustrative of scale, not as a statement of what a creator actually earns."
+        ],
+        [
+          "What does it use?",
+          "Public engagement counts and a simple rate. The calculator takes views or engagement visible on a public video and applies a rough per-view or per-engagement figure. It does not use private data like watch time or audience location. The inputs are public signals, which is why the output is only an approximation."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You enter public figures and get an estimate at no cost. The free model is the same as every other tool, so using the calculator costs nothing."
+        ],
+        [
+          "Can I rely on it financially?",
+          "No, use official analytics for real figures. The estimate is for perspective and comparison, not financial decisions. Real earnings come from TikTok's official creator programs and your own analytics as the account owner. Relying on a rough public estimate for money matters would be a mistake, so treat it as a ballpark only."
+        ]
+      ]
+    },
+    "tiktok-video-quality-checker": {
+      "h1": "TikTok Video Quality Checker",
+      "intro": "A TikTok video quality checker helps you confirm the resolution and format of a public video before you download or edit it. It reports what the source actually is, so you know what to expect.",
+      "sections": [
+        {
+          "h": "What it checks",
+          "p": "It inspects the public file's resolution, aspect ratio, and format. This tells you whether a video is 1080p, 720p, vertical or landscape, and MP4 or another container."
+        },
+        {
+          "h": "Why check first",
+          "p": "Knowing the source quality prevents disappointment. If a video is 720p, no downloader can deliver 1080p, and this tool makes that clear up front."
+        },
+        {
+          "h": "Use with downloads",
+          "p": "Check quality, then download with confidence. It pairs well with the HD and 4K tools, which fetch the best version that exists."
+        },
+        {
+          "h": "Limitations",
+          "p": "It reports the source file's properties, not a subjective judgment of how good the content looks."
+        },
+        {
+          "h": "Tips for checking before you keep",
+          "p": "Run the check on the original file before you archive or edit, so you know the resolution and whether it is worth keeping. A crisp source is worth saving; a soft, already-compressed one sets expectations. Checking first prevents clutter from low-quality files you would not use."
+        },
+        {
+          "h": "What the check looks at",
+          "p": "The tool reports objective facts such as resolution and format, which tell you the file's technical quality. It does not judge artistic merit or content. Those numbers are the practical signal for whether a file is sharp enough for your purpose."
+        },
+        {
+          "h": "Pairing it with downloads",
+          "p": "Checking quality and downloading work well together: verify a file, then keep the good ones and skip the rest. The clean original usually passes, while a re-compressed copy shows its softness. This two-step habit keeps your library high-quality without much effort."
+        },
+        {
+          "h": "Where the limits are",
+          "p": "A quality check reads the file's properties, not whether the content is good or the framing is right. It cannot restore detail a low-quality source never had. Use it as a filter for technical suitability, and trust your own eye for the rest."
+        },
+        {
+          "h": "Deciding what is good enough",
+          "p": "What counts as good enough depends on the use: a quick message tolerates lower quality than a printed cover. Match the file's resolution to the job rather than chasing the highest number. A sharp 1080p original is plenty for most sharing, and the check helps you confirm it."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link on the video."
+        ],
+        [
+          "Paste and check",
+          "Add the link to the tool."
+        ],
+        [
+          "Read the specs",
+          "See resolution, ratio, and format."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it improve quality?",
+          "No, it only reports it. The tool inspects the public file's resolution, aspect ratio, and format so you know what to expect. It does not change or enhance the video. If a video is 720p, the checker tells you that, and no downloader can deliver more. It is a diagnostic, not an enhancer."
+        ],
+        [
+          "Can it show 4K?",
+          "Yes, if the source is 4K. The checker reports the actual resolution of the public file, so a genuine 4K upload shows as 4K while most videos show 1080p. It reflects what exists rather than upscaling. This makes it a reliable way to confirm whether a higher-resolution source is really there before you download."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You check a video's specs at no cost. The free model matches the other tools, so checking quality costs nothing."
+        ],
+        [
+          "Why check before downloading?",
+          "To know the real resolution you will get. Checking first prevents disappointment, since a 720p source cannot yield 1080p. It also helps you choose the right tool: confirm quality, then download with the HD or 4K tool for the best version that exists. A quick check sets accurate expectations before you save."
+        ]
+      ]
+    },
+    "tiktok-video-compressor": {
+      "h1": "TikTok Video Compressor",
+      "intro": "A TikTok video compressor reduces a video's file size for easier sharing or uploading, while keeping it watchable. It is useful when a file is too large for a platform or message limit.",
+      "sections": [
+        {
+          "h": "Why compress",
+          "p": "Large videos are slow to upload and may exceed limits on messaging apps or social platforms. Compression shrinks the file so it transfers and posts more easily."
+        },
+        {
+          "h": "The trade-off",
+          "p": "Compression reduces size by lowering bitrate or resolution, which can soften detail. A good compressor balances size against visible quality so the result still looks fine."
+        },
+        {
+          "h": "Choosing settings",
+          "p": "For sharing, a moderate compression keeps quality acceptable. For archiving, keep the original and compress a copy instead."
+        },
+        {
+          "h": "Workflow",
+          "p": "Download the clean original first, then compress a copy for the target platform. This preserves a master while giving you a share-friendly version."
+        },
+        {
+          "h": "Tips for compressing without regret",
+          "p": "Start from the highest-quality source, compress once, and keep the original so you can redo it if the result is too soft. Pick settings that match the target, since a smaller file is not free. A single, well-chosen compression beats repeated passes that stack artifacts."
+        },
+        {
+          "h": "Understanding the trade-off",
+          "p": "Compression trades size for quality, and the right balance depends on where the file is going. A messaging app needs small; an archive wants quality. Knowing the destination lets you choose settings that shrink the file enough without making it look worn."
+        },
+        {
+          "h": "Choosing the right settings",
+          "p": "Match resolution and bitrate to the platform's limits rather than compressing blindly, and test a short segment first. A lower resolution saves the most space, while a modest bitrate trim keeps it sharp. The goal is the smallest file that still looks right where it will be seen."
+        },
+        {
+          "h": "A simple compression workflow",
+          "p": "Keep the original, export a compressed copy for sharing, and compare the two before you commit. If the copy looks fine, you have a lighter file ready to post; if not, adjust and retry from the original. This loop keeps quality high and files manageable without guesswork."
+        }
+      ],
+      "steps": [
+        [
+          "Get the source",
+          "Download the original video."
+        ],
+        [
+          "Choose settings",
+          "Pick a target size or quality."
+        ],
+        [
+          "Compress and save",
+          "Export the smaller file."
+        ]
+      ],
+      "faqs": [
+        [
+          "Will it look worse?",
+          "Some quality loss is expected, but moderate settings keep it watchable. Compression reduces size by lowering bitrate or resolution, which can soften detail. A good balance keeps the result acceptable for sharing while shrinking the file. For archiving, keep the original and compress a copy, so you retain a master and get a share-friendly version."
+        ],
+        [
+          "Should I keep the original?",
+          "Yes, archive the original and compress a copy. The original is your master, and compression is a one-way reduction in size and quality. Keeping the untouched file means you can always make a fresh compressed version later. This is the safest workflow: preserve the source, then compress what you need to share."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You compress a video at no cost. The free model is the same as every other tool, so reducing a file's size costs nothing."
+        ],
+        [
+          "Why compress at all?",
+          "To meet size limits and speed up sharing. Large videos are slow to upload and may exceed limits on messaging apps or social platforms. Compression shrinks the file so it transfers and posts more easily. It is a practical fix when a file is too big for its destination, not a quality upgrade."
+        ]
+      ]
+    }
+  },
+  "blog": {}
+}

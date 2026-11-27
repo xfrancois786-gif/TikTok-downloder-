@@ -1,6 +1,0 @@
-{
-  "name": "TikTok Video Downloader (No Watermark)",
-  "description": "Fast, high-quality TikTok video downloader that allows users to save videos without watermarks, extract audio MP3s, and download photo slideshows.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

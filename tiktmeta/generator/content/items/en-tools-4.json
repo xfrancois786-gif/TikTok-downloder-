@@ -1,0 +1,625 @@
+{
+  "tools": {
+    "tiktok-sound-downloader": {
+      "h1": "TikTok Sound Downloader",
+      "intro": "The TikTok Sound Downloader saves the sound from a public TikTok video as an audio file. Whether it is a song clip, a voiceover, or a viral effect, you get the audio exactly as it plays in that post.",
+      "sections": [
+        {
+          "h": "What a sound is",
+          "p": "Every TikTok video carries an audio track — music, speech, or effects. This tool extracts that track and delivers it as a standalone file you can play or reuse."
+        },
+        {
+          "h": "As heard in the video",
+          "p": "You get the mix as published, including any edits the creator made. It is not a clean studio master; it is the sound tied to that specific post."
+        },
+        {
+          "h": "Common uses",
+          "p": "Saving a favorite clip for a ringtone, referencing a voiceover, or sampling a trending sound for personal projects are typical reasons."
+        },
+        {
+          "h": "Copyright",
+          "p": "Audio belongs to its creators. Personal and educational use is generally fine; commercial use needs permission."
+        },
+        {
+          "h": "Tips for a clean sound grab",
+          "p": "Download from the original video rather than a re-shared copy, and play it once to confirm it is the sound you wanted, since similar names abound. A clear source yields a clean track, while a noisy mix stays noisy. Keep the file for personal listening or as a reference, and credit the creator if you use a clip publicly."
+        },
+        {
+          "h": "Finding the exact sound",
+          "p": "Trending names can be reused across many videos, so match the sound to the specific post you saw rather than the title alone. The original sound tool is often cleaner than pulling audio from a busy video. When in doubt, save from the post that introduced you to the sound so you get the version you actually heard."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download sound",
+          "Save the extracted audio."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is it the exact sound from the video?",
+          "Yes, as it plays in that post, including any voiceover, mix, or effects the creator added. The tool extracts the audio track from that specific video, so you get the sound as published rather than a clean studio master. If the creator used part of a song, you get that part. It is the audio tied to the video, not a separate recording."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the extracted audio at no cost. The free model is the same as every other tool, so pulling a sound from a video costs nothing."
+        ],
+        [
+          "Can I use it commercially?",
+          "Only with permission. Audio belongs to its creators, so commercial use without a license can infringe copyright. Personal and educational use is generally fine, and many creators are happy to grant permission if asked. The extracted file is a copy of someone's audio; it does not transfer the rights to it."
+        ],
+        [
+          "Does it work on private videos?",
+          "No, public posts only. A private video has no public file to fetch, so the sound cannot be extracted, and the tool does not bypass privacy settings. If a video is private, there is nothing for any legitimate downloader to access. The tool works from what TikTok serves publicly."
+        ]
+      ]
+    },
+    "tiktok-music-downloader": {
+      "h1": "TikTok Music Downloader",
+      "intro": "The TikTok Music Downloader extracts the music from a public TikTok video so you can keep the song or track that caught your ear. It captures the audio as used in the clip, ready to play offline.",
+      "sections": [
+        {
+          "h": "Finding that song",
+          "p": "TikTok is often how people discover new music. This tool lets you pull the track from a video where you heard it, so you can listen again without scrolling."
+        },
+        {
+          "h": "What you receive",
+          "p": "The music as it appears in the video, delivered as an audio file. If the creator used only part of a song, you get that part as heard."
+        },
+        {
+          "h": "Quality",
+          "p": "Fidelity depends on the source mix. Extraction preserves what is there and cannot add detail beyond it."
+        },
+        {
+          "h": "Support artists",
+          "p": "If you love a track, support the artist through official channels. Extracted audio is for personal listening; commercial use requires rights."
+        },
+        {
+          "h": "Tips for the best audio",
+          "p": "Extract from the original post at full quality and avoid converting an already-compressed file, which dulls the track. Check the result for the section of the song you expected, since edits and remixes share titles. The clean file is great for a personal playlist, but commercial use needs the proper license from the rights holder."
+        },
+        {
+          "h": "Supporting the artists you like",
+          "p": "A downloaded track is a convenient personal copy, not a substitute for streaming that pays the artist. If a song becomes a favorite, add it to a licensed service so the creator is compensated. Saving for offline listening is fine; redistributing or monetizing the audio is where permission and licensing come in."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link on the video with the music."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download music",
+          "Save the audio file."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is it the full song?",
+          "It is the audio as used in that video, which may be a segment rather than the complete track. The tool captures the music as it appears in the clip, so if the creator used only part of a song, you get that part as heard. It is not a clean studio master. For the full song, support the artist through official channels."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the audio at no cost. The free model matches the other tools, so extracting music from a video costs nothing."
+        ],
+        [
+          "Can I share it?",
+          "Personal use is fine; commercial use needs rights. Sharing a track with friends or listening for personal enjoyment is generally reasonable, but redistributing it or using it commercially requires permission from the rights holder. The extracted audio is a copy of someone's music, so sharing it widely can cause copyright issues. Keep it personal unless you have cleared it."
+        ],
+        [
+          "Will quality be high?",
+          "It matches the source mix, so a clean recording yields a clean file and a compressed one stays limited. Extraction preserves the quality that is there and cannot add detail beyond it. If the track sounds muffled in the video, the download will too. The tool delivers a faithful copy, not an enhancement."
+        ]
+      ]
+    },
+    "tiktok-audio-extractor": {
+      "h1": "TikTok Audio Extractor",
+      "intro": "The TikTok Audio Extractor pulls the audio track out of any public TikTok video and delivers it as a file. It is the general-purpose tool for separating sound from picture.",
+      "sections": [
+        {
+          "h": "What extraction means",
+          "p": "The tool isolates the audio stream from the video and packages it for download. You keep the sound without the visuals, useful for listening or reusing the audio."
+        },
+        {
+          "h": "Formats",
+          "p": "Depending on your need, you can save the audio as MP3 for compact playback or WAV for uncompressed editing. Both come from the same source track."
+        },
+        {
+          "h": "Quality is bounded by source",
+          "p": "Extraction cannot improve fidelity. A clean source yields a clean extraction; a compressed one stays compressed."
+        },
+        {
+          "h": "Uses",
+          "p": "Transcribing, sampling, language practice, or keeping a memorable line are all common reasons to extract audio."
+        },
+        {
+          "h": "Tips for a clean extraction",
+          "p": "Start from the original video and pick the format that matches your goal: MP3 for size, WAV for editing, M4A for Apple devices. Avoid extracting from a file that was already converted, since quality only goes down with each pass. Listen once to confirm the voice or music is intact and free of glitches."
+        },
+        {
+          "h": "Choosing the right format",
+          "p": "Each format serves a purpose: MP3 is small and universal, WAV is uncompressed for editing, and M4A is efficient and native to Apple. The source quality sets the ceiling, so a clear original extracts well in any format. Match the format to the task rather than defaulting, and you avoid needless conversions that soften the audio."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download audio",
+          "Save as MP3 or WAV."
+        ]
+      ],
+      "faqs": [
+        [
+          "Which format should I pick?",
+          "MP3 for size, WAV for editing. MP3 is compact and plays everywhere, which suits casual listening and sharing. WAV is uncompressed and preferred for production work where fidelity matters. Both come from the same source track, so the choice is about whether you need a small file or the cleanest possible audio for further processing."
+        ],
+        [
+          "Does it improve quality?",
+          "No, it preserves the source and cannot add fidelity that was not there. Extraction is a faithful copy of the existing audio, so a clean source yields a clean file and a compressed one stays compressed. If the original is muffled, the extraction will be too. The tool delivers what the video contains, not an upgraded version."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the audio at no cost. The free model is identical to the other tools, so extracting audio costs nothing."
+        ],
+        [
+          "Private videos?",
+          "Not supported. A private video has no public file to fetch, so its audio cannot be extracted, and the tool does not bypass privacy settings. If a video is private, there is nothing for any legitimate downloader to access. The tool works only from what TikTok serves publicly."
+        ]
+      ]
+    },
+    "tiktok-sound-as-ringtone": {
+      "h1": "TikTok Sound As Ringtone",
+      "intro": "TikTok Sound As Ringtone extracts a sound from a public TikTok video and prepares it for use as a phone ringtone. You get a short, clean audio clip you can set on iPhone or Android.",
+      "sections": [
+        {
+          "h": "From video to ringtone",
+          "p": "The tool pulls the audio and you trim it to the few seconds you want. Ringtones are short, so a punchy hook works best."
+        },
+        {
+          "h": "On iPhone",
+          "p": "iOS ringtones use a specific format and length. After downloading, use a ringtone maker or GarageBand to convert the clip and set it in Settings."
+        },
+        {
+          "h": "On Android",
+          "p": "Android accepts most audio files directly. Save the clip, then set it as your ringtone from the sound settings."
+        },
+        {
+          "h": "Keep it short and clean",
+          "p": "A clean, brief hook is more effective than a long, noisy segment. The source audio is watermark-free."
+        },
+        {
+          "h": "Tips for a ringtone that lands",
+          "p": "Keep the clip short, a few seconds, and start it at the catchiest moment rather than the beginning, which is often a quiet intro. Trim silence so the tone triggers instantly. A clean, punchy ringtone is more useful than a long one, and the original audio gives you the sharpest starting point to cut from."
+        },
+        {
+          "h": "Getting it onto your phone",
+          "p": "On iPhone, the trimmed clip goes through the ringtone workflow in settings, while on Android you can often set an audio file directly. Either way, a short MP3 or M4A is the easiest to work with. Keep it for personal use and, if the sound is someone else's, enjoy it privately rather than distributing the file."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Trim and set",
+          "Download, trim, and set as your ringtone."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it work on iPhone?",
+          "Yes, but you convert the clip first. iOS ringtones use a specific format and length, so after downloading, use a ringtone maker or GarageBand to convert the audio and add it. Then choose it in Settings under Sounds and Haptics. The first time, iOS may ask for permission to add the tone; allow it. The result is a clean ringtone with no video component."
+        ],
+        [
+          "And Android?",
+          "Yes, set it directly from sound settings. Android accepts most audio files, so save the trimmed MP3, open Settings, go to Sound, and choose Phone ringtone. Tap Add, pick the file, and select it. Some manufacturers use slightly different menus, but the flow is the same. The MP3 usually works without any conversion."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and extract the audio at no cost. The free model matches the other tools, so making a ringtone costs nothing."
+        ],
+        [
+          "How long should it be?",
+          "A few seconds; trim to the hook. Ringtones are short, and a punchy, recognizable segment is far more effective than a long, noisy stretch that gets cut off. Aim for one or two seconds of the most identifiable part. A clean, brief clip is more useful as a ringtone than a lengthy excerpt."
+        ]
+      ]
+    },
+    "tiktok-voice-downloader": {
+      "h1": "TikTok Voice Downloader",
+      "intro": "The TikTok Voice Downloader saves the spoken audio from a public TikTok video — a voiceover, monologue, or dialogue — as a standalone file. It is ideal for keeping talks, narrations, or quotes.",
+      "sections": [
+        {
+          "h": "Capturing speech",
+          "p": "Many TikToks are built around a voice: a story, a tutorial narration, or a memorable quote. This tool isolates that spoken track so you can listen or transcribe it later."
+        },
+        {
+          "h": "What you get",
+          "p": "The voice as heard in the video, delivered as audio. Background music or effects that are part of the mix come along, since they are part of that post's sound."
+        },
+        {
+          "h": "Pair with transcription",
+          "p": "Once you have the audio, you can run it through a transcription tool to get text. The voice download and transcript tools complement each other."
+        },
+        {
+          "h": "Respect speakers",
+          "p": "Use quotes responsibly and credit the speaker. Do not edit someone's words to misrepresent them."
+        },
+        {
+          "h": "Tips for capturing clear speech",
+          "p": "Extract from a video where the speaker is close to the mic and the background is quiet, since that yields the cleanest voice track. Normalize the volume in an editor if it is uneven, and trim dead air. A clear source makes transcription far more accurate, so the download and the transcript tool work well together."
+        },
+        {
+          "h": "Pairing audio with text",
+          "p": "Once you have the voice track, run it through the transcription tool to get a searchable text version, which is handy for notes or quotes. Keep the speaker's permission in mind before sharing their words, and attribute the quote if you publish it. The audio plus transcript combo is powerful for personal reference and study."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download voice",
+          "Save the spoken audio."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it include background music?",
+          "It captures the full mix as heard in the video, so any background music or effects come along. The tool extracts the audio exactly as it plays in that post, which means the voice and the backing sound are combined the way the creator published them. If you want only the voice isolated, that requires separate audio editing. What you download is the complete sound of the video."
+        ],
+        [
+          "Can I transcribe it?",
+          "Yes, with the transcript tool. Once you have the audio, run it through the transcription tool to get text. The voice download and transcript tools complement each other, so you can capture the speech and then read it. This is useful for quotes, notes, or accessibility. The transcript can be exported as TXT or SRT."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the spoken audio at no cost. The free model is the same as every other tool, so extracting voice costs nothing."
+        ],
+        [
+          "Can I quote it?",
+          "Credit the speaker and do not misrepresent their words. Quoting a voice for personal notes or commentary is reasonable with attribution, but editing someone's words to change their meaning is not. For published or commercial use, get permission. The download is a copy of someone's speech; it does not transfer the right to use it however you like."
+        ]
+      ]
+    },
+    "tiktok-original-sound-downloader": {
+      "h1": "TikTok Original Sound Downloader",
+      "intro": "The TikTok Original Sound Downloader saves a creator's original sound — the custom audio they recorded or uploaded — from a public video. Original sounds are the building blocks of many trends.",
+      "sections": [
+        {
+          "h": "What an original sound is",
+          "p": "An original sound is audio a creator added themselves, as opposed to a licensed track from TikTok's library. It is often a voice line, a beat, or a distinctive effect that others then reuse."
+        },
+        {
+          "h": "Why save it",
+          "p": "Original sounds drive trends and are useful references. Keeping a clean copy lets you study, sample, or reuse the audio with permission."
+        },
+        {
+          "h": "As published",
+          "p": "You get the original sound as it appears in that video, delivered as an audio file at the source quality."
+        },
+        {
+          "h": "Credit the creator",
+          "p": "Original sounds are the creator's work. Give credit and seek permission before reusing them in your own content."
+        },
+        {
+          "h": "Tips for a faithful copy",
+          "p": "Download the original sound from the post where it appears, and keep it as published rather than trimming, which preserves the creator's framing. Check that you have the unedited take and not a re-upload, since originals are sometimes reposted with changes. The clean file is ideal for reference, sampling with permission, or archiving a sound you love."
+        },
+        {
+          "h": "Crediting the creator",
+          "p": "An original sound is tied to the person who made it, so crediting them when you reuse a clip is both fair and expected. Saving for personal listening is effortless; building on the sound publicly needs their okay. The download gives you the file, not the rights, and a credit line keeps the use respectful."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link on the video with the original sound."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download sound",
+          "Save the original audio."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is this the creator's own audio?",
+          "Yes, the original sound they added, as opposed to a licensed track from TikTok's library. An original sound is audio a creator recorded or uploaded themselves, often a voice line, a beat, or a distinctive effect that others then reuse. The tool extracts that sound from the video, so you get the creator's own audio as published. It is their work, not a library track."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the original sound at no cost. The free model matches the other tools, so extracting an original sound costs nothing."
+        ],
+        [
+          "Can I reuse it?",
+          "With permission and credit. Original sounds are the creator's work, so reusing them in your own content without a license can infringe copyright. Many creators welcome reuse of a sound with credit, but ask first, especially for commercial use. The download gives you a clean copy; it does not grant the rights to redistribute it as your own."
+        ],
+        [
+          "Does it work on private videos?",
+          "No, public videos only. A private video has no public file to fetch, so its original sound cannot be extracted, and the tool does not bypass privacy settings. If a video is private, there is nothing for any legitimate downloader to access. The tool works from what TikTok serves publicly."
+        ]
+      ]
+    },
+    "tiktok-trending-sound-finder": {
+      "h1": "TikTok Trending Sound Finder",
+      "intro": "The TikTok Trending Sound Finder helps you locate and save the audio behind trending TikTok videos so you can hear what is popular. It works from the public links of videos using a sound you want to keep.",
+      "sections": [
+        {
+          "h": "How trends spread through sound",
+          "p": "TikTok trends often revolve around a specific sound reused across thousands of videos. This tool lets you extract that sound from any public video using it, so you can hear the track driving the trend."
+        },
+        {
+          "h": "Finding the source",
+          "p": "Open a trending video, copy its link, and extract the audio. The original sound is usually credited on the post, which helps you identify it."
+        },
+        {
+          "h": "Saving for reference",
+          "p": "Keeping the audio lets you study why a sound works or reuse it in your own content with permission. It is a research and inspiration aid."
+        },
+        {
+          "h": "Rights",
+          "p": "Trending sounds may be licensed or original. Clear rights before commercial use and credit creators."
+        },
+        {
+          "h": "Tips for tracking a trend",
+          "p": "Trends move fast, so note the date and the earliest post you can find, since later videos pile onto the same sound. Save a reference clip while it is current, because the wave can crest and fade within days. Matching the sound to its source post keeps your research accurate rather than chasing a title reused by hundreds."
+        },
+        {
+          "h": "Using trends responsibly",
+          "p": "A trend is a shared creative moment, so joining in is fine, but lifting someone's exact video is not. Use the clean file to study what works and to build your own take, crediting the originator if you reference them. Saving for analysis is the safe default; copying a viral clip wholesale invites both platform and copyright trouble."
+        }
+      ],
+      "steps": [
+        [
+          "Find a trending video",
+          "Open a post using the sound you want."
+        ],
+        [
+          "Copy its link",
+          "Share → Copy link."
+        ],
+        [
+          "Extract the sound",
+          "Paste above and download the audio."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it list trends automatically?",
+          "No, it extracts sound from links you provide; you find the trending posts yourself. The tool works from a public video link, reads the sound used in it, and delivers the audio. To find trends, open videos using a sound you want and extract from those. It is a tool for pulling the audio, not a live trend chart, so you supply the trending links."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste public links and save the audio at no cost. The free model is the same as every other tool, so extracting a trending sound costs nothing."
+        ],
+        [
+          "Can I reuse the sound?",
+          "With permission and credit. A trending sound may be licensed or original, so reusing it commercially requires clearing the rights. For personal study or reference, extraction is fine. If you build content on the sound, credit the creator and get permission where needed. The audio is someone's work; the download does not transfer the rights to it."
+        ],
+        [
+          "Is the audio clean?",
+          "It is the original sound as published, so it is as clean as the source. The tool extracts the audio exactly as it plays in that video, with no watermark. If the source mix is clean, the file is clean; if it is compressed, it stays that way. You get a faithful copy of the sound driving the trend."
+        ]
+      ]
+    },
+    "tiktok-podcast-downloader": {
+      "h1": "TikTok Podcast Downloader",
+      "intro": "The TikTok Podcast Downloader extracts the audio from public TikTok videos that feature podcasts, interviews, or long-form talk, so you can listen offline. It turns a video post into a portable audio file.",
+      "sections": [
+        {
+          "h": "Talk content on TikTok",
+          "p": "Creators post podcast clips, interviews, and commentary as videos. This tool pulls the audio so you can listen without watching, which is ideal for commutes or multitasking."
+        },
+        {
+          "h": "What you receive",
+          "p": "The spoken audio as heard in the video, delivered as a file. If the clip is part of a longer episode, you get that segment."
+        },
+        {
+          "h": "Listening offline",
+          "p": "A local audio file plays in any podcast or music app, so you can queue it alongside your other episodes."
+        },
+        {
+          "h": "Credit and rights",
+          "p": "Podcasts are the creators' work. Personal listening is fine; redistribution or commercial use needs permission."
+        },
+        {
+          "h": "Tips for offline listening",
+          "p": "Download the full episode while it is available so you can listen without a connection, and keep the original quality for clarity on a long talk. A podcast-style clip can be lengthy, so use Wi-Fi and check storage first. The clean audio is pleasant for a commute or a workout where streaming is unreliable."
+        },
+        {
+          "h": "Credit and reuse of talk content",
+          "p": "A spoken-word post is someone's time and ideas, so personal listening is the easy case, while quoting or republishing needs their permission and a credit. If you pull a short, attributed quote for commentary, that is different from reposting the whole episode. The download is for access, not for transferring the creator's rights."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link on the podcast clip."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download audio",
+          "Save the file and listen offline."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is it a full episode?",
+          "It is the audio of that specific video clip, which may be part of a longer episode. The tool extracts the spoken audio from the post you link, so if the clip is a segment, you get that segment. For a full episode, you would need the creator's full recording. What you download is the audio as published in that video, ready for offline listening."
+        ],
+        [
+          "Can I listen offline?",
+          "Yes, it is a local audio file. Once saved, it plays in any podcast or music app without an internet connection, which is ideal for commutes or multitasking. The file is portable, so you can queue it alongside your other episodes. Listening offline is the main benefit of extracting the audio from the video."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the audio at no cost. The free model matches the other tools, so extracting podcast audio costs nothing."
+        ],
+        [
+          "Can I redistribute it?",
+          "Only with permission. Podcasts are the creators' work, so redistributing the audio or using it commercially requires a license. Personal listening is fine. The download is a copy of someone's content; it does not grant the right to share or monetize it. Clear the rights before any redistribution."
+        ]
+      ]
+    },
+    "tiktok-caption-downloader": {
+      "h1": "TikTok Caption Downloader",
+      "intro": "The TikTok Caption Downloader saves the text caption of a public TikTok video, and can also pull the on-screen auto-generated captions. It is useful for quoting, archiving, or reusing the written part of a post.",
+      "sections": [
+        {
+          "h": "Two kinds of caption",
+          "p": "A post has a written description written by the creator, and it may also have auto-generated subtitles over the video. This tool can retrieve the written caption and, where available, the subtitle text."
+        },
+        {
+          "h": "Why save captions",
+          "p": "Captions carry context, links, and hashtags. Keeping them as text makes it easy to search, quote, or reuse the wording without retyping."
+        },
+        {
+          "h": "Accuracy",
+          "p": "The written caption is exact. Auto-generated subtitles can contain errors, since they are machine-produced, so review them before relying on the text."
+        },
+        {
+          "h": "Respect creators",
+          "p": "Credit the author when quoting and do not present their words as your own."
+        },
+        {
+          "h": "Tips for accurate captions",
+          "p": "Distinguish the two kinds before saving: the creator's typed caption text and the burned-in or auto subtitles on the screen. For clean text, the written caption is exact; for on-screen words, the transcript tool reads the speech. Save the version you actually need rather than both, and double-check names and numbers, which are the easiest to get wrong."
+        },
+        {
+          "h": "Respecting creators' words",
+          "p": "A caption is part of someone's post, so quoting it with credit is fine, while copying it wholesale into your own post is not. The download gives you the text for reference, note-taking, or accessibility. If you build on it publicly, attribute the creator and keep the use within what they would reasonably allow."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Download caption",
+          "Save the caption or subtitle text."
+        ]
+      ],
+      "faqs": [
+        [
+          "Does it include hashtags?",
+          "Yes, the written caption includes them. The tool returns the caption exactly as the creator entered it, including hashtags and any links. This is the most accurate text you can get, since it is the original wording rather than a machine transcription. Saving it makes the context and tags searchable and quotable without retyping."
+        ],
+        [
+          "Are auto-captions accurate?",
+          "They can contain errors, so review before use. Auto-generated subtitles are machine-produced and can mishear names, slang, or accented speech. The written caption is exact and trustworthy, but the subtitles are a draft. If you plan to publish or quote the subtitles, proofread them against the audio and correct mistakes."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and save the caption text at no cost. The free model is identical to the other tools, so downloading captions costs nothing."
+        ],
+        [
+          "Can I quote it?",
+          "Credit the creator. The written caption is their work, so quoting it without attribution is poor form and can raise copyright issues. For personal notes or archiving, saving the text is fine. For publishing or commercial use, get permission. The download gives you the words; it does not transfer the right to present them as your own."
+        ]
+      ]
+    },
+    "tiktok-transcript-generator": {
+      "h1": "TikTok Transcript Generator",
+      "intro": "The TikTok Transcript Generator converts the speech in a public TikTok video into text, using the post's captions or transcription. You can copy the text or download it as TXT or timestamped SRT.",
+      "sections": [
+        {
+          "h": "From speech to text",
+          "p": "The tool reads the spoken content of the video and produces a transcript. This is ideal for accessibility, note-taking, or quoting what was said without scrubbing the video."
+        },
+        {
+          "h": "TXT and SRT",
+          "p": "Export as plain TXT for reading, or as SRT with timestamps if you need subtitles. SRT is the format video players and editors use for captions."
+        },
+        {
+          "h": "Accuracy caveats",
+          "p": "Auto-generated transcripts can mishear names or slang. For important uses, proofread the text against the audio."
+        },
+        {
+          "h": "Uses",
+          "p": "Students, journalists, and creators use transcripts to study, quote accurately, or repurpose spoken content into articles."
+        },
+        {
+          "h": "Tips for a more accurate transcript",
+          "p": "Clear audio with one speaker and little background noise transcribes best, so start from the original video and trim silence. Expect to fix names, slang, and numbers by hand, since those trip up any automated tool. Exporting both TXT for reading and SRT for subtitles covers most needs, and a quick proofread makes the result trustworthy."
+        },
+        {
+          "h": "What to do with a transcript",
+          "p": "A transcript turns a video into searchable, quotable text, which is great for notes, accessibility, or repurposing your own content into a post. It is not a word-perfect record, so verify anything you publish. For someone else's video, quote briefly with credit rather than reproducing the whole thing, and let the transcript serve your understanding first."
+        }
+      ],
+      "steps": [
+        [
+          "Copy the link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste and search",
+          "Paste above and press Search."
+        ],
+        [
+          "Export text",
+          "Copy, or download TXT / SRT."
+        ]
+      ],
+      "faqs": [
+        [
+          "What formats can I export?",
+          "Plain TXT or timestamped SRT. TXT is best for reading, notes, and articles, while SRT maps each line to a time range for use as subtitles in players and editors. Both come from the same transcription, so choose based on whether you want the words alone or text with timing. The SRT format lets you attach the transcript back to the video as captions."
+        ],
+        [
+          "Is the transcript perfect?",
+          "It can contain errors, so proofread for important uses. Transcripts are machine-generated and can mishear names, slang, or accents. For casual use they are usually close enough, but for publishing, quoting, or accessibility, review the text against the audio and fix mistakes. Treating the transcript as a strong first draft rather than a perfect record saves you from errors."
+        ],
+        [
+          "Is it free?",
+          "Yes. There is no charge, no account, and no premium tier. You paste a public link and generate the transcript at no cost. The free model matches the other tools, so transcribing a video costs nothing."
+        ],
+        [
+          "Does it work on any public video?",
+          "Yes, where speech is present. The tool reads the spoken content of a public video and produces text, so any public clip with audio can be transcribed. Videos with no speech yield little or no text. Private videos are out of scope, since there is no public file to read. For public videos with talking, it works reliably."
+        ]
+      ]
+    }
+  },
+  "blog": {}
+}

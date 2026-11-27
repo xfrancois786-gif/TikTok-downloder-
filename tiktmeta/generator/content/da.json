@@ -1,0 +1,472 @@
+{
+  "ui": {
+    "nav": {
+      "home": "Hjem",
+      "tools": "Værktøjer",
+      "blog": "Blog",
+      "howto": "Sådan gør du",
+      "about": "Om os",
+      "contact": "Kontakt",
+      "faq": "FAQ"
+    },
+    "hero": {
+      "title": "TikTok-downloader — Download videoer uden vandmærke · Gratis",
+      "subtitle": "Indsæt linket og download på 3 sekunder. Video i skaberens originale kvalitet, uden vandmærke og uden genkodning — en gratis online TikTok-sparer uden tilmelding og uden app."
+    },
+    "cta": {
+      "title": "Klar til at downloade?",
+      "text": "Begynd at downloade dine yndlings-TikTok-videoer uden vandmærke i original kvalitet. Ingen registrering eller installation nødvendig.",
+      "btn": "Kom i gang"
+    },
+    "common": {
+      "safePrivate": "Sikkert og privat",
+      "noReg": "Ingen registrering påkrævet",
+      "quickLinks": "Hurtige links",
+      "legal": "Juridisk",
+      "tools": "Værktøjer",
+      "rights": "Alle rettigheder forbeholdes.",
+      "freeForever": "Download hurtigt. Gratis for evigt.",
+      "independent": "er en uafhængig tjeneste og er ikke tilknyttet, sponsoreret af eller forbundet med TikTok eller ByteDance Ltd.",
+      "madeWith": "Lavet med",
+      "otherTools": "Flere værktøjer",
+      "otherToolsLead": "Alt du kan gemme fra TikTok, hver format med sit eget dedikerede værktøj.",
+      "getStarted": "Kom i gang",
+      "search": "Søg",
+      "paste": "Indsæt et TikTok-link",
+      "download": "Download",
+      "open": "Åbn",
+      "language": "Sprog",
+      "searchLanguage": "Søg sprog…"
+    },
+    "footer": {
+      "tagline": "Den hurtigste og sikreste måde at downloade TikTok-videoer, -billeder og -stories uden vandmærke. 100% gratis, ingen tilmelding."
+    },
+    "steps": {
+      "title": "Download i 3 trin",
+      "lead": "Tre trin. Det tager dig mindre end 10 sekunder."
+    },
+    "notFound": {
+      "title": "404 — Side ikke fundet",
+      "text": "Siden du leder efter findes ikke eller er flyttet.",
+      "back": "Tilbage til forsiden",
+      "popular": "Populære værktøjer"
+    }
+  },
+  "categoryLabels": {
+    "video": "Video",
+    "converter": "Konverter",
+    "photo": "Foto",
+    "audio": "Lyd",
+    "text": "Tekst",
+    "device": "Enhed",
+    "pro": "Pro-værktøjer"
+  },
+  "catCopy": {
+    "video": {
+      "intro": "Gem enhver TikTok-video med {t} — original kvalitet, intet vandmærke, direkte fra TikToks servere til din enhed.",
+      "steps": [
+        [
+          "Åbn TikTok",
+          "Find den video, du vil gemme, i appen eller på tiktok.com."
+        ],
+        [
+          "Kopiér linket",
+          "Tryk Del → Kopiér link. Korte vm.tiktok.com- og vt.tiktok.com-links virker også."
+        ],
+        [
+          "Indsæt og download",
+          "Indsæt linket ovenfor og tryk Søg, vælg derefter dit format."
+        ]
+      ]
+    },
+    "converter": {
+      "intro": "Konvertér TikTok til det format, du har brug for, med {t}. Ingen genkodning fra os — vi henter den originale fil og leverer den i målformatet.",
+      "steps": [
+        [
+          "Kopiér TikTok-linket",
+          "Brug Del → Kopiér link fra appen eller adresselinjen."
+        ],
+        [
+          "Indsæt og konvertér",
+          "Indsæt linket ovenfor og tryk Søg for at analysere opslaget."
+        ],
+        [
+          "Download",
+          "Vælg outputformatet, og filen går direkte til din enhed."
+        ]
+      ]
+    },
+    "photo": {
+      "intro": "Download TikTok-billeder, -karruseller og -covers i høj opløsning med {t}. Hvert billede leveres som fuld kvalitet JPG.",
+      "steps": [
+        [
+          "Find opslaget",
+          "Åbn det billede, karrusel eller slideshow, du vil gemme."
+        ],
+        [
+          "Kopiér linket",
+          "Tryk Del → Kopiér link."
+        ],
+        [
+          "Indsæt og download",
+          "Indsæt ovenfor, tryk Søg, og gem hvert billede individuelt."
+        ]
+      ]
+    },
+    "audio": {
+      "intro": "Udtræk og gem TikTok-lyd med {t} — musik, stemmer og originale lyde leveret som MP3.",
+      "steps": [
+        [
+          "Kopiér videolinket",
+          "Del → Kopiér link på den video, hvis lyd du vil have."
+        ],
+        [
+          "Indsæt og udtræk",
+          "Indsæt ovenfor og tryk Søg."
+        ],
+        [
+          "Download lyd",
+          "Vælg MP3, og lyden gemmes på din enhed."
+        ]
+      ]
+    },
+    "text": {
+      "intro": "Få billedtekster, transskriptioner og mere fra enhver TikTok-video med {t}. Kopiér teksten eller download den som TXT eller SRT.",
+      "steps": [
+        [
+          "Kopiér videolinket",
+          "Del → Kopiér link."
+        ],
+        [
+          "Indsæt og generér",
+          "Indsæt ovenfor og tryk Søg."
+        ],
+        [
+          "Kopiér eller download",
+          "Kopiér teksten eller download den som TXT / SRT med tidsstempler."
+        ]
+      ]
+    },
+    "device": {
+      "intro": "{t} — trin-for-trin instruktioner til at downloade TikTok-videoer på din enhed, med hvor hver fil ender, og hvordan du løser almindelige problemer.",
+      "steps": [
+        [
+          "Åbn TikTok",
+          "Find den video, du vil gemme."
+        ],
+        [
+          "Kopiér linket",
+          "Tryk Del → Kopiér link."
+        ],
+        [
+          "Indsæt og download",
+          "Indsæt ovenfor, tryk Søg, og gem filen på din enhed."
+        ]
+      ]
+    },
+    "pro": {
+      "intro": "{t} — et gratis, browserbaseret værktøj. Ingen installation, ingen tilmelding, virker i enhver moderne browser.",
+      "steps": [
+        [
+          "Åbn værktøjet",
+          "Ingen installation påkrævet — det kører i din browser."
+        ],
+        [
+          "Tilføj din kilde",
+          "Indsæt et TikTok-link eller brug de medfølgende kontroller."
+        ],
+        [
+          "Få resultatet",
+          "Resultatet genereres øjeblikkeligt og er klar til brug."
+        ]
+      ]
+    }
+  },
+  "toolFaq": [
+    [
+      "Er {t} gratis?",
+      "Ja. 100% gratis, ingen tilmelding, ingen abonnementer."
+    ],
+    [
+      "Skal jeg installere noget?",
+      "Nej. Det virker i enhver moderne browser på iPhone, Android, Windows, Mac og Linux."
+    ],
+    [
+      "Hvilken kvalitet får jeg?",
+      "Præcis det skaberen uploadede — ikke mere, ikke mindre. Vi genkomprimerer eller opskalerer aldrig."
+    ],
+    [
+      "Er det sikkert?",
+      "Vi gemmer intet af det, du downloader. Filer går direkte fra TikTok til din enhed."
+    ]
+  ],
+  "blogBody": {
+    "intro": "{t} — en klar, praktisk guide. Alt hvad du behøver at vide, uden fyld.",
+    "sections": [
+      [
+        "Oversigt",
+        "Denne guide dækker {t} i enkle trin, du kan følge på enhver enhed."
+      ],
+      [
+        "Trin for trin",
+        "Begynd med at kopiere TikTok-linket, du vil arbejde med (Del → Kopiér link). Indsæt det i værktøjet ovenfor og tryk Søg."
+      ],
+      [
+        "Tips",
+        "Brug det originale app-link når muligt, hold videoen offentlig, og giv skaberen kredit, når du deler."
+      ],
+      [
+        "FAQ",
+        "Hvis en download ikke starter, bekræft at videoen er offentlig, og at linket peger på et specifikt opslag, ikke en profil."
+      ]
+    ],
+    "updated": "Opdateret 27. november 2026",
+    "by": "Af"
+  },
+  "pageBody": {
+    "howto": {
+      "intro": "Download TikTok-videoer uden vandmærke i tre simple trin — på iPhone, Android og PC.",
+      "sections": [
+        [
+          "1. Kopiér linket",
+          "Tryk Del → Kopiér link i TikTok-appen."
+        ],
+        [
+          "2. Indsæt og søg",
+          "Indsæt linket ovenfor og tryk Søg."
+        ],
+        [
+          "3. Download",
+          "Vælg HD-video, MP3 eller billeder, og filen går til din enhed."
+        ]
+      ]
+    },
+    "about": {
+      "intro": "{site} er en gratis, uafhængig TikTok-downloader. Vi gør det nemt at gemme offentligt indhold i original kvalitet.",
+      "sections": [
+        [
+          "Vores mission",
+          "Giv alle en hurtig, privat, gratis måde at gemme deres eget indhold og offentlige videoer med skaberens tilladelse."
+        ],
+        [
+          "Privatliv",
+          "Vi gemmer intet af det, du downloader."
+        ]
+      ]
+    },
+    "contact": {
+      "intro": "Spørgsmål, feedback eller en DMCA-anmodning? Kontakt {site}-teamet.",
+      "sections": [
+        [
+          "E-mail",
+          "support@tiktmeta.com"
+        ],
+        [
+          "Svartid",
+          "Vi svarer normalt inden for 1–2 arbejdsdage."
+        ]
+      ]
+    },
+    "faq": {
+      "intro": "Svar på de mest almindelige spørgsmål om at downloade TikTok uden vandmærke.",
+      "sections": [
+        [
+          "Er det lovligt?",
+          "At downloade offentligt indhold til personlig brug er generelt i orden; respektér ophavsret og giv kredit."
+        ],
+        [
+          "Er det gratis?",
+          "Ja — ingen konti, ingen abonnementer."
+        ]
+      ]
+    },
+    "privacy-policy": {
+      "intro": "{site} respekterer dit privatliv. Denne politik forklarer, hvad vi gør og ikke gør.",
+      "sections": [
+        [
+          "Data",
+          "Vi gemmer ikke videoer, historik eller søgninger."
+        ],
+        [
+          "Cookies",
+          "Vi bruger kun essentielle cookies."
+        ]
+      ]
+    },
+    "terms-of-service": {
+      "intro": "Ved at bruge {site} accepterer du disse vilkår.",
+      "sections": [
+        [
+          "Brug",
+          "Brug tjenesten kun til indhold, du har ret til at downloade."
+        ],
+        [
+          "Ansvar",
+          "Tjenesten leveres som den er."
+        ]
+      ]
+    },
+    "dmca": {
+      "intro": "{site} respekterer immaterielle rettigheder og svarer på gyldige DMCA-meddelelser.",
+      "sections": [
+        [
+          "Indgivelse",
+          "Send e-mail til support@tiktmeta.com med URL og dokumentation for ejerskab."
+        ],
+        [
+          "Fjernelse",
+          "Vi fjerner krænkende links hurtigt."
+        ]
+      ]
+    },
+    "cookie-policy": {
+      "intro": "{site} bruger cookies til at holde siden kørende og sikker.",
+      "sections": [
+        [
+          "Essentielle",
+          "Nødvendige for at siden fungerer."
+        ],
+        [
+          "Kontrol",
+          "Du kan deaktivere cookies i din browser."
+        ]
+      ]
+    }
+  },
+  "faqPage": [
+    [
+      "Er det gratis at downloade TikTok-videoer?",
+      "Ja. TiktMeta er 100% gratis uden tilmelding og uden abonnementer."
+    ],
+    [
+      "Skal jeg installere en app?",
+      "Nej. Det virker i enhver moderne browser på iPhone, Android, Windows, Mac og Linux."
+    ],
+    [
+      "Hvilken kvalitet får jeg?",
+      "Præcis det skaberen uploadede — vi genkomprimerer eller opskalerer aldrig."
+    ],
+    [
+      "Er det sikkert og privat?",
+      "Vi gemmer intet af det, du downloader; filer går direkte fra TikTok til din enhed."
+    ],
+    [
+      "Kan jeg downloade private eller slettede videoer?",
+      "Nej. Vi tilgår kun indhold, som TikTok serverer offentligt."
+    ]
+  ],
+  "toolTitles": {
+    "tiktok-video-downloader": "TikTok video Downloader",
+    "tiktok-hd-downloader": "TikTok HD Downloader",
+    "tiktok-4k-downloader": "TikTok 4K Downloader",
+    "tiktok-no-watermark-downloader": "TikTok Uden vandmærke Downloader",
+    "tiktok-watermark-remover": "TikTok vandmærke fjerner",
+    "tiktok-bulk-downloader": "TikTok masse Downloader",
+    "tiktok-playlist-downloader": "TikTok afspilningsliste Downloader",
+    "tiktok-favorites-downloader": "TikTok favoritter Downloader",
+    "tiktok-private-video-downloader": "TikTok private video Downloader",
+    "tiktok-long-video-downloader": "TikTok lange video Downloader",
+    "tiktok-live-video-downloader": "TikTok live video Downloader",
+    "tiktok-duet-downloader": "TikTok duet Downloader",
+    "tiktok-to-mp4": "TikTok til MP4",
+    "tiktok-to-mp3": "TikTok til MP3",
+    "tiktok-to-gif": "TikTok til GIF",
+    "tiktok-to-wav": "TikTok til WAV",
+    "tiktok-to-webm": "TikTok til WebM",
+    "tiktok-to-jpg": "TikTok til JPG",
+    "tiktok-to-png": "TikTok til PNG",
+    "tiktok-to-reels-converter": "TikTok til Reels Converter",
+    "tiktok-to-shorts-converter": "TikTok til Shorts Converter",
+    "tiktok-to-whatsapp-status": "TikTok til WhatsApp status",
+    "tiktok-photo-downloader": "TikTok foto Downloader",
+    "tiktok-slideshow-downloader": "TikTok slideshow Downloader",
+    "tiktok-story-downloader": "TikTok story Downloader",
+    "tiktok-live-photo-downloader": "TikTok live foto Downloader",
+    "tiktok-thumbnail-downloader": "TikTok miniature Downloader",
+    "tiktok-carousel-downloader": "TikTok karrusel Downloader",
+    "tiktok-profile-picture-downloader": "TikTok profil billede Downloader",
+    "tiktok-wallpaper-downloader": "TikTok baggrund Downloader",
+    "tiktok-sound-downloader": "TikTok lyd Downloader",
+    "tiktok-music-downloader": "TikTok musik Downloader",
+    "tiktok-audio-extractor": "TikTok lyd udtrækker",
+    "tiktok-sound-as-ringtone": "TikTok lyd som ringetone",
+    "tiktok-voice-downloader": "TikTok stemme Downloader",
+    "tiktok-original-sound-downloader": "TikTok original lyd Downloader",
+    "tiktok-trending-sound-finder": "TikTok trendende lyd finder",
+    "tiktok-podcast-downloader": "TikTok podcast Downloader",
+    "tiktok-caption-downloader": "TikTok billedtekst Downloader",
+    "tiktok-transcript-generator": "TikTok transskription generator",
+    "tiktok-video-to-text": "TikTok video til Text",
+    "tiktok-subtitle-downloader": "TikTok undertekst Downloader",
+    "tiktok-auto-caption-generator": "TikTok auto billedtekst generator",
+    "tiktok-hashtag-generator": "TikTok hashtag generator",
+    "tiktok-bio-generator": "TikTok bio generator",
+    "tiktok-username-generator": "TikTok brugernavn generator",
+    "tiktok-on-iphone": "TikTok på iPhone",
+    "tiktok-on-android": "TikTok på Android",
+    "tiktok-on-pc": "TikTok på PC",
+    "tiktok-on-mac": "TikTok på Mac",
+    "tiktok-on-chromebook": "TikTok på Chromebook",
+    "tiktok-on-ipad": "TikTok på iPad",
+    "tiktok-downloader-app": "TikTok Downloader app",
+    "tiktok-downloader-api": "TikTok Downloader API",
+    "tiktok-profile-downloader": "TikTok profil Downloader",
+    "tiktok-analytics-checker": "TikTok analyser tjekker",
+    "tiktok-follower-counter": "TikTok følger tæller",
+    "tiktok-money-calculator": "TikTok penge beregner",
+    "tiktok-video-quality-checker": "TikTok video kvalitet tjekker",
+    "tiktok-video-compressor": "TikTok video kompressor"
+  },
+  "blogTitles": {
+    "how-to-download-tiktok-without-watermark": "Hvordan til downloade TikTok uden vandmærke",
+    "how-to-download-tiktok-videos-on-iphone": "Hvordan til downloade TikTok videoer på iPhone",
+    "how-to-download-tiktok-videos-on-android": "Hvordan til downloade TikTok videoer på Android",
+    "how-to-download-tiktok-videos-on-pc": "Hvordan til downloade TikTok videoer på PC",
+    "how-to-download-tiktok-photos": "Hvordan til downloade TikTok billeder",
+    "how-to-download-tiktok-stories": "Hvordan til downloade TikTok stories",
+    "how-to-download-tiktok-slideshow": "Hvordan til downloade TikTok slideshow",
+    "how-to-download-tiktok-live-photos": "Hvordan til downloade TikTok live billeder",
+    "how-to-download-tiktok-in-hd": "Hvordan til downloade TikTok i HD",
+    "how-to-download-tiktok-in-4k": "Hvordan til downloade TikTok i 4K",
+    "how-to-convert-tiktok-to-mp3": "Hvordan til konvertere TikTok til MP3",
+    "how-to-convert-tiktok-to-mp4": "Hvordan til konvertere TikTok til MP4",
+    "how-to-save-tiktok-without-posting": "Hvordan til gemme TikTok uden at poste",
+    "how-to-download-your-own-tiktok-videos": "Hvordan til downloade dine egne TikTok videoer",
+    "how-to-download-private-tiktok-videos": "Hvordan til downloade private TikTok videoer",
+    "how-to-go-live-on-tiktok": "Hvordan til gå live på TikTok",
+    "how-to-get-more-views-on-tiktok": "Hvordan til Get flere visninger på TikTok",
+    "how-to-get-more-followers-on-tiktok": "Hvordan til Get flere følgere på TikTok",
+    "how-to-make-money-on-tiktok": "Hvordan til tjene penge på TikTok",
+    "how-to-use-tiktok-without-account": "Hvordan til bruge TikTok uden konto",
+    "how-to-remove-tiktok-watermark": "Hvordan til fjerne TikTok vandmærke",
+    "how-to-repost-tiktok-on-reels": "Hvordan til genposting TikTok på Reels",
+    "how-to-repost-tiktok-on-youtube-shorts": "Hvordan til genposting TikTok på YouTube Shorts",
+    "how-to-save-tiktok-sound-as-ringtone": "Hvordan til gemme TikTok lyd som ringetone",
+    "how-to-set-tiktok-video-as-wallpaper": "Hvordan til sætte TikTok video som baggrund",
+    "how-to-download-tiktok-profile-picture": "Hvordan til downloade TikTok profil billede",
+    "how-to-transcribe-tiktok-video": "Hvordan til Transcribe TikTok video",
+    "how-to-download-tiktok-captions": "Hvordan til downloade TikTok Captions",
+    "how-to-share-tiktok-to-whatsapp-status": "Hvordan til Share TikTok til WhatsApp status",
+    "best-time-to-post-on-tiktok": "bedste tid til poste på TikTok",
+    "is-it-legal-to-download-tiktok-videos": "er det lovligt til downloade TikTok videoer",
+    "is-tiktok-downloader-safe": "er TikTok Downloader sikkert",
+    "why-tiktok-download-fails": "hvorfor TikTok downloade fejler",
+    "what-quality-do-you-get-from-tiktok": "hvad kvalitet Do du Get fra TikTok",
+    "tiktok-mp4-vs-mp3-difference": "TikTok MP4 vs MP3 forskel",
+    "tiktok-hd-vs-4k-vs-hdr": "TikTok HD vs 4K vs HDR",
+    "why-tiktok-video-has-no-sound-after-download": "hvorfor TikTok video Has Uden lyd efter downloade",
+    "why-tiktok-video-is-blurry-after-download": "hvorfor TikTok video er sløret efter downloade",
+    "can-you-download-deleted-tiktok-videos": "kan du downloade slettede TikTok videoer",
+    "can-you-download-tiktok-without-app": "kan du downloade TikTok uden app",
+    "tiktok-downloader-vs-screen-recording": "TikTok Downloader vs skærm optagelse",
+    "best-tiktok-downloader-in-2026": "bedste TikTok Downloader i 2026",
+    "tiksnap-vs-tiktmeta-comparison": "TikSnap vs Tiktmeta sammenligning",
+    "snaptik-vs-tiktmeta-comparison": "Snaptik vs Tiktmeta sammenligning",
+    "tiktok-copyright-rules-you-must-know": "TikTok ophavsret regler du skal kende",
+    "how-to-give-credit-to-tiktok-creator": "Hvordan til give kredit til TikTok skaber",
+    "how-to-use-downloaded-tiktok-for-school": "Hvordan til bruge Downloaded TikTok For skole",
+    "how-to-use-downloaded-tiktok-for-business": "Hvordan til bruge Downloaded TikTok For virksomhed",
+    "does-tiktok-notify-when-you-download": "gør TikTok varsle når du downloade",
+    "how-to-download-tiktok-without-watermark-on-iphone": "Hvordan til downloade TikTok uden vandmærke på iPhone"
+  }
+}

@@ -1,0 +1,1027 @@
+{
+  "ui": {
+    "nav": {
+      "home": "Home",
+      "tools": "Tools",
+      "blog": "Blog",
+      "howto": "How to Use",
+      "about": "About",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "hero": {
+      "title": "TikTok Downloader — Download Videos Without Watermark · Free",
+      "subtitle": "Paste the link and download in 3 seconds. Video in the creator's original quality, without watermark and without re-encoding — a free online TikTok saver with no sign-up and no app."
+    },
+    "cta": {
+      "title": "Ready to Download?",
+      "text": "Start downloading your favorite TikTok videos without watermark in their original quality. No registration or installation needed.",
+      "btn": "Get Started"
+    },
+    "common": {
+      "safePrivate": "Safe and Private",
+      "noReg": "No Registration Required",
+      "quickLinks": "Quick Links",
+      "legal": "Legal",
+      "tools": "Tools",
+      "rights": "All rights reserved.",
+      "freeForever": "Download fast. Free forever.",
+      "independent": "is an independent service and is not affiliated, sponsored by, or associated with TikTok or ByteDance Ltd.",
+      "madeWith": "Made with",
+      "otherTools": "More tools",
+      "otherToolsLead": "Everything you can save from TikTok, each format with its own dedicated tool.",
+      "getStarted": "Get Started",
+      "search": "Search",
+      "paste": "Paste a TikTok link",
+      "download": "Download",
+      "open": "Open",
+      "language": "Language",
+      "searchLanguage": "Search language…",
+      "responsibleUse": "Responsible Use"
+    },
+    "footer": {
+      "tagline": "The fastest and safest way to download TikTok videos, photos and stories without watermark. 100% free, no sign-up."
+    },
+    "steps": {
+      "title": "Download in 3 Steps",
+      "lead": "Three steps. It will take you less than 10 seconds."
+    },
+    "notFound": {
+      "title": "404 — Page not found",
+      "text": "The page you’re looking for doesn’t exist or has moved.",
+      "back": "Back to home",
+      "popular": "Popular tools"
+    }
+  },
+  "categoryLabels": {
+    "video": "Video",
+    "converter": "Converter",
+    "photo": "Photo",
+    "audio": "Audio",
+    "text": "Text",
+    "device": "Device",
+    "pro": "Pro Tools"
+  },
+  "catCopy": {
+    "video": {
+      "intro": "Save any TikTok video with the {t} — original quality, no watermark, straight from TikTok's servers to your device.",
+      "steps": [
+        [
+          "Open TikTok",
+          "Find the video you want to save in the app or on tiktok.com."
+        ],
+        [
+          "Copy the link",
+          "Tap Share → Copy link. Short vm.tiktok.com and vt.tiktok.com links work too."
+        ],
+        [
+          "Paste & download",
+          "Paste the link above and press Search, then choose your format."
+        ]
+      ]
+    },
+    "converter": {
+      "intro": "Convert TikTok to the format you need with {t}. No re-encoding by us — we fetch the original file and deliver it in the target format.",
+      "steps": [
+        [
+          "Copy the TikTok link",
+          "Use Share → Copy link from the app or the address bar."
+        ],
+        [
+          "Paste & convert",
+          "Paste the link above and press Search to analyze the post."
+        ],
+        [
+          "Download",
+          "Choose the output format and the file goes straight to your device."
+        ]
+      ]
+    },
+    "photo": {
+      "intro": "Download TikTok photos, carousels and covers in high resolution with {t}. Each image is delivered as a full-quality JPG.",
+      "steps": [
+        [
+          "Find the post",
+          "Open the photo, carousel or slideshow you want to save."
+        ],
+        [
+          "Copy the link",
+          "Tap Share → Copy link."
+        ],
+        [
+          "Paste & download",
+          "Paste above, press Search, and save each image individually."
+        ]
+      ]
+    },
+    "audio": {
+      "intro": "Extract and save TikTok audio with {t} — music, voices, and original sounds delivered as MP3.",
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link on the video whose sound you want."
+        ],
+        [
+          "Paste & extract",
+          "Paste above and press Search."
+        ],
+        [
+          "Download audio",
+          "Choose MP3 and the sound is saved to your device."
+        ]
+      ]
+    },
+    "text": {
+      "intro": "Get captions, transcripts and more from any TikTok video with {t}. Copy the text or download it as TXT or SRT.",
+      "steps": [
+        [
+          "Copy the video link",
+          "Share → Copy link."
+        ],
+        [
+          "Paste & generate",
+          "Paste above and press Search."
+        ],
+        [
+          "Copy or download",
+          "Copy the text or download it as TXT / SRT with timestamps."
+        ]
+      ]
+    },
+    "device": {
+      "intro": "{t} — step-by-step instructions to download TikTok videos on your device, with where each file ends up and how to fix common issues.",
+      "steps": [
+        [
+          "Open TikTok",
+          "Find the video you want to save."
+        ],
+        [
+          "Copy the link",
+          "Tap Share → Copy link."
+        ],
+        [
+          "Paste & download",
+          "Paste above, press Search, and save the file to your device."
+        ]
+      ]
+    },
+    "pro": {
+      "intro": "{t} — a free, browser-based utility. No install, no sign-up, works on any modern browser.",
+      "steps": [
+        [
+          "Open the tool",
+          "No installation required — it runs in your browser."
+        ],
+        [
+          "Add your source",
+          "Paste a TikTok link or use the controls provided."
+        ],
+        [
+          "Get the result",
+          "The result is generated instantly and ready to use."
+        ]
+      ]
+    }
+  },
+  "toolFaq": [
+    [
+      "Is {t} free?",
+      "Yes. 100% free, no sign-up, no subscriptions."
+    ],
+    [
+      "Do I need to install anything?",
+      "No. It works in any modern browser on iPhone, Android, Windows, Mac and Linux."
+    ],
+    [
+      "What quality do I get?",
+      "Whatever the creator uploaded — no more, no less. We never re-compress or upscale."
+    ],
+    [
+      "Is it safe?",
+      "We store nothing you download. Files go straight from TikTok to your device."
+    ]
+  ],
+  "blogBody": {
+    "intro": "{t} — a clear, practical guide. Everything you need to know, no fluff.",
+    "sections": [
+      [
+        "Overview",
+        "This guide covers {t} in plain steps you can follow on any device."
+      ],
+      [
+        "Step by step",
+        "Start by copying the TikTok link you want to work with (Share → Copy link). Paste it into the tool above and press Search."
+      ],
+      [
+        "Tips",
+        "Use the original app link when possible, keep the video public, and give credit to the creator when you share."
+      ],
+      [
+        "FAQ",
+        "If a download does not start, confirm the video is public and the link points to a specific post, not a profile."
+      ]
+    ],
+    "updated": "Updated November 27, 2026",
+    "by": "By"
+  },
+  "pageBody": {
+    "howto": {
+      "intro": "A step-by-step guide to downloading TikTok videos without watermark on any device, with specific instructions for iPhone, Android, and computer: where each file ends up, which permissions you will be asked for, and how to fix the most common issues.",
+      "stats": [
+        {
+          "value": "30 sec",
+          "label": "Average time"
+        },
+        {
+          "value": "100%",
+          "label": "Safe and private"
+        },
+        {
+          "value": "HD",
+          "label": "Maximum quality"
+        }
+      ],
+      "sections": [
+        {
+          "h": "Download in 4 Steps from Any Device",
+          "p": "The same method works on PC, Mac, Android, iPhone, and tablets. You only need a public TikTok link and a browser.",
+          "steps": [
+            "Open TikTok and find the video, carousel, or story you want to save, in the app or on tiktok.com.",
+            "Copy the link: tap Share → Copy link. The app's short vm.tiktok.com and vt.tiktok.com links work too.",
+            "Paste the URL into the field above and press Search to read the post.",
+            "Download: choose HD Video, MP3, or images. The file goes straight to your device."
+          ]
+        },
+        {
+          "h": "On PC (Windows, Mac, Linux)",
+          "p": "The desktop flow is the same across browsers, and the clean file drops straight into your editor.",
+          "steps": [
+            "Open tiktok.com in your browser (Chrome, Firefox, Edge, or Safari) and find the video. If you spotted it on your phone, send yourself the link over WhatsApp or Telegram and open it on the computer.",
+            "Copy the URL straight from the address bar, or use the video's own Share → Copy link button.",
+            "Go to TiktMeta, paste the link with Ctrl+V (Cmd+V on Mac), and press Search.",
+            "Choose HD Video or MP3 Audio. The file lands in your Downloads folder with an .mp4 or .mp3 extension, ready to drag into CapCut, Premiere, or DaVinci.",
+            "If the video opens in a new browser tab instead of downloading, right-click the picture and choose Save video as to save it wherever you like."
+          ],
+          "tip": "Tip: the browser's downloads panel (Ctrl+J on Windows and Linux) shows the file you just saved with a shortcut to its folder, in case you cannot find it."
+        },
+        {
+          "h": "On Android",
+          "p": "Android handles downloads cleanly through Chrome, and the file appears in your gallery within seconds.",
+          "steps": [
+            "Open TikTok, find the video, and tap Share → Copy link.",
+            "Open Chrome (or your usual browser), go to TiktMeta, and long-press the search field to choose Paste.",
+            "Tap Search and pick your format. The first time, the browser may ask permission to download files or access storage: accept it, since it only asks once.",
+            "The file ends up in the Download folder of your internal storage. MP4 videos show up in your Gallery app or Google Photos as soon as the system indexes them, usually within seconds.",
+            "If you do not see it in the gallery, open your phone's Files app, go to Downloads, and open it from there. You can also move it to Movies or DCIM to keep things tidy."
+          ],
+          "tip": "Tip: downloaded several files in a row, such as the photos of a carousel? In Chrome, tap the three dots → Downloads to see them all without leaving the browser."
+        },
+        {
+          "h": "On iPhone or iPad",
+          "p": "On iOS, Safari is the browser that handles downloads properly, and the file lands in the Files app.",
+          "steps": [
+            "Open TikTok, find the video, and tap Share → Copy link.",
+            "Open Safari. On iOS, Safari is the browser that handles file downloads; other browsers may not offer the option to save.",
+            "Go to TiktMeta, long-press the search field, tap Paste, and then Search.",
+            "Tap Download. Safari will ask you to confirm and, once you accept, a download arrow appears next to the address bar showing the progress.",
+            "The file is saved in the Files app, under On My iPhone or iCloud Drive (depending on your settings), in the Downloads folder.",
+            "To move it to your gallery, open Files, long-press the video, tap Share, and choose Save Video. iOS will ask permission to access Photos the first time; after that, the video shows up in your camera roll like any other."
+          ],
+          "tip": "Tip: in Settings → Safari → Downloads you can pick On My iPhone instead of iCloud Drive, so downloads do not eat into your iCloud storage."
+        },
+        {
+          "h": "MP4 Video in HD",
+          "p": "The full video with picture and audio in a single MP4 file using the H.264 codec, the standard TikTok uses and every device, editor, and platform recognizes without conversion. It downloads with no watermark or @username, because it is the creator's original version rather than the logo-stamped copy the app's Save button generates. You get up to 1080p, depending on what was published. It is ideal for editing in CapCut or Premiere, archiving, or reposting to Reels and Shorts with the author's permission and credit."
+        },
+        {
+          "h": "MP3 Audio",
+          "p": "Just the video's sound track, extracted and delivered as MP3, the format any phone, computer, or car stereo plays. It is perfect for viral songs, sound effects, podcast clips, or voices. Two things to keep in mind: you get the audio exactly as it sounds in that specific video, with whatever voices or mixes the creator added, and the final quality depends on the original track, because extraction cannot improve what is not there. For personal listening or a ringtone it is ideal; for commercial use, clear the rights first."
+        },
+        {
+          "h": "JPG Images from Carousels",
+          "p": "When you paste the link of a slider or carousel, TiktMeta detects each image and lets you download them one by one as high-resolution JPGs. A carousel is not an MP4: TikTok publishes it as separate images plus an audio track, so you can also grab the sound on its own as MP3. And if the first slide has motion, it is a Live Photo, so you can save both the still photo and its short MP4 video with the animation. The images are numbered, which makes it easy to keep the original order."
+        },
+        {
+          "h": "What Determines the Resolution?",
+          "p": "What the creator uploaded, nothing else. TikTok keeps the video at the resolution of the original post (1080 by 1920 if it was filmed vertically on a recent phone), and TiktMeta locates the best version of that file that exists. If the video was shot in 720p, posted from a third-party app, or re-compressed by TikTok, there is no 1080p copy on any server, and no honest downloader can manufacture one: upscaling only inflates the file size and blurs the image. So the quality you see in the app is the quality you download."
+        },
+        {
+          "h": "Solutions to Common Problems",
+          "p": "The download does not start: check that the video is public and that the link points to a specific post, not a profile. On iPhone use Safari, the browser that handles downloads on iOS. If nothing happens when you tap Download, your browser has probably blocked it, so look for the notice next to the address bar and allow it. As a last resort, copy the link again from TikTok's Share button and repeat the process.\n\nThe video looks blurry or low quality: TiktMeta downloads the highest quality TikTok offers for that video, without re-compressing it. If the original was uploaded in low resolution, no better copy exists on any server. Check how the video looks inside the app itself; if it is not sharp there either, that is the file's real quality.\n\nThe link is not recognized: copy it from the Copy link option of the Share button. Long links (tiktok.com/@username/video/...) work, and so do the short vm.tiktok.com and vt.tiktok.com links the mobile app generates. What does not work: links re-shortened through other services such as bit.ly, or links to profiles or hashtags. The URL must point to a specific post.\n\nThe short link gives an error: these short links are generated by the mobile app when you share, and TiktMeta accepts and resolves them automatically. If one specific link fails, it is usually because it was copied incomplete or TikTok's redirect expired. The quick fix is to open the link in your browser to reach the video, copy the long URL from the address bar, and paste that one instead.\n\nI expected an MP4 but got loose photos: the post is a carousel, not a video. TikTok publishes sliders as separate JPG images with the audio on its own, and that is how they are delivered. It is not a failed download; it is the format that content exists in.\n\nThe download stops halfway: on an unstable connection the browser can cut the transfer and leave an incomplete file that will not play. Delete that file, check your connection or switch from mobile data to Wi-Fi, and download again. On a computer, many browsers let you resume an interrupted download from their downloads panel.\n\nThe video was private or no longer exists: if the creator deleted the video, made it private, or restricted who can see it, TikTok stops serving the file and there is nothing left to download. TiktMeta only accesses public content and keeps no copies, by design. The check is simple: if the link does not open the video on TikTok without logging in, no legitimate tool will be able to download it."
+        },
+        {
+          "h": "Responsible Use of Downloaded Content",
+          "p": "TiktMeta makes it easy to download public content from TikTok. Users are responsible for complying with copyright laws and TikTok's terms of service. We recommend using downloaded content for personal use, giving credit to the original creator, or requesting permission for commercial use. We do not promote copyright infringement."
+        }
+      ],
+      "features": [
+        {
+          "icon": "user-check",
+          "title": "No Sign-up, No Artificial Quotas",
+          "text": "Download with no premium accounts and no artificial waits between downloads. The only thing in place is an automatic anti-abuse protection that normal use never triggers."
+        },
+        {
+          "icon": "zap",
+          "title": "Original HD Quality",
+          "text": "You receive the same file TikTok plays in the app, with no re-compression. If the creator published in 1080p, you download 1080p; if they uploaded lower, that is the real quality that exists."
+        },
+        {
+          "icon": "music",
+          "title": "Extract MP3 Audio",
+          "text": "Pull the sound track out of any video as MP3: music, effects, voices, or podcast clips. No converters to install and no third-party programs to go through."
+        },
+        {
+          "icon": "image",
+          "title": "Photos and Carousels",
+          "text": "Sliders download photo by photo as high-resolution JPGs, with the audio available separately as MP3. Live Photos with motion are detected too, and you can save their MP4."
+        }
+      ],
+      "faqs": [
+        [
+          "Can I download TikTok videos on my phone?",
+          "Yes. TiktMeta works on any phone straight from the browser, with nothing to install. On Android, files go to the Downloads folder and videos appear in your gallery as soon as the system indexes them. On iPhone, use Safari: files are saved in the Files app, and from there you can move them to Photos with Share → Save Video."
+        ],
+        [
+          "Do I need to install an app?",
+          "No. TiktMeta is a 100% web-based tool: all you need is a modern browser like Chrome, Safari, Firefox, or Edge. No sign-up, no installation, and no extensions, which is exactly why it works the same on a phone, a tablet, or a computer."
+        ],
+        [
+          "How long does the download take?",
+          "Usually just a few seconds for a typical video, since the file travels straight from TikTok to your device with no intermediate processing. Larger, higher-resolution files take longer and depend on your connection speed. A 30-second average is typical for a standard clip on a stable network."
+        ],
+        [
+          "Where is the downloaded file saved?",
+          "On PC and Mac, in the browser's Downloads folder, which you can change in its settings. On Android, in the Download folder of internal storage, visible from the Files app and your gallery. On iPhone, in the Files app, inside the Downloads folder under On My iPhone or iCloud Drive, depending on how Safari is set up."
+        ],
+        [
+          "Why doesn't the video appear directly in Photos on iPhone?",
+          "Because iOS treats Safari downloads as files, not photos: for security, a web page cannot write straight into your gallery. The video sits in the Files app, and moving it to Photos takes two taps: long-press the file, choose Share, and then Save Video. The first time, iOS asks permission to access Photos; after that, the process is immediate."
+        ]
+      ],
+      "cta": {
+        "title": "Ready to Download?",
+        "text": "Start downloading your favorite TikTok videos and photos without watermark in high quality. No registration or installation needed.",
+        "label": "Get Started"
+      }
+    },
+    "about": {
+      "intro": "{site} is a free, independent TikTok downloader built to be fast, clean, and genuinely useful. It runs entirely in your browser, stores nothing you download, and works the same on any device — no account, no app, and no watermark.",
+      "sections": [
+        [
+          "What is TiktMeta?",
+          "TiktMeta is an online TikTok downloader that saves videos, photos, stories, carousels, Live Photos, and MP3 audio without the watermark. It works directly from the browser, with nothing to install, on any device: phone, tablet, or computer. You paste a public link, press Search, and the original file travels straight from TikTok to your device.\n\nThe idea is deliberately narrow. There is one job — get a clean copy of a public TikTok — and the tool does it without accounts, subscriptions, or a maze of buttons. Everything else on the site exists to explain that job clearly and to help you use the result responsibly."
+        ],
+        [
+          "Why does TiktMeta exist?",
+          "TiktMeta was built so creators and everyday users can save a copy of their own videos, and of public content they have permission to keep, in original quality and without hassle. Many existing tools impose download limits, bury the file under advertising, or demand registration before they do anything. That friction is unnecessary for a task that should take seconds.\n\nSo the goal is simple: anyone should be able to save their TikTok content in the highest quality that exists, on any device, for free, and without surprises. The tool is a small, privacy-respecting alternative to the cluttered options out there — fast to use, honest about its limits, and clear about what it will and will not do."
+        ],
+        [
+          "How does it stay free?",
+          "TiktMeta is free for everyone, with no accounts and no per-download charges. The service is kept running by unobtrusive advertising that covers the cost of servers and the domain, so the tool itself never asks for payment. There is no premium tier that unlocks a better file, because the clean original is the standard offering, not an upsell.\n\nA light anti-abuse measure keeps the service responsive for everyone, and normal use never notices it. The aim is a tool that stays fast and available without turning the download into a transaction. Free does not have to mean slow, limited, or covered in pop-ups, and this site is built to prove that."
+        ],
+        [
+          "Privacy and responsible use",
+          "TiktMeta does not store any video, image, or personal data on its servers. All content travels directly from TikTok to your device, and no download history or activity is kept. When you close the tab, there is no record of what you looked up. That protects your privacy and, as a bonus, makes downloads faster.\n\nWe recommend using downloaded content ethically: respect copyright, give credit to the original creator when you share, and ask for permission before any commercial use. The tool only works with public content and does not promote copyright infringement. Common sense and respect for the people behind the videos are all we ask."
+        ]
+      ],
+      "features": [
+        {
+          "icon": "video",
+          "title": "Download HD Videos",
+          "text": "The full video without watermark, up to the resolution the creator uploaded — usually 1080p. No re-encoding, no logo."
+        },
+        {
+          "icon": "music",
+          "title": "Extract MP3 Audio",
+          "text": "Keep the original sound of a video as an MP3 in one click, ready for offline listening or a ringtone."
+        },
+        {
+          "icon": "image",
+          "title": "Carousels and Live Photos",
+          "text": "Download each image in a carousel separately, or save a Live Photo as both the still and its motion."
+        },
+        {
+          "icon": "user-check",
+          "title": "No Registration or Limits",
+          "text": "100% free, with no accounts and no download caps. Just paste a link and save."
+        }
+      ],
+      "cta": {
+        "title": "Ready to try it?",
+        "text": "Paste a TikTok link and download your content in seconds, in original quality.",
+        "label": "Go to the Downloader"
+      },
+      "subtitle": "The fast, clean and hassle-free TikTok downloader.",
+      "featuresTitle": "What can you do with TiktMeta?"
+    },
+    "contact": {
+      "intro": "Questions, feedback or a DMCA request? Reach the {site} team.",
+      "sections": [
+        [
+          "Email",
+          "support@tiktmeta.com"
+        ],
+        [
+          "Response time",
+          "We usually reply within 1–2 business days."
+        ]
+      ]
+    },
+    "faq": {
+      "subtitle": "Everything you need to know about TiktMeta: how it works, what is legal, how we protect your privacy, and what to do when something goes wrong.",
+      "sections": [],
+      "groups": [
+        {
+          "title": "General",
+          "desc": "The basics: what TiktMeta is, what it costs, and which devices you can use it on.",
+          "items": [
+            [
+              "What is TiktMeta and what is it for?",
+              "TiktMeta is a free web tool that lets you download public TikTok videos, photos, and audio straight from your browser. Paste the link, press a button, and you get the file in original quality, without watermark, ready to save on your device. It is built for creators who want to keep a copy of their own content, for archiving videos you love, and for watching them offline. If you would like a step-by-step walkthrough, visit our how-to-download page."
+            ],
+            [
+              "Is TiktMeta really free?",
+              "Yes, completely. There is no premium tier, no hidden subscription, and no feature locked behind a paywall. Every option — video without watermark, HD quality, carousel photos, and MP3 audio — is available to every user at no cost. The service is funded by the advertising shown on the page, so we never ask for payment details or send you to a checkout. If you ever land on a page pretending to be TiktMeta and asking for money, it is not ours."
+            ],
+            [
+              "Is there a daily download limit?",
+              "There are no paid quotas or premium plans: you can download what you need under normal personal use. There is an automatic protection against abusive use — a generous cap on original-quality downloads per connection and day, plus a brake for bots or scripts firing hundreds of requests a minute — so the service stays fast for everyone. Regular personal use never reaches that cap. If you do see a wait message, simply try again later."
+            ],
+            [
+              "Do I need to create an account or log in?",
+              "No. TiktMeta works without registration, without an email address, and without logging in to TikTok. You never need to connect your TikTok account or grant us access to it. A simple tool should not require you to hand over your data just to use it. Open the site, paste the link, and download. This is also part of our commitment to privacy, which you can read about in our privacy policy."
+            ],
+            [
+              "Does it work on every device and operating system?",
+              "Yes. Because it is a web app, TiktMeta runs on any device with a modern browser: iPhone and iPad (Safari), Android (Chrome, Samsung Internet, Firefox), Windows, macOS, and Linux. It does not rely on an app-store app or a browser extension, so your OS version does not matter as long as the browser is reasonably up to date. The layout adapts automatically to the screen size, so the experience on mobile is just as comfortable as on desktop."
+            ],
+            [
+              "Why are there ads on TiktMeta?",
+              "Because they are our only source of income. Running the servers that process the videos, the bandwidth, and the domain has a real monthly cost, and advertising is what covers it. No ad is required to download: the download buttons are in TiktMeta's own results. If you see a misleading ad with fake download buttons, it does not come from our results, and we would appreciate you reporting it through the contact page."
+            ]
+          ]
+        },
+        {
+          "title": "Legality and copyright",
+          "desc": "What you can and cannot do with the content you download, and how we respect creators.",
+          "items": [
+            [
+              "Is it legal to download TikTok videos?",
+              "Downloading a public video for private viewing, saving a copy of your own content, or using it with the creator's explicit permission is generally an accepted practice. What can be illegal is what happens afterwards: redistributing, monetizing, or claiming someone else's work without authorization infringes copyright. TiktMeta only provides technical access to the file; responsibility for how it is used lies with the user. Please respect both the laws of your country and TikTok's terms of service. More details are in our terms of use."
+            ],
+            [
+              "Can I repost other people's videos on my own accounts?",
+              "Only with the original creator's permission. A TikTok video is a copyrighted work from the moment it is published, and uploading it to your Instagram, YouTube, or TikTok account as if it were yours can result in a claim, content removal, or account suspension. If you want to share it, the right approach is to ask for permission, always credit the author, and, where possible, use the platform's native share features. Downloading for inspiration or archiving is not the same as redistributing."
+            ],
+            [
+              "I am a creator and someone downloaded my video. What can I do?",
+              "First, TiktMeta does not store or host your content: it only temporarily processes the public link the user pastes, so there is nothing on our servers to remove. If you find someone reposting your work without permission, the claim should go to the platform where it was uploaded. That said, if you believe TiktMeta is being used to infringe your rights, we have a formal complaint procedure described on our DMCA page, and we respond to every legitimate request."
+            ],
+            [
+              "Is TiktMeta affiliated with TikTok or ByteDance?",
+              "No. TiktMeta is a fully independent service with no commercial, legal, or technical relationship with TikTok, ByteDance, or any of their affiliated companies. We are not endorsed, sponsored, or approved by them. TikTok is a registered trademark of its owner, and we mention it only to describe which platform our tool is compatible with. Our service is limited to accessing content that is already public on the internet and making it easier for the user to download."
+            ],
+            [
+              "Can I download videos from private accounts?",
+              "No. TiktMeta can only process content that is public on TikTok, meaning videos anyone can watch without logging in. If a profile is private, if a video is set to friends only, or if the creator has restricted visibility by region or age, our system cannot reach it and will show an error. We do not offer, and will never offer, any way to bypass those settings, because doing so would violate the privacy the creator has chosen for their content."
+            ]
+          ]
+        },
+        {
+          "title": "Privacy and security",
+          "desc": "What data we touch, what we do not, and why you can use TiktMeta with peace of mind.",
+          "items": [
+            [
+              "Does TiktMeta store my videos or the links I paste?",
+              "No. When you paste a link, our server looks it up, retrieves the URL of the original file, and hands it to you so the download happens directly on your device. That processing is temporary and takes a few seconds; we keep no copies of the videos, no link history tied to you, and no profile of what you download. The only records that exist are the standard technical server logs, retained briefly to detect errors and abuse."
+            ],
+            [
+              "Do I need to install anything on my device?",
+              "No, nothing at all. TiktMeta runs entirely in the browser, so there are no apps, extensions, programs, or configuration profiles to install. This matters for security: many TikTok downloader apps bundle adware or request unnecessary permissions on your phone. With a web tool that risk does not exist, because nothing runs outside the browser tab. If any page asks you to install an APK file or an extension to use TiktMeta, close it: it is not ours."
+            ],
+            [
+              "Is TiktMeta safe to use?",
+              "Yes. Every connection between your device and our servers is encrypted with HTTPS, the same technology that protects online banking. We ask for no registration, passwords, or personal data, so there are no credentials that could leak. We also limit requests per IP address to curb abuse and automated attacks. The files you download are the same ones TikTok serves to its own app, with no modifications and no added code."
+            ],
+            [
+              "Which cookies does TiktMeta use?",
+              "TiktMeta sets no cookies of its own for tracking. Our advertising network may use cookies and identifiers, and if you visit from Europe those are not loaded until you accept the notice, which you can change anytime in the privacy settings in the footer. Visitor statistics are measured with privacy-friendly analytics that set no cookies and do not identify users. We do not use cookies to identify you personally or to track your downloads. Full details are in our cookie policy and privacy policy."
+            ],
+            [
+              "Do you collect personal data from users?",
+              "We collect the bare minimum. We do not ask for a name, email, or phone number, because none of that is needed to use the service. What is processed automatically is technical information such as your IP address, browser type, and pages visited, which we use in aggregate to measure traffic and maintain security. Advertising providers may set cookies under their own policies, and in Europe only if you accept. If you write to us through the contact form, we use your email only to reply. All the details are in our privacy policy."
+            ]
+          ]
+        },
+        {
+          "title": "Common problems",
+          "desc": "If something does not go as expected, the fix is most likely right here.",
+          "items": [
+            [
+              "The link I paste does not work. What should I do?",
+              "First, check that you copied the full link from TikTok's Share → Copy link button. Valid formats look like tiktok.com/@user/video/..., vm.tiktok.com/..., or vt.tiktok.com/.... If the link came from a message, make sure it was not cut off and contains no extra text. If it still fails, verify that the video is public and available in your region. Occasionally TikTok changes its internal structure and we need a few hours to adapt; in that case, try again a little later."
+            ],
+            [
+              "The downloaded video has a logo or a mark on it. Why?",
+              "TiktMeta downloads the original version of the video exactly as the creator published it, without the watermark TikTok adds when sharing. However, if the creator embedded a logo, a username, or a signature while editing — for example in CapCut or another editor — that element is part of the video frames themselves, not a separate layer. It will therefore appear in any download, because it is content made by the author. There is no way to obtain that video without that mark, since it never existed without it."
+            ],
+            [
+              "On iPhone the video opens in the browser instead of downloading",
+              "That is normal Safari behavior on iOS, not a TiktMeta bug. When the video opens in a new tab, press and hold on it and choose Save to Photos or Download Linked File. You can also tap the downloads icon, the arrow in Safari's top bar, and from there press Share → Save Video. If you use Chrome on iPhone, the file goes to the Files app, from where you can move it to Photos. The whole process is explained step by step on our how-to-download page."
+            ],
+            [
+              "It says the video does not exist or was removed",
+              "That message appears when TikTok no longer serves the video at the address you pasted. The most common causes are that the creator deleted it, switched it to private, changed their username, or that TikTok took it down for violating its guidelines. It also happens with region- or age-restricted videos. TiktMeta keeps no copies of any content, so if the video is no longer publicly available, we cannot recover it. If you believe it is still online, open the link in your browser to confirm and copy it again."
+            ],
+            [
+              "How do I report a bug or suggest an improvement?",
+              "We would love to hear from you. Write to us through the contact page and include, if possible, the link of the video that fails, the device and browser you are using, and a short description of what happens. With that information we can reproduce the problem and fix it much faster. We usually reply within 48 hours. If your query is about copyright, please use the dedicated DMCA form instead so it reaches the right channel."
+            ]
+          ]
+        }
+      ],
+      "responsible": "TiktMeta makes it easy to download public content from TikTok. Users are responsible for complying with copyright laws and TikTok's terms of service. We recommend using downloaded content for personal use, giving credit to the original creator, or requesting permission for commercial use. We do not promote copyright infringement.",
+      "cta": {
+        "title": "Questions answered? Download your first video",
+        "text": "No sign-up, nothing to install, and no watermark. Paste the link and you are done.",
+        "label": "Go to the Downloader"
+      }
+    },
+    "privacy-policy": {
+      "subtitle": "Last updated: November 27, 2026",
+      "intro": "At TiktMeta, our visitors' privacy is a top priority. This Privacy Policy describes in detail what information we collect, how we use it, who we share it with, and what rights you have over your personal data.",
+      "sections": [
+        {
+          "h": "1. Data Controller",
+          "p": "The controller of the personal data collected through this website is TiktMeta, an independent service operated from the Dominican Republic. For any privacy-related inquiry, you can contact us through our contact page. We aim to respond to every legitimate request within 30 days."
+        },
+        {
+          "h": "2. Information You Provide Voluntarily",
+          "p": "TiktMeta was designed with privacy as a core principle. We do not require account registration or ask for personal data to use the download tool. The only information you provide voluntarily is what you choose to send us through the contact form: your name, email address, and the content of your message. This information is used solely to respond to your inquiry and is not added to any marketing list."
+        },
+        {
+          "h": "3. Information Collected Automatically",
+          "p": "Our servers automatically record certain technical information when you visit the site, including your IP address, browser type and version, operating system, pages visited, date and time of access, and the referring URL. This data is used to analyze trends, keep the service secure, audit the request rate limit, and trace unlawful activity so we can block offenders and cooperate with the authorities.\n\nWhen you use the download tool, we temporarily process the TikTok video URL you provide. This URL is not stored permanently or linked to your identity. Processing happens in real time, and the data is deleted immediately after the download is complete."
+        },
+        {
+          "h": "4. Information We Do Not Collect",
+          "p": "It is important to note that TiktMeta does not store downloaded videos on its servers, does not keep a history of your downloads, does not require the creation of user accounts, does not collect financial or payment data, and does not access your TikTok account or your credentials. The tool works entirely from public data, so there is no login and no profile of what you download."
+        },
+        {
+          "h": "5. Cookies and Similar Technologies",
+          "p": "TiktMeta uses cookies and similar technologies to improve your browsing experience and enable third-party services to function. The main categories are:",
+          "steps": [
+            "Essential: required for the site to work, such as the record of your advertising choice and the anti-bot verification pass. These last for a limited time, typically up to one year for the consent record and around 30 minutes for the security pass.",
+            "Security: an invisible anti-bot check in the download tool that confirms searches are made by a person and not an automated program, set by our security provider.",
+            "Analytics: aggregated usage metrics such as page views and load times, measured with privacy-friendly analytics that set no cookies and identify no users.",
+            "Advertising: used by our advertising network to serve and measure ads. In Europe, these are only loaded if you accept them in the cookie notice."
+          ],
+          "tip": "You can change your advertising choice at any time in the privacy settings in the page footer, and configure your browser to block or delete cookies, although this may affect the site's functionality. TiktMeta does not ask for permission to send notifications."
+        },
+        {
+          "h": "6. Third-Party Advertising",
+          "p": "TiktMeta is funded by advertising that covers our server and domain costs. No ad is part of the download process: the download buttons are the ones shown in TiktMeta's results and never require interacting with advertising. We do not load any other advertising network.\n\nIn the European Union, the European Economic Area, the United Kingdom, and Turkey, advertising cookies are not loaded until you accept the cookie notice; if you reject them, no ad is loaded. In the rest of the world they always load, and there you can block advertising cookies in your browser or with an ad blocker. Our advertising provider may use cookies, local storage, and browser identifiers to serve ads, measure their performance, and cap how often you see them; how it processes that data and how to exercise your rights is explained in its own privacy policy."
+        },
+        {
+          "h": "7. How We Use Your Information",
+          "p": "The information we collect is used exclusively to provide and maintain the download service, respond to your inquiries and support requests, analyze site usage to improve the experience, detect and address technical and security issues, comply with applicable legal obligations, and display advertising. We do not use your data to build a personal profile of you."
+        },
+        {
+          "h": "8. Legal Basis for Processing (GDPR)",
+          "p": "If you reside in the European Union, the legal bases on which we process your data are legitimate interest for technical data collected automatically, such as server logs, abuse protection, and cookie-free aggregated metrics, which we use to maintain and protect the service; consent for advertising cookies and identifiers, which in Europe are only loaded after you accept and which you can withdraw at any time; and performance of an agreement when you contact us, so we can respond to your request."
+        },
+        {
+          "h": "9. Sharing Information with Third Parties",
+          "p": "TiktMeta does not sell, rent, or trade your personal information. We only share information in limited circumstances: with the hosting and infrastructure providers needed to operate the site; with our advertising network, which may collect browsing data through cookies and identifiers to serve and measure ads; and with our security provider for invisible anti-bot verification, which processes technical signals such as your IP address for that purpose only.\n\nTo show you a post, our server queries TikTok's public page and, when needed, intermediary services, to which we only send the link you search for. Images and some downloads load directly from TikTok's servers and content delivery networks, which receive your IP address as on any visit to TikTok; other downloads may pass through our server, which relays them on the fly without storing them. We will also disclose information, including IP addresses and timestamps, in response to valid legal requests, and under our zero-tolerance policy we will proactively report any activity related to child sexual abuse material to law enforcement and organizations such as NCMEC."
+        },
+        {
+          "h": "10. Your Rights (CCPA)",
+          "p": "If you reside in California, the California Consumer Privacy Act grants you additional rights: the right to know what personal information we collect, use, and share; the right to request deletion of your personal information; the right to opt out, noting that TiktMeta does not sell your personal information but you may ask that your data not be used for personalized advertising; and the right to non-discrimination, meaning exercising these rights will not affect the quality of the service you receive. To exercise these rights, contact us through our contact page."
+        },
+        {
+          "h": "11. Data Security",
+          "p": "The security of your information matters to us. We implement industry-standard technical and organizational measures, including HTTPS/TLS encryption on all communications, restricted server access, and continuous monitoring for suspicious activity. However, no method of transmission over the Internet is fully secure, so we cannot guarantee absolute security."
+        },
+        {
+          "h": "12. Data Retention",
+          "p": "We retain personal data only for as long as necessary to fulfill the purposes for which it was collected. Contact data is kept until your inquiry is resolved and for a short period afterward for reference. Log data is kept for a maximum of 90 days and then deleted automatically. Download URLs are not stored; they are processed in real time and deleted immediately."
+        },
+        {
+          "h": "13. Your Rights (GDPR)",
+          "p": "If you are a resident of the European Union or the European Economic Area, you have the right of access to request a copy of the data we hold about you, the right to rectification of inaccurate or incomplete data, the right to erasure when it is no longer needed, the right to data portability in a structured, machine-readable format, the right to object to processing in certain circumstances, and the right to request restriction of processing in certain cases. To exercise any of these rights, contact us through our contact page; we will respond within 30 days. You also have the right to lodge a complaint with the competent data protection authority in your country."
+        },
+        {
+          "h": "14. Children's Privacy",
+          "p": "The Service is intended exclusively for people aged 18 or over, or the age of majority in their country. We do not knowingly collect personal information from anyone under 18. If you are a parent or guardian and discover that a minor has provided us with personal data, contact us and we will delete that information immediately."
+        },
+        {
+          "h": "15. International Data Transfers",
+          "p": "Our infrastructure providers, including server hosting and privacy-friendly analytics, may process data in the European Union and the United States. If you access the Service from another region, your data may be transferred to and processed in countries with data protection laws different from those of your country of residence. By using the Service, you consent to this transfer, and we implement standard contractual safeguards to ensure an adequate level of protection."
+        },
+        {
+          "h": "16. Links to Third-Party Sites",
+          "p": "Our site may contain links to other websites that we do not operate, including TikTok, social networks, and advertising services. We have no control over the content or privacy practices of those sites, and we recommend reviewing the privacy policy of every site you visit. TiktMeta is not responsible for the content, privacy policies, or practices of third-party websites."
+        },
+        {
+          "h": "17. Changes to This Privacy Policy",
+          "p": "We reserve the right to update this Privacy Policy at any time. Any changes will be posted on this page with a revised last-updated date. We encourage you to review this policy periodically to stay informed about how we protect your information. Continued use of the Service after changes are posted constitutes your acceptance of the revised policy."
+        },
+        {
+          "h": "18. Consent",
+          "p": "By using our website, you accept this Privacy Policy and consent to the processing of information as described in this document. If you do not agree with this policy, please do not use the Service."
+        },
+        {
+          "h": "Questions About Privacy?",
+          "p": "If you have any questions or concerns about this Privacy Policy or about how your personal data is handled, reach out through our contact page and we will be glad to help."
+        }
+      ],
+      "cta": {
+        "title": "Questions about privacy?",
+        "text": "Read the full policy above, or reach out through our contact page and we will respond within 30 days.",
+        "label": "Go to the Downloader"
+      }
+    },
+    "terms-of-service": {
+      "subtitle": "Last updated: November 27, 2026",
+      "intro": "Welcome to TiktMeta. By accessing and using our website and its associated services (the \"Service\"), you agree to be bound by these Terms of Service. If you do not agree with any part of them, do not use the Service.",
+      "sections": [
+        {
+          "h": "1. Eligibility",
+          "p": "To use the Service you must be at least 18 years old, or the age of majority in your country. The Service is not available where its use is prohibited by law. By accepting these terms, you represent that you meet this requirement and that you are legally able to enter into this agreement."
+        },
+        {
+          "h": "2. Description of the Service",
+          "p": "TiktMeta is a free web tool that lets users download videos and extract audio from the TikTok platform. The Service acts as a technical intermediary: it processes public TikTok links and returns the media file without adding watermarks. TiktMeta does not host, store, or redistribute content on its own servers beyond the time necessary to complete the download.\n\nThe Service is offered free of charge, \"as is\" and \"as available\". We reserve the right to modify, suspend, or discontinue any feature at any time, with or without notice."
+        },
+        {
+          "h": "3. License to Use",
+          "p": "We grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Service solely for personal, non-commercial purposes. This license does not allow you to reproduce, distribute, modify, or commercially exploit the Service or any of its components. We may revoke this license at any time and without notice if you breach these terms."
+        },
+        {
+          "h": "4. Acceptable Use",
+          "p": "By using TiktMeta, you agree to do so responsibly and in compliance with the law. You agree that:",
+          "steps": [
+            "You will use downloaded content only for personal, non-commercial use, unless you have express authorization from the rights holder.",
+            "It is your responsibility to verify that you have the necessary rights to download and use any content obtained through TiktMeta.",
+            "You will not redistribute, resell, or use downloaded content in any way that infringes the rights of third parties.",
+            "You will not use the Service for illegal, fraudulent, or malicious purposes.",
+            "You will not interfere with the operation of the Service, including through bots, crawlers, automated scripts, or any method that places excessive load on our infrastructure."
+          ]
+        },
+        {
+          "h": "5. User Conduct and Zero-Tolerance Policy",
+          "p": "The following is strictly and expressly prohibited:",
+          "steps": [
+            "Zero tolerance for child sexual abuse material: using the Service to download, process, view, or distribute any content that sexualizes or exploits minors is absolutely prohibited. TiktMeta does not condone, facilitate, or take part in such acts under any circumstances.",
+            "Using the Service to download protected content for the purpose of infringing copyright.",
+            "Creating competing services, replicas, or derivatives using our infrastructure or code.",
+            "Circumventing, disabling, or interfering with security measures, usage limits, or any technical restriction of the Service.",
+            "Sending mass automated requests, including scraping, data mining, or generating artificial traffic.",
+            "Impersonating others, tampering with identifiers, or falsifying the origin of requests.",
+            "Introducing viruses, malware, or any code designed to disrupt, damage, or limit the functionality of the Service or of third parties.",
+            "Using the Service to harass, threaten, or harm other users or third parties."
+          ],
+          "tip": "Legal notice and law enforcement cooperation: we reserve the right to monitor the Service, log IP addresses, and analyze activity to detect prohibited uses. If we detect downloads of content involving minors in unlawful situations, TiktMeta will permanently block the offender's access and will cooperate by providing logs, IP addresses, and timestamps to the competent law enforcement authorities and to international organizations for criminal prosecution."
+        },
+        {
+          "h": "6. Intellectual Property",
+          "p": "All content on the TiktMeta website, including the design, logos, text, graphics, source code, interfaces, and the TiktMeta brand, is the exclusive property of TiktMeta and is protected by intellectual property laws. Its reproduction, modification, or unauthorized use is prohibited.\n\nVideos downloaded through the Service belong to their respective creators or rights holders. TiktMeta claims no ownership over that content. TikTok and its logo are registered trademarks of ByteDance Ltd. TiktMeta is not affiliated with, sponsored by, or associated with TikTok or ByteDance."
+        },
+        {
+          "h": "7. Copyright Policy (DMCA)",
+          "p": "TiktMeta respects the intellectual property rights of third parties and complies with the Digital Millennium Copyright Act (DMCA). If you believe your content is being distributed without authorization through the Service, see our DMCA page to submit an infringement notice. We address valid notices within a maximum of 48 business hours."
+        },
+        {
+          "h": "8. Limitation of Liability",
+          "p": "The Service is provided \"AS IS\" and \"AS AVAILABLE\", without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that the Service will be uninterrupted, error-free, or secure. In no event shall TiktMeta be liable for:",
+          "steps": [
+            "Direct, indirect, incidental, special, or consequential damages arising from the use of, or inability to use, the Service.",
+            "The accuracy, completeness, or usefulness of the content processed.",
+            "Interruptions, errors, viruses, or harmful elements that may affect your device.",
+            "The content of downloaded videos, which is the sole responsibility of the original creators.",
+            "How users make use of content downloaded through the Service.",
+            "The content, policies, or practices of third-party websites linked from our site."
+          ],
+          "tip": "Your sole remedy for any dissatisfaction with the Service is to stop using it. In no event shall our total liability exceed 100 USD."
+        },
+        {
+          "h": "9. Indemnification",
+          "p": "You agree to defend, indemnify, and hold harmless TiktMeta, its owners, contributors, and affiliates from any claim, demand, loss, or expense (including reasonable attorneys' fees) arising from: (i) your use of the Service, (ii) your violation of these Terms, (iii) your infringement of third-party rights, or (iv) any content you download or share using the Service."
+        },
+        {
+          "h": "10. Advertising and Third-Party Links",
+          "p": "TiktMeta is supported by advertising. No ad is part of the download process: the download buttons are the ones shown in TiktMeta's results and never require interacting with advertising. Advertising may be personalized, and if you visit from Europe it only loads if you accept the notice, which you can change in the privacy settings in the page footer. See our Privacy Policy for more information about cookies and advertising. We have no control over the content of ads displayed by third parties."
+        },
+        {
+          "h": "11. Privacy",
+          "p": "Your use of the Service is subject to our Privacy Policy, which forms part of these Terms. By using TiktMeta, you accept the practices described in that policy."
+        },
+        {
+          "h": "12. Changes to the Terms",
+          "p": "We may modify these Terms at any time. Changes will be posted on this page with a revised last-updated date. It is your responsibility to review them periodically. Continued use of the Service after any change constitutes your acceptance of the new terms."
+        },
+        {
+          "h": "13. Governing Law and Jurisdiction",
+          "p": "These Terms are governed by the laws of the Dominican Republic. Any dispute shall be submitted to the exclusive jurisdiction of its competent courts. You expressly waive any objection based on inconvenient forum."
+        },
+        {
+          "h": "14. Severability",
+          "p": "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect."
+        },
+        {
+          "h": "15. Entire Agreement",
+          "p": "These Terms constitute the entire agreement between you and TiktMeta regarding the use of the Service and supersede any prior agreements. A waiver of one provision does not constitute a waiver of any other."
+        },
+        {
+          "h": "Contact",
+          "p": "If you have questions about these Terms, write to us through our contact page. We aim to respond to every legitimate inquiry within 48 hours."
+        }
+      ],
+      "cta": {
+        "title": "Questions about the Terms?",
+        "text": "Read the full terms above, or reach out through our contact page and we will be glad to help.",
+        "label": "Go to the Downloader"
+      }
+    },
+    "dmca": {
+      "subtitle": "Last updated: November 27, 2026",
+      "intro": "TiktMeta respects the intellectual property rights of third parties and complies with the Digital Millennium Copyright Act (DMCA). This page explains how to submit an infringement notice, how we respond, and how to file a counter-notification.",
+      "sections": [
+        {
+          "h": "1. Our Policy",
+          "p": "TiktMeta respects the intellectual property rights of third parties and complies with the Digital Millennium Copyright Act (DMCA). Our service acts as a technical intermediary: it processes public TikTok links and only returns the official media addresses from which your browser downloads or displays the content. TiktMeta does not host, store, or retransmit media on its own servers.\n\nIf you are a rights holder and believe our service facilitates unauthorized access to your content, you may send us an infringement notice following the procedure described below. We take every valid notice seriously and act on it promptly."
+        },
+        {
+          "h": "2. How to Submit an Infringement Notice",
+          "p": "To submit an infringement notice, write to us through our contact page with the subject \"DMCA Notice\". Your notice must include:",
+          "steps": [
+            "Identification of the copyrighted work you claim has been infringed.",
+            "Identification of the infringing material and its location (URL) on our site.",
+            "Your contact information: name, address, email, and phone number.",
+            "A statement of good faith that the use is not authorized by the rights holder.",
+            "A statement under penalty of perjury that the information in the notice is accurate and that you are authorized to act on behalf of the owner.",
+            "Your physical or electronic signature."
+          ]
+        },
+        {
+          "h": "3. How We Respond",
+          "p": "We will address all valid notices within a maximum of 48 business hours. Upon receiving a valid notice, we will block the post in the Service so that it can no longer be resolved and no download is offered.\n\nAs part of our repeat infringer policy, we will permanently block access to the Service, by IP address and other technical identifiers, for anyone who accumulates three valid notices within a six-month period."
+        },
+        {
+          "h": "4. Counter-Notification",
+          "p": "If you believe the material that was removed was taken down by mistake or misidentification, you may send a counter-notification through our contact page. It must include your signature, identification of the removed material, a statement under penalty of perjury that you acted in good faith, and your contact information so the rights holder can respond. We will evaluate each counter-notification and restore the material if appropriate."
+        },
+        {
+          "h": "Contact",
+          "p": "For any copyright-related inquiry, reach out through our contact page. We aim to respond to every legitimate notice within 48 business hours."
+        }
+      ],
+      "cta": {
+        "title": "Need to file a notice?",
+        "text": "Read the instructions above, then reach out through our contact page with the subject \"DMCA Notice\".",
+        "label": "Go to the Downloader"
+      }
+    },
+    "cookie-policy": {
+      "subtitle": "Last updated: November 27, 2026",
+      "intro": "This Cookie Policy describes the storage technologies used by TiktMeta, why we use them, and the choices you have to control them. It should be read together with our Privacy Policy, which covers how we handle personal data in general.",
+      "sections": [
+        {
+          "h": "1. What Are Cookies?",
+          "p": "A cookie is a small text file that a website places in your browser when you visit it. Its job is to let the site remember something between one visit and the next, such as a preference you selected or the fact that you already passed a security check. Cookies can be session cookies, deleted when you close the browser, or persistent cookies, kept for a set period, and they can be first-party, set by TiktMeta, or third-party, set by another service that loads on our page.\n\nAlongside cookies there are similar technologies such as localStorage, a storage area built into the browser that works in a comparable way but is not sent to the server with every request. Throughout this policy we use the word cookies to refer to all of these technologies together."
+        },
+        {
+          "h": "2. How TiktMeta Uses Cookies",
+          "p": "TiktMeta is a simple tool: it needs no account, builds no user profiles, and uses only a short-lived technical cookie of its own, the anti-bot verification pass. The list below describes everything that may be stored on your device when you use the site:",
+          "steps": [
+            "Consent record (localStorage, first-party): remembers whether you accepted or rejected advertising, so we do not ask again on every page. Outside Europe, it remembers that you have already seen the cookie notice. Duration: 12 months.",
+            "Verification pass (cookie, HttpOnly, first-party): once the security check confirms your browser is not a bot, it saves you from repeating the check on every search. It only works for your connection and browser. Duration: 30 minutes.",
+            "Pass expiry (localStorage, first-party): remembers when that pass expires, so the verification is not loaded while it is still valid. Duration: 30 minutes.",
+            "Security check (third-party, set by our security provider): an invisible anti-bot check in the download tool that analyzes technical signals from your browser and device to tell people apart from automated programs. Duration: set by the provider.",
+            "Advertising cookies and identifiers (third parties, vary by campaign): show ads, limit how often you see the same one, measure performance, and detect fraud. In Europe they are only stored if you accept. Duration: set by the advertising provider.",
+            "Analytics (third-party): aggregated usage metrics such as page views and load times, measured without cookies or user identifiers."
+          ],
+          "tip": "The security check runs in invisible mode: it asks nothing of you and is only used to protect the search against bots. Our security and analytics providers process that data in accordance with their own privacy policies."
+        },
+        {
+          "h": "3. Cookie Categories",
+          "p": "We group the storage we use into three categories. Essential storage is required for the site to work and to protect it: the record of your advertising choice and the anti-bot verification pass, created when the security check confirms your browser is not a bot. These do not require your consent because they are needed to respect your decision and to keep the service secure.\n\nAnalytics storage helps us understand how TiktMeta is used, such as which pages get the most visits and how quickly the site loads. We use privacy-friendly analytics that work with aggregated data and do not set cookies or track individual users across websites.\n\nAdvertising storage is set by our advertising network, which lets us display ads and cover our server and domain costs. It is used to measure ad performance, avoid showing you the same ad too many times, and, according to the provider, tailor ads to your interests. If you visit from Europe, it is not loaded until you accept."
+        },
+        {
+          "h": "4. Consent Notice (Europe)",
+          "p": "If you visit TiktMeta from the European Union, the European Economic Area, the United Kingdom, or Turkey, based on your device's time zone or the country you connect from, we show a notice with Accept and Reject buttons of equal prominence. Until you choose, no ad is loaded and no advertising cookie is stored. Simply browsing the site does not count as consent. In this policy we refer to these countries as Europe.\n\nIf you accept, we load advertising. If you reject, it is not loaded and we do not ask you again for 12 months. In the rest of the world ads always load and we show a one-time informational notice; if you do not want advertising cookies, you can block them in your browser settings or use an ad blocker. Your choice is stored in your browser and you can change it whenever you like with the Privacy settings link in the page footer. If you withdraw consent, we reload the page so ads stop loading, and any cookies already stored can be deleted from your browser settings."
+        },
+        {
+          "h": "5. Your Consent and How to Change It",
+          "p": "TiktMeta does not ask for permission to show you notifications. If you granted that permission earlier, you can revoke it at any time from your browser settings.\n\nYou can change your advertising choice at any time from the Privacy settings link in the footer, and delete any existing cookies from your browser settings. Legal basis: if you are in the European Union, advertising cookies are used on the basis of your consent, while essential cookies rely on our legitimate interest in providing a secure, working service. Where local law requires clear information and prior consent for non-exempt cookies, we follow it."
+        },
+        {
+          "h": "6. Managing Cookies in Your Browser",
+          "p": "Every modern browser lets you view, block, and delete cookies from its settings. Keep in mind that if you block your browser's local storage, we cannot remember your choice, and the notice will appear again on your visits from Europe. You can manage cookies from the settings of Google Chrome, Mozilla Firefox, Apple Safari, or Microsoft Edge; each browser provides official instructions for viewing, blocking, and deleting site data."
+        },
+        {
+          "h": "7. Third-Party Cookies and External Links",
+          "p": "Data handling by our advertising and analytics providers is governed by those companies' own privacy policies, over which TiktMeta has no control. Likewise, our site links to external pages, including TikTok, social networks, and help resources, that may set their own cookies when you visit them. We encourage you to review the cookie policy of any site you reach from TiktMeta."
+        },
+        {
+          "h": "8. Changes to This Policy",
+          "p": "We may update this Cookie Policy when we add new services, when our providers change the cookies they use, or when the law requires it. The current version will always be published on this page with its last-updated date. If the changes are significant, we will show you the consent message again."
+        },
+        {
+          "h": "9. Contact",
+          "p": "If you have any questions about how TiktMeta uses cookies, reach out through our contact page and we will be glad to help."
+        }
+      ],
+      "cta": {
+        "title": "Questions about cookies?",
+        "text": "Read the full policy above, or reach out through our contact page and we will respond promptly.",
+        "label": "Go to the Downloader"
+      }
+    }
+  },
+  "faqPage": [
+    [
+      "Is it free to download TikTok videos?",
+      "Yes. TiktMeta is 100% free with no sign-up and no subscriptions."
+    ],
+    [
+      "Do I need to install an app?",
+      "No. It works in any modern browser on iPhone, Android, Windows, Mac and Linux."
+    ],
+    [
+      "What quality do I get?",
+      "Whatever the creator uploaded — we never re-compress or upscale."
+    ],
+    [
+      "Is it safe and private?",
+      "We store nothing you download; files go straight from TikTok to your device."
+    ],
+    [
+      "Can I download private or deleted videos?",
+      "No. We only access content TikTok serves publicly."
+    ]
+  ],
+  "home": {
+    "features": [
+      {
+        "icon": "video",
+        "title": "No Watermark",
+        "text": "You get the creator's original version — the same clean file TikTok plays inside the app, not the logo-stamped copy the Save button generates. It is ready for your personal archive or for re-editing your own content, with no overlay to crop or cover."
+      },
+      {
+        "icon": "zap",
+        "title": "HD Quality",
+        "text": "The file downloads exactly as it was published, with no re-compression. If the creator uploaded 1080p, you get 1080p; if they filmed in 720p, that is the real ceiling. What you see in the app is what you save, with no intermediate step to degrade the image."
+      },
+      {
+        "icon": "user-check",
+        "title": "Free, No Sign-up",
+        "text": "No accounts, no subscriptions, no per-download charges. Save your content as many times as you need, always free. We only apply a light anti-abuse protection that normal use never notices, so the tool stays fast and available for everyone."
+      },
+      {
+        "icon": "globe",
+        "title": "Works Everywhere",
+        "text": "iPhone, Android, Windows, Mac, Linux, and Chromebook. Any modern browser works, with no apps or extensions to install. The same interface covers every device, so you are never tied to a single platform or operating system."
+      },
+      {
+        "icon": "shield",
+        "title": "Privacy First",
+        "text": "We store nothing you download. No videos, no history, no searches. The file travels straight from TikTok's servers to your device, and when you close the tab there is no record of what you looked up. That protects your privacy and makes downloads faster too."
+      },
+      {
+        "icon": "file-text",
+        "title": "Video to Text",
+        "text": "Paste a link and read what is said in the video, taken from TikTok's captions. Copy the text or download it as TXT, or as SRT with timestamps for subtitles. It is a quick way to quote, study, or make a video accessible without watching it."
+      }
+    ],
+    "guide": {
+      "title": "Guide to Download TikTok Videos Without Watermark",
+      "lead": "Everything you need to know, in plain language and without fluff.",
+      "sections": [
+        {
+          "h": "Why Save TikTok Videos?",
+          "p": "The most common case is creators themselves. They want a copy of their own videos in original quality to repost on Reels or Shorts without another platform's logo stamped on top, or simply to keep a backup in case they ever lose access to their account. TikTok does not offer a convenient way to export your own content clean, and a downloader fills that gap.\n\nThere are everyday uses too. Teachers save material to play in class without relying on Wi-Fi, people collect recipes, workout routines, or tutorials, and anyone who wants to keep a reference video before its author deletes it. That is the whole idea: paste a link, search, download."
+        },
+        {
+          "h": "Download Without Watermark",
+          "p": "Here is the detail almost nobody explains. When you use the Save video button inside the app, TikTok generates a copy with the logo and @username burned into the picture. But the version that plays inside the app — the one the creator actually uploaded — does not carry that layer. A downloader locates precisely that original file and delivers it as is: no re-encoding, no cropping, nothing added.\n\nThat is why no watermark does not mean erasing the logo with editing tricks, which always leaves smudges or blurry patches. It means you download the clean version that already existed on TikTok's servers. The video comes out ready to edit, archive, or whatever you need."
+        },
+        {
+          "h": "Works in the US, the UK and Everywhere Else",
+          "p": "United States, United Kingdom, Canada, Australia, Ireland, New Zealand, the Philippines, and every other country where TikTok serves the content. It works on your phone (iPhone or Android) or your computer (Windows PC, Mac, or Chromebook). We apply no geo-blocks and no per-region limits.\n\nThe one exception is a creator who restricted their video to certain countries. That restriction stays in place, because it comes from TikTok, not from us. Everything else is open, so you can download from wherever you are."
+        },
+        {
+          "h": "How It Works Under the Hood",
+          "p": "No mystery here. When you paste a link, the tool looks up the post the same way your browser would and reads the data TikTok exposes publicly so the post can play. Among that data is the address of the original video file — the very same one the app streams when you watch the TikTok.\n\nThe tool hands you that file as is, without re-compressing or re-encoding it, which is why the quality is identical to the app's. We do not process the video; we just bring you something that was already publicly reachable. This also explains the limits: if TikTok does not serve a piece of content openly, we cannot deliver it either."
+        },
+        {
+          "h": "What Quality Do You Actually Get?",
+          "p": "Whatever the creator uploaded, no more and no less. TikTok stores videos as MP4 with the H.264 codec, usually in vertical 1080 by 1920 when posted from a recent phone. The tool locates the best available version of that file, and that is the one you download, with no intermediate steps to degrade the image.\n\nNow the honest part. If the creator filmed in 720p, posted from a third-party app, or TikTok re-compressed the upload, there is no 1080p copy on any server. No downloader can enhance a video beyond its original, and anyone promising that is just upscaling the image, which only inflates the file size and blurs it."
+        },
+        {
+          "h": "What It Cannot Do",
+          "p": "Private videos or private accounts: no, and it is deliberate, not a technical limitation we plan to fix. We only access what TikTok serves publicly without logging in. If a creator restricts their content, that decision is respected. Deleted content is the same: if the video is no longer on TikTok, there is no file left to download, because we keep copies of nothing.\n\nWe also do not bypass age or region restrictions placed on a video, and we do not invent resolution the original never had. These are not bugs to work around; they are the boundaries that keep the tool honest and safe."
+        },
+        {
+          "h": "Use It Responsibly",
+          "p": "The content you download is still its creator's work. If you share it, give credit: including their @ in the caption is a simple gesture that makes a difference. If it is for commercial use — ads, brand accounts, monetized content — ask for permission first; most creators reply to a direct message.\n\nFor personal or educational use, download away. The tool only works with public content, and we do not promote copyright infringement. Common sense, that is all."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "lead": "Answers on quality, privacy, limits, and legal use.",
+      "items": [
+        [
+          "Is it legal to download TikTok videos?",
+          "The tool only lets you download public TikTok content — the same content anyone can watch without logging in. Saving a video for personal use, such as watching it offline or keeping it as a reference, is a widespread practice. What can infringe copyright is reposting someone else's content as your own or exploiting it commercially without permission. The advice is always the same: personal use, credit the author if you share, and get the creator's explicit permission when commercial use is involved."
+        ],
+        [
+          "Do I need to create an account or install anything?",
+          "No. Everything is web-based and works directly from your browser. You do not need to sign up, install extensions, or download any program. Just paste the link and download. This keeps things simple and avoids the broad permissions that some apps request."
+        ],
+        [
+          "Do you store my videos on your servers?",
+          "No. The file travels straight from TikTok's servers to your device, and no video or image is stored on ours. We keep no search or download history either, so when you close the tab there is no record of what you looked up. That protects your privacy and makes downloads faster too."
+        ],
+        [
+          "What quality are the videos downloaded in?",
+          "The highest quality that exists for that video, usually 1080p if the creator uploaded it that way. We do not re-compress or upscale: the file you receive is the same one TikTok plays in the app. If the original was posted in 720p or lower, that is the quality available, and no downloader can invent resolution a video never had."
+        ],
+        [
+          "Does it work in the US and other countries?",
+          "Yes. It works without restrictions in the United States, the United Kingdom, Canada, Australia, and every other country where TikTok serves the video publicly. It runs in the browser on iPhone, Android, Windows, Mac, and Chromebook, with no geo-blocks or download limits by region. The only exception is a creator's own country restriction, which comes from TikTok."
+        ],
+        [
+          "What do I do if the download does not start?",
+          "First, check that the link points to a specific post, not a profile, and that the video is public. On iPhone, use Safari, since it is the browser that handles downloads on iOS. If your browser warns that it blocked an automatic download, allow it from the notice next to the address bar. If none of that works, copy the link again from TikTok's Share button and try once more; the short vm.tiktok.com and vt.tiktok.com links work too."
+        ],
+        [
+          "Why is a video sometimes only available with a watermark?",
+          "Because in some cases TikTok only exposes the logo-stamped copy of a particular video publicly. It happens with certain older videos, with restrictions the creator turned on, or with occasional changes in how TikTok serves its files. When that happens, the tool offers the best version that actually exists at that moment, instead of trying to erase the logo with editing, which always degrades the image. Sometimes it resolves itself if you copy the link again from the app or try a while later."
+        ],
+        [
+          "Does it work with private videos or private accounts?",
+          "No, and it is a deliberate decision, not a technical gap we plan to fix. The tool only accesses what TikTok serves publicly without logging in. If a creator set their account to private or limited a video to friends, that privacy setting is respected. The same goes for deleted videos: since we keep copies of nothing, if the content is no longer on TikTok, there is nothing to download."
+        ]
+      ]
+    },
+    "responsible": "The tool makes it easy to download public content from TikTok. Users are responsible for complying with copyright laws and TikTok's terms of service. We recommend using downloaded content for personal use, giving credit to the original creator, or requesting permission for commercial use. We do not promote copyright infringement.",
+    "featuresTitle": "Why Choose TiktMeta?"
+  },
+  "toolPage": {
+    "features": [
+      {
+        "icon": "zap",
+        "label": "Original Quality",
+        "text": "The file exactly as published, with no re-encoding."
+      },
+      {
+        "icon": "video",
+        "label": "No Watermark",
+        "text": "The creator’s clean upload, without the logo or @username."
+      },
+      {
+        "icon": "user-check",
+        "label": "Free & No Sign-up",
+        "text": "No accounts, no subscriptions, no per-download fees."
+      },
+      {
+        "icon": "globe",
+        "label": "Works Everywhere",
+        "text": "Any modern browser on iPhone, Android, PC, Mac, and Chromebook."
+      }
+    ],
+    "compat": {
+      "title": "Compatibility",
+      "lead": "TiktMeta is a web tool: it works on any device with a modern browser. There are no versions to install and no differences between platforms.",
+      "items": [
+        [
+          "iPhone and iPad",
+          "Safari recommended"
+        ],
+        [
+          "Android",
+          "Chrome or any browser"
+        ],
+        [
+          "Windows",
+          "Edge, Chrome, or Firefox"
+        ],
+        [
+          "Mac",
+          "Safari or Chrome"
+        ],
+        [
+          "Linux",
+          "Firefox or Chrome"
+        ],
+        [
+          "Tablets",
+          "Same experience as mobile"
+        ]
+      ]
+    },
+    "responsible": "TiktMeta makes it easy to download public content from TikTok. Users are responsible for complying with copyright laws and TikTok’s terms of service. We recommend using downloaded content for personal use, giving credit to the original creator, or requesting permission for commercial use. We do not promote copyright infringement."
+  }
+}
