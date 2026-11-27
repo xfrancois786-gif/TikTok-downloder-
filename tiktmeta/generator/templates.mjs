@@ -8,6 +8,7 @@ import { icon, CATEGORY_ICON } from './icons.mjs';
 
 const SITE = 'TiktMeta';
 const DOMAIN = (process.env.SITE_DOMAIN || 'https://tiktmeta.com').replace(/\/$/, '');
+const ASSET_V = process.env.ASSET_V || String(Date.now());
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -164,8 +165,8 @@ function shell({ title, description, locale, route, jsonLd, body, script = true 
   </main>
   ${footer(locale)}
   <script>window.TIKTMETA_API="https://tiktmeta-api.xfrancois786.workers.dev";</script>
-  <script src="/assets/js/main.js" defer></script>
-  ${script ? '<script src="/assets/js/downloader.js" defer></script>' : ''}
+  <script src="/assets/js/main.js?v=${ASSET_V}" defer></script>
+  ${script ? '<script src="/assets/js/downloader.js?v=' + ASSET_V + '" defer></script>' : ''}
 </body>
 </html>`;
 }
