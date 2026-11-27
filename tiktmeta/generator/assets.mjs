@@ -73,9 +73,15 @@ a{color:#ff5c7a;text-decoration:none}a:hover{text-decoration:underline}
 .dl-cap{font-size:13px;line-height:1.35;margin:6px 0;word-break:break-word}
 .dl-stats{color:var(--muted);font-size:12px;margin-top:6px}
 .dl-opts{display:flex;flex-direction:column;gap:8px;margin-top:14px}
-.dl-opt{display:flex;justify-content:space-between;align-items:center;gap:10px;width:100%;text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;font:inherit;color:inherit}
+.dl-opt{display:flex;justify-content:flex-start;align-items:center;gap:12px;width:100%;text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px 14px;cursor:pointer;font:inherit;color:inherit;position:relative;overflow:hidden}
 .dl-opt:hover{border-color:var(--brand)}
 .dl-opt small{color:var(--muted);font-size:12px}
+.dl-ico{flex:none;color:var(--brand);display:inline-flex}
+.dl-label{flex:1;min-width:0}
+.dl-opt.is-loading .dl-ico{color:var(--muted)}
+.dl-bar{position:absolute;left:0;bottom:0;height:3px;width:100%;background:transparent}
+.dl-opt.is-loading .dl-bar{background:var(--line)}
+.dl-fill{display:block;height:100%;width:0;background:var(--brand);transition:width .15s}
 @media(max-width:820px){.feature-strip{grid-template-columns:1fr 1fr}.compat-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.feature-strip,.compat-grid{grid-template-columns:1fr}}
 .cta{text-align:center}
@@ -171,15 +177,36 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
     var a=document.createElement('a'); a.href=obj; a.download=name; document.body.appendChild(a); a.click();
     setTimeout(function(){ URL.revokeObjectURL(obj); a.remove(); },1500);
   }
+  var DL_ICON='<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M5 21h14"/></svg>';
   // Try each candidate URL in order; blob-download the first that passes CORS.
   function download(cands,label,btn){
     var list=cands.filter(Boolean); if(!list.length){return;}
-    var old=btn.textContent; btn.disabled=true; btn.textContent='Downloading...';
+    var old=btn.innerHTML;
+    var bar=btn.querySelector('.dl-bar'); var fill=btn.querySelector('.dl-fill'); var txt=btn.querySelector('.dl-label');
+    btn.disabled=true; btn.classList.add('is-loading');
+    if(txt)txt.textContent='Downloading...';
+    function reset(){ btn.disabled=false; btn.classList.remove('is-loading'); btn.innerHTML=old; }
     function attempt(i){
-      if(i>=list.length){ btn.textContent=old; btn.disabled=false; window.open(list[0],'_blank','noopener'); return; }
-      fetch(list[i],{mode:'cors'}).then(function(r){ if(!r.ok)throw new Error('HTTP '+r.status); return r.blob(); })
-        .then(function(blob){ saveBlob(blob,fileName(list[i],label)); btn.textContent='Downloaded'; setTimeout(function(){ btn.textContent=old; btn.disabled=false; },1600); })
-        .catch(function(){ attempt(i+1); });
+      if(i>=list.length){ reset(); window.open(list[0],'_blank','noopener'); return; }
+      fetch(list[i],{mode:'cors'}).then(function(r){
+        if(!r.ok)throw new Error('HTTP '+r.status);
+        var total=Number(r.headers.get('content-length'))||0;
+        if(!r.body||!window.ReadableStream){ return r.blob().then(function(b){ done(b); }); }
+        var reader=r.body.getReader(); var chunks=[]; var got=0;
+        function pump(){ return reader.read().then(function(res){
+          if(res.done){ done(new Blob(chunks)); return; }
+          chunks.push(res.value); got+=res.value.length;
+          if(fill&&total){ fill.style.width=Math.min(100,Math.round(got/total*100))+'%'; }
+          return pump();
+        }); }
+        return pump();
+      }).then(function(){},function(){ attempt(i+1); });
+      function done(blob){
+        saveBlob(blob,fileName(list[i],label));
+        if(fill){ fill.style.width='100%'; }
+        if(txt)txt.textContent='Downloaded';
+        setTimeout(reset,1600);
+      }
     }
     attempt(0);
   }
@@ -210,7 +237,7 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
       {label:'HD \\u00b7 Original quality',note:d.hd_size?fmtSize(d.hd_size):'',cands:[d.hdplay,d.play]},
       d.music?{label:'MP3 audio',note:'',cands:[d.music]}:null
     ].filter(Boolean);
-    card+='<div class="dl-opts">'+model.map(function(b,i){return '<button type="button" class="dl-opt" data-i="'+i+'"><span>'+esc(b.label)+(b.note?'<small>\\u00b7 '+esc(b.note)+'</small>':'')+'</span></button>';}).join('')+'</div>';
+    card+='<div class="dl-opts">'+model.map(function(b,i){return '<button type="button" class="dl-opt" data-i="'+i+'"><span class="dl-ico">'+DL_ICON+'</span><span class="dl-label">'+esc(b.label)+(b.note?'<small>\\u00b7 '+esc(b.note)+'</small>':'')+'</span><span class="dl-bar"><span class="dl-fill"></span></span></button>';}).join('')+'</div>';
     card+='</div>';
     show(card);
     if(result){
