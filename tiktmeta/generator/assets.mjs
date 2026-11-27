@@ -172,7 +172,7 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
     if(d&&d.ok===false){ show('<p>'+esc(d.error||'Could not fetch this link.')+'</p>'); return; }
     var cover=d.cover||d.origin_cover||''; var title=d.title||''; var author=(d.author&&d.author.unique_id)||'';
     var preview='';
-    if(cover){ preview='<div class="dl-preview"><img src="'+esc(cover)+'" alt="'+esc(title||'preview')+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'+(title?'<div class="dl-meta"><strong>'+esc(title)+'</strong>'+(author?'<small>@'+esc(author)+'</small>':'')+'</div>':'')+'</div>'; }
+    if(cover){ preview='<div class="dl-preview"><img src="'+esc(cover)+'" alt="'+esc(title||'preview')+'" loading="lazy" referrerpolicy="no-referrer">'+(title?'<div class="dl-meta"><strong>'+esc(title)+'</strong>'+(author?'<small>@'+esc(author)+'</small>':'')+'</div>':'')+'</div>'; }
     var model=[
       {label:'Download HD (no watermark)',cands:[d.hdplay,d.play]},
       {label:'Download (no watermark)',cands:[d.play]}
@@ -180,7 +180,7 @@ export const DL_JS = `// TiktMeta downloader: clipboard auto-detect + auto-fetch
     if(d.music) model.push({label:'Download MP3',cands:[d.music]});
     var btns=model.map(function(b,i){return '<button type="button" class="dl-btn" style="margin:4px" data-i="'+i+'">'+esc(b.label)+'</button>';}).join('');
     show((preview+btns)||'<p>No download links returned. Try another public TikTok link.</p>');
-    if(result){ result.querySelectorAll('button.dl-btn').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; download(m.cands,m.label,b); }); }); }
+    if(result){ result.querySelectorAll('button.dl-btn').forEach(function(b){ b.addEventListener('click',function(){ var m=model[+b.getAttribute('data-i')]; download(m.cands,m.label,b); }); }); var im=result.querySelector('.dl-preview img'); if(im){ im.addEventListener('error',function(){ im.style.display='none'; }); } }
   }
   function analyze(){
     var url=(input.value||'').trim(); if(!url){return;}
