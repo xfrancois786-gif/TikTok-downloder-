@@ -7,7 +7,7 @@ import { MIN_CSS } from './assets.mjs';
 import { icon, CATEGORY_ICON } from './icons.mjs';
 
 const SITE = 'TiktMeta';
-const DOMAIN = 'https://tiktmeta.com';
+const DOMAIN = (process.env.SITE_DOMAIN || 'https://tiktmeta.com').replace(/\/$/, '');
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');

@@ -11,7 +11,7 @@ import { CSS, MAIN_JS, DL_JS, LOGO, OG, HERO, JPG_B64, MIN_CSS, MIN_MAIN_JS, MIN
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dirname, '..', 'frontend');
-const DOMAIN = 'https://tiktmeta.com';
+const DOMAIN = (process.env.SITE_DOMAIN || 'https://tiktmeta.com').replace(/\/$/, '');
 
 const args = process.argv.slice(2);
 const only = args.includes('--all') ? null : (args.find((a) => a.startsWith('--locale='))?.split('=')[1] || DEFAULT_LOCALE);
